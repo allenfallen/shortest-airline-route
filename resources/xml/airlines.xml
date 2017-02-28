@@ -1,0 +1,6963 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<airlines>
+    <airline>
+        <airlineid>3</airlineid>
+        <name>1Time Airline</name>
+        <iata>1T</iata>
+        <icao>RNX</icao>
+    </airline>
+    <airline>
+        <airlineid>10</airlineid>
+        <name>40-Mile Air</name>
+        <iata>Q5</iata>
+        <icao>MLA</icao>
+    </airline>
+    <airline>
+        <airlineid>13</airlineid>
+        <name>Ansett Australia</name>
+        <iata>AN</iata>
+        <icao>AAA</icao>
+    </airline>
+    <airline>
+        <airlineid>14</airlineid>
+        <name>Abacus International</name>
+        <iata>1B</iata>
+        <icao></icao>
+    </airline>
+    <airline>
+        <airlineid>21</airlineid>
+        <name>Aigle Azur</name>
+        <iata>ZI</iata>
+        <icao>AAF</icao>
+    </airline>
+    <airline>
+        <airlineid>22</airlineid>
+        <name>Aloha Airlines</name>
+        <iata>AQ</iata>
+        <icao>AAH</icao>
+    </airline>
+    <airline>
+        <airlineid>24</airlineid>
+        <name>American Airlines</name>
+        <iata>AA</iata>
+        <icao>AAL</icao>
+    </airline>
+    <airline>
+        <airlineid>28</airlineid>
+        <name>Asiana Airlines</name>
+        <iata>OZ</iata>
+        <icao>AAR</icao>
+    </airline>
+    <airline>
+        <airlineid>29</airlineid>
+        <name>Askari Aviation</name>
+        <iata>4K</iata>
+        <icao>AAS</icao>
+    </airline>
+    <airline>
+        <airlineid>32</airlineid>
+        <name>Afriqiyah Airways</name>
+        <iata>8U</iata>
+        <icao>AAW</icao>
+    </airline>
+    <airline>
+        <airlineid>35</airlineid>
+        <name>Allegiant Air</name>
+        <iata>G4</iata>
+        <icao>AAY</icao>
+    </airline>
+    <airline>
+        <airlineid>39</airlineid>
+        <name>Aban Air</name>
+        <iata>K5</iata>
+        <icao>ABE</icao>
+    </airline>
+    <airline>
+        <airlineid>42</airlineid>
+        <name>ABSA - Aerolinhas Brasileiras</name>
+        <iata>M3</iata>
+        <icao>TUS</icao>
+    </airline>
+    <airline>
+        <airlineid>55</airlineid>
+        <name>Astral Aviation</name>
+        <iata>8V</iata>
+        <icao>ACP</icao>
+    </airline>
+    <airline>
+        <airlineid>68</airlineid>
+        <name>Air Tindi</name>
+        <iata>8T</iata>
+        <icao></icao>
+    </airline>
+    <airline>
+        <airlineid>72</airlineid>
+        <name>Ada Air</name>
+        <iata>ZY</iata>
+        <icao>ADE</icao>
+    </airline>
+    <airline>
+        <airlineid>83</airlineid>
+        <name>Adria Airways</name>
+        <iata>JP</iata>
+        <icao>ADR</icao>
+    </airline>
+    <airline>
+        <airlineid>90</airlineid>
+        <name>Air Europa</name>
+        <iata>UX</iata>
+        <icao>AEA</icao>
+    </airline>
+    <airline>
+        <airlineid>93</airlineid>
+        <name>Aero Benin</name>
+        <iata>EM</iata>
+        <icao>AEB</icao>
+    </airline>
+    <airline>
+        <airlineid>96</airlineid>
+        <name>Aegean Airlines</name>
+        <iata>A3</iata>
+        <icao>AEE</icao>
+    </airline>
+    <airline>
+        <airlineid>106</airlineid>
+        <name>Air Europe</name>
+        <iata>PE</iata>
+        <icao>AEL</icao>
+    </airline>
+    <airline>
+        <airlineid>109</airlineid>
+        <name>Alaska Central Express</name>
+        <iata>KO</iata>
+        <icao>AER</icao>
+    </airline>
+    <airline>
+        <airlineid>110</airlineid>
+        <name>ACES Colombia</name>
+        <iata></iata>
+        <icao>AES</icao>
+    </airline>
+    <airline>
+        <airlineid>112</airlineid>
+        <name>Astraeus</name>
+        <iata>5W</iata>
+        <icao>AEU</icao>
+    </airline>
+    <airline>
+        <airlineid>114</airlineid>
+        <name>Aerosvit Airlines</name>
+        <iata>VV</iata>
+        <icao>AEW</icao>
+    </airline>
+    <airline>
+        <airlineid>116</airlineid>
+        <name>Air Italy</name>
+        <iata>I9</iata>
+        <icao>AEY</icao>
+    </airline>
+    <airline>
+        <airlineid>120</airlineid>
+        <name>Alliance Airlines</name>
+        <iata>QQ</iata>
+        <icao>UTY</icao>
+    </airline>
+    <airline>
+        <airlineid>125</airlineid>
+        <name>Ariana Afghan Airlines</name>
+        <iata>FG</iata>
+        <icao>AFG</icao>
+    </airline>
+    <airline>
+        <airlineid>130</airlineid>
+        <name>Aeroflot Russian Airlines</name>
+        <iata>SU</iata>
+        <icao>AFL</icao>
+    </airline>
+    <airline>
+        <airlineid>132</airlineid>
+        <name>Air Bosna</name>
+        <iata>JA</iata>
+        <icao>BON</icao>
+    </airline>
+    <airline>
+        <airlineid>137</airlineid>
+        <name>Air France</name>
+        <iata>AF</iata>
+        <icao>AFR</icao>
+    </airline>
+    <airline>
+        <airlineid>139</airlineid>
+        <name>Air Caledonie International</name>
+        <iata>SB</iata>
+        <icao>ACI</icao>
+    </airline>
+    <airline>
+        <airlineid>146</airlineid>
+        <name>Air Salone</name>
+        <iata>2O</iata>
+        <icao></icao>
+    </airline>
+    <airline>
+        <airlineid>149</airlineid>
+        <name>Air Cargo Carriers</name>
+        <iata>2Q</iata>
+        <icao>SNC</icao>
+    </airline>
+    <airline>
+        <airlineid>153</airlineid>
+        <name>Air Namibia</name>
+        <iata>SW</iata>
+        <icao>NMB</icao>
+    </airline>
+    <airline>
+        <airlineid>165</airlineid>
+        <name>Aerolitoral</name>
+        <iata>5D</iata>
+        <icao>SLI</icao>
+    </airline>
+    <airline>
+        <airlineid>174</airlineid>
+        <name>Air Glaciers</name>
+        <iata>7T</iata>
+        <icao>AGV</icao>
+    </airline>
+    <airline>
+        <airlineid>176</airlineid>
+        <name>Aviogenex</name>
+        <iata></iata>
+        <icao>AGX</icao>
+    </airline>
+    <airline>
+        <airlineid>179</airlineid>
+        <name>Aeroper</name>
+        <iata>PL</iata>
+        <icao>PLI</icao>
+    </airline>
+    <airline>
+        <airlineid>180</airlineid>
+        <name>Atlas Blue</name>
+        <iata>8A</iata>
+        <icao>BMM</icao>
+    </airline>
+    <airline>
+        <airlineid>197</airlineid>
+        <name>Azerbaijan Airlines</name>
+        <iata>J2</iata>
+        <icao>AHY</icao>
+    </airline>
+    <airline>
+        <airlineid>198</airlineid>
+        <name>Avies</name>
+        <iata>U3</iata>
+        <icao>AIA</icao>
+    </airline>
+    <airline>
+        <airlineid>208</airlineid>
+        <name>Airblue</name>
+        <iata>ED</iata>
+        <icao>ABQ</icao>
+    </airline>
+    <airline>
+        <airlineid>210</airlineid>
+        <name>Airlift International</name>
+        <iata></iata>
+        <icao>AIR</icao>
+    </airline>
+    <airline>
+        <airlineid>214</airlineid>
+        <name>Air Berlin</name>
+        <iata>AB</iata>
+        <icao>BER</icao>
+    </airline>
+    <airline>
+        <airlineid>218</airlineid>
+        <name>Air India Limited</name>
+        <iata>AI</iata>
+        <icao>AIC</icao>
+    </airline>
+    <airline>
+        <airlineid>220</airlineid>
+        <name>Air Bourbon</name>
+        <iata>ZB</iata>
+        <icao>BUB</icao>
+    </airline>
+    <airline>
+        <airlineid>221</airlineid>
+        <name>Air Atlanta Icelandic</name>
+        <iata>CC</iata>
+        <icao>ABD</icao>
+    </airline>
+    <airline>
+        <airlineid>225</airlineid>
+        <name>Air Tahiti Nui</name>
+        <iata>TN</iata>
+        <icao>THT</icao>
+    </airline>
+    <airline>
+        <airlineid>231</airlineid>
+        <name>Arkia Israel Airlines</name>
+        <iata>IZ</iata>
+        <icao>AIZ</icao>
+    </airline>
+    <airline>
+        <airlineid>239</airlineid>
+        <name>Air Jamaica</name>
+        <iata>JM</iata>
+        <icao>AJM</icao>
+    </airline>
+    <airline>
+        <airlineid>240</airlineid>
+        <name>Air One</name>
+        <iata>AP</iata>
+        <icao>ADH</icao>
+    </airline>
+    <airline>
+        <airlineid>241</airlineid>
+        <name>Air Sahara</name>
+        <iata>S2</iata>
+        <icao>RSH</icao>
+    </airline>
+    <airline>
+        <airlineid>242</airlineid>
+        <name>Air Malta</name>
+        <iata>KM</iata>
+        <icao>AMC</icao>
+    </airline>
+    <airline>
+        <airlineid>250</airlineid>
+        <name>Air Japan</name>
+        <iata>NQ</iata>
+        <icao>AJX</icao>
+    </airline>
+    <airline>
+        <airlineid>252</airlineid>
+        <name>Air Korea Co. Ltd.</name>
+        <iata></iata>
+        <icao>AKA</icao>
+    </airline>
+    <airline>
+        <airlineid>263</airlineid>
+        <name>Air Kiribati</name>
+        <iata>4A</iata>
+        <icao>AKL</icao>
+    </airline>
+    <airline>
+        <airlineid>281</airlineid>
+        <name>America West Airlines</name>
+        <iata>HP</iata>
+        <icao>AWE</icao>
+    </airline>
+    <airline>
+        <airlineid>282</airlineid>
+        <name>Air Wisconsin</name>
+        <iata>ZW</iata>
+        <icao>AWI</icao>
+    </airline>
+    <airline>
+        <airlineid>286</airlineid>
+        <name>Tatarstan Airlines</name>
+        <iata>U9</iata>
+        <icao>TAK</icao>
+    </airline>
+    <airline>
+        <airlineid>287</airlineid>
+        <name>Allegheny Commuter Airlines</name>
+        <iata></iata>
+        <icao>ALO</icao>
+    </airline>
+    <airline>
+        <airlineid>295</airlineid>
+        <name>Air Sunshine</name>
+        <iata></iata>
+        <icao>RSI</icao>
+    </airline>
+    <airline>
+        <airlineid>299</airlineid>
+        <name>Air Libert</name>
+        <iata>VD</iata>
+        <icao></icao>
+    </airline>
+    <airline>
+        <airlineid>306</airlineid>
+        <name>Air Malawi</name>
+        <iata>QM</iata>
+        <icao>AML</icao>
+    </airline>
+    <airline>
+        <airlineid>312</airlineid>
+        <name>Air Sicilia</name>
+        <iata>BM</iata>
+        <icao></icao>
+    </airline>
+    <airline>
+        <airlineid>315</airlineid>
+        <name>ATA Airlines</name>
+        <iata></iata>
+        <icao>AMT</icao>
+    </airline>
+    <airline>
+        <airlineid>316</airlineid>
+        <name>Air Macau</name>
+        <iata>NX</iata>
+        <icao>AMU</icao>
+    </airline>
+    <airline>
+        <airlineid>317</airlineid>
+        <name>AMC Airlines</name>
+        <iata></iata>
+        <icao>AMV</icao>
+    </airline>
+    <airline>
+        <airlineid>319</airlineid>
+        <name>Air Seychelles</name>
+        <iata>HM</iata>
+        <icao>SEY</icao>
+    </airline>
+    <airline>
+        <airlineid>321</airlineid>
+        <name>AeroMéxico</name>
+        <iata>AM</iata>
+        <icao>AMX</icao>
+    </airline>
+    <airline>
+        <airlineid>324</airlineid>
+        <name>All Nippon Airways</name>
+        <iata>NH</iata>
+        <icao>ANA</icao>
+    </airline>
+    <airline>
+        <airlineid>327</airlineid>
+        <name>Air Nostrum</name>
+        <iata>YW</iata>
+        <icao>ANE</icao>
+    </airline>
+    <airline>
+        <airlineid>328</airlineid>
+        <name>Air Niugini</name>
+        <iata>PX</iata>
+        <icao>ANG</icao>
+    </airline>
+    <airline>
+        <airlineid>329</airlineid>
+        <name>Air Arabia</name>
+        <iata>G9</iata>
+        <icao>ABY</icao>
+    </airline>
+    <airline>
+        <airlineid>330</airlineid>
+        <name>Air Canada</name>
+        <iata>AC</iata>
+        <icao>ACA</icao>
+    </airline>
+    <airline>
+        <airlineid>333</airlineid>
+        <name>Air Baltic</name>
+        <iata>BT</iata>
+        <icao>BTI</icao>
+    </airline>
+    <airline>
+        <airlineid>336</airlineid>
+        <name>Air Nippon</name>
+        <iata>EL</iata>
+        <icao>ANK</icao>
+    </airline>
+    <airline>
+        <airlineid>338</airlineid>
+        <name>Airnorth</name>
+        <iata>TL</iata>
+        <icao>ANO</icao>
+    </airline>
+    <airline>
+        <airlineid>341</airlineid>
+        <name>Air North Charter - Canada</name>
+        <iata>4N</iata>
+        <icao>ANT</icao>
+    </airline>
+    <airline>
+        <airlineid>345</airlineid>
+        <name>Air New Zealand</name>
+        <iata>NZ</iata>
+        <icao>ANZ</icao>
+    </airline>
+    <airline>
+        <airlineid>371</airlineid>
+        <name>Alitalia Express</name>
+        <iata>XM</iata>
+        <icao>SMX</icao>
+    </airline>
+    <airline>
+        <airlineid>386</airlineid>
+        <name>Aero Flight</name>
+        <iata>GV</iata>
+        <icao>ARF</icao>
+    </airline>
+    <airline>
+        <airlineid>397</airlineid>
+        <name>Arrow Air</name>
+        <iata>JW</iata>
+        <icao>APW</icao>
+    </airline>
+    <airline>
+        <airlineid>410</airlineid>
+        <name>Aerocondor</name>
+        <iata>2B</iata>
+        <icao>ARD</icao>
+    </airline>
+    <airline>
+        <airlineid>411</airlineid>
+        <name>Aires</name>
+        <iata>4C</iata>
+        <icao>ARE</icao>
+    </airline>
+    <airline>
+        <airlineid>412</airlineid>
+        <name>Aerolineas Argentinas</name>
+        <iata>AR</iata>
+        <icao>ARG</icao>
+    </airline>
+    <airline>
+        <airlineid>439</airlineid>
+        <name>Alaska Airlines</name>
+        <iata>AS</iata>
+        <icao>ASA</icao>
+    </airline>
+    <airline>
+        <airlineid>442</airlineid>
+        <name>Air Sinai</name>
+        <iata>4D</iata>
+        <icao>ASD</icao>
+    </airline>
+    <airline>
+        <airlineid>452</airlineid>
+        <name>Atlantic Southeast Airlines</name>
+        <iata>EV</iata>
+        <icao>ASQ</icao>
+    </airline>
+    <airline>
+        <airlineid>462</airlineid>
+        <name>Astrakhan Airlines</name>
+        <iata>OB</iata>
+        <icao>ASZ</icao>
+    </airline>
+    <airline>
+        <airlineid>465</airlineid>
+        <name>Air Tanzania</name>
+        <iata>TC</iata>
+        <icao>ATC</icao>
+    </airline>
+    <airline>
+        <airlineid>470</airlineid>
+        <name>Air Burkina</name>
+        <iata>2J</iata>
+        <icao>VBW</icao>
+    </airline>
+    <airline>
+        <airlineid>476</airlineid>
+        <name>Airlines Of Tasmania</name>
+        <iata>FO</iata>
+        <icao>ATM</icao>
+    </airline>
+    <airline>
+        <airlineid>477</airlineid>
+        <name>Air Saint Pierre</name>
+        <iata>PJ</iata>
+        <icao>SPM</icao>
+    </airline>
+    <airline>
+        <airlineid>491</airlineid>
+        <name>Austrian Airlines</name>
+        <iata>OS</iata>
+        <icao>AUA</icao>
+    </airline>
+    <airline>
+        <airlineid>492</airlineid>
+        <name>Air Southwest</name>
+        <iata></iata>
+        <icao>WOW</icao>
+    </airline>
+    <airline>
+        <airlineid>493</airlineid>
+        <name>Augsburg Airways</name>
+        <iata>IQ</iata>
+        <icao>AUB</icao>
+    </airline>
+    <airline>
+        <airlineid>497</airlineid>
+        <name>ATUR</name>
+        <iata></iata>
+        <icao>TUR</icao>
+    </airline>
+    <airline>
+        <airlineid>502</airlineid>
+        <name>Abu Dhabi Amiri Flight</name>
+        <iata>MO</iata>
+        <icao>AUH</icao>
+    </airline>
+    <airline>
+        <airlineid>503</airlineid>
+        <name>Aeroflot-Nord</name>
+        <iata>5N</iata>
+        <icao>AUL</icao>
+    </airline>
+    <airline>
+        <airlineid>508</airlineid>
+        <name>Aurigny Air Services</name>
+        <iata>GR</iata>
+        <icao>AUR</icao>
+    </airline>
+    <airline>
+        <airlineid>510</airlineid>
+        <name>Austral Lineas Aereas</name>
+        <iata>AU</iata>
+        <icao>AUT</icao>
+    </airline>
+    <airline>
+        <airlineid>515</airlineid>
+        <name>Avianca - Aerovias Nacionales de Colombia</name>
+        <iata>AV</iata>
+        <icao>AVA</icao>
+    </airline>
+    <airline>
+        <airlineid>524</airlineid>
+        <name>Air Vanuatu</name>
+        <iata>NF</iata>
+        <icao>AVN</icao>
+    </airline>
+    <airline>
+        <airlineid>543</airlineid>
+        <name>Air Bangladesh</name>
+        <iata>B9</iata>
+        <icao>BGD</icao>
+    </airline>
+    <airline>
+        <airlineid>547</airlineid>
+        <name>Air Mediterranee</name>
+        <iata>DR</iata>
+        <icao>BIE</icao>
+    </airline>
+    <airline>
+        <airlineid>551</airlineid>
+        <name>Air Moorea</name>
+        <iata></iata>
+        <icao>TAH</icao>
+    </airline>
+    <airline>
+        <airlineid>563</airlineid>
+        <name>Aeroline GmbH</name>
+        <iata>7E</iata>
+        <icao>AWU</icao>
+    </airline>
+    <airline>
+        <airlineid>565</airlineid>
+        <name>Air Wales</name>
+        <iata>6G</iata>
+        <icao>AWW</icao>
+    </airline>
+    <airline>
+        <airlineid>567</airlineid>
+        <name>Air Caraïbes</name>
+        <iata>TX</iata>
+        <icao>FWI</icao>
+    </airline>
+    <airline>
+        <airlineid>569</airlineid>
+        <name>Air India Express</name>
+        <iata>IX</iata>
+        <icao>AXB</icao>
+    </airline>
+    <airline>
+        <airlineid>575</airlineid>
+        <name>Air Exel</name>
+        <iata>XT</iata>
+        <icao>AXL</icao>
+    </airline>
+    <airline>
+        <airlineid>576</airlineid>
+        <name>AirAsia</name>
+        <iata>AK</iata>
+        <icao>AXM</icao>
+    </airline>
+    <airline>
+        <airlineid>595</airlineid>
+        <name>Atlant-Soyuz Airlines</name>
+        <iata>3G</iata>
+        <icao>AYZ</icao>
+    </airline>
+    <airline>
+        <airlineid>596</airlineid>
+        <name>Alitalia</name>
+        <iata>AZ</iata>
+        <icao>AZA</icao>
+    </airline>
+    <airline>
+        <airlineid>603</airlineid>
+        <name>Amaszonas</name>
+        <iata>Z8</iata>
+        <icao>AZN</icao>
+    </airline>
+    <airline>
+        <airlineid>608</airlineid>
+        <name>Air Zimbabwe</name>
+        <iata>UM</iata>
+        <icao>AZW</icao>
+    </airline>
+    <airline>
+        <airlineid>622</airlineid>
+        <name>Aserca Airlines</name>
+        <iata>R7</iata>
+        <icao>OCA</icao>
+    </airline>
+    <airline>
+        <airlineid>641</airlineid>
+        <name>Rossiya-Russian Airlines</name>
+        <iata>FV</iata>
+        <icao>SDM</icao>
+    </airline>
+    <airline>
+        <airlineid>659</airlineid>
+        <name>American Eagle Airlines</name>
+        <iata>MQ</iata>
+        <icao>EGF</icao>
+    </airline>
+    <airline>
+        <airlineid>665</airlineid>
+        <name>AD Aviation</name>
+        <iata></iata>
+        <icao>VUE</icao>
+    </airline>
+    <airline>
+        <airlineid>682</airlineid>
+        <name>Air Ivoire</name>
+        <iata>VU</iata>
+        <icao>VUN</icao>
+    </airline>
+    <airline>
+        <airlineid>683</airlineid>
+        <name>Air Botswana</name>
+        <iata>BP</iata>
+        <icao>BOT</icao>
+    </airline>
+    <airline>
+        <airlineid>690</airlineid>
+        <name>Air Foyle</name>
+        <iata>GS</iata>
+        <icao>UPA</icao>
+    </airline>
+    <airline>
+        <airlineid>692</airlineid>
+        <name>Air Tahiti</name>
+        <iata>VT</iata>
+        <icao>VTA</icao>
+    </airline>
+    <airline>
+        <airlineid>695</airlineid>
+        <name>Air VIA</name>
+        <iata>VL</iata>
+        <icao>VIM</icao>
+    </airline>
+    <airline>
+        <airlineid>715</airlineid>
+        <name>Africa West</name>
+        <iata>FK</iata>
+        <icao>WTA</icao>
+    </airline>
+    <airline>
+        <airlineid>724</airlineid>
+        <name>ATRAN Cargo Airlines</name>
+        <iata>V8</iata>
+        <icao>VAS</icao>
+    </airline>
+    <airline>
+        <airlineid>751</airlineid>
+        <name>Air China</name>
+        <iata>CA</iata>
+        <icao>CCA</icao>
+    </airline>
+    <airline>
+        <airlineid>753</airlineid>
+        <name>Aero Condor Peru</name>
+        <iata>Q6</iata>
+        <icao>CDP</icao>
+    </airline>
+    <airline>
+        <airlineid>787</airlineid>
+        <name>Air Chathams</name>
+        <iata>CV</iata>
+        <icao>CVA</icao>
+    </airline>
+    <airline>
+        <airlineid>788</airlineid>
+        <name>Air Marshall Islands</name>
+        <iata>CW</iata>
+        <icao>CWM</icao>
+    </airline>
+    <airline>
+        <airlineid>792</airlineid>
+        <name>Access Air</name>
+        <iata>ZA</iata>
+        <icao>CYD</icao>
+    </airline>
+    <airline>
+        <airlineid>794</airlineid>
+        <name>Air Algerie</name>
+        <iata>AH</iata>
+        <icao>DAH</icao>
+    </airline>
+    <airline>
+        <airlineid>800</airlineid>
+        <name>Adam Air</name>
+        <iata>KI</iata>
+        <icao>DHI</icao>
+    </airline>
+    <airline>
+        <airlineid>807</airlineid>
+        <name>Air Dolomiti</name>
+        <iata>EN</iata>
+        <icao>DLA</icao>
+    </airline>
+    <airline>
+        <airlineid>816</airlineid>
+        <name>Aeroflot-Don</name>
+        <iata>D9</iata>
+        <icao>DNV</icao>
+    </airline>
+    <airline>
+        <airlineid>817</airlineid>
+        <name>Air Madrid</name>
+        <iata>NM</iata>
+        <icao>DRD</icao>
+    </airline>
+    <airline>
+        <airlineid>837</airlineid>
+        <name>Aer Lingus</name>
+        <iata>EI</iata>
+        <icao>EIN</icao>
+    </airline>
+    <airline>
+        <airlineid>876</airlineid>
+        <name>Air Finland</name>
+        <iata>OF</iata>
+        <icao>FIF</icao>
+    </airline>
+    <airline>
+        <airlineid>878</airlineid>
+        <name>Airfix Aviation</name>
+        <iata></iata>
+        <icao>FIX</icao>
+    </airline>
+    <airline>
+        <airlineid>879</airlineid>
+        <name>Air Pacific</name>
+        <iata>FJ</iata>
+        <icao>FJI</icao>
+    </airline>
+    <airline>
+        <airlineid>881</airlineid>
+        <name>Atlantic Airways</name>
+        <iata>RC</iata>
+        <icao>FLI</icao>
+    </airline>
+    <airline>
+        <airlineid>882</airlineid>
+        <name>Air Florida</name>
+        <iata>QH</iata>
+        <icao>FLZ</icao>
+    </airline>
+    <airline>
+        <airlineid>896</airlineid>
+        <name>Air Iceland</name>
+        <iata>NY</iata>
+        <icao>FXI</icao>
+    </airline>
+    <airline>
+        <airlineid>897</airlineid>
+        <name>Air Philippines</name>
+        <iata>2P</iata>
+        <icao>GAP</icao>
+    </airline>
+    <airline>
+        <airlineid>909</airlineid>
+        <name>Air Guinee Express</name>
+        <iata>2U</iata>
+        <icao>GIP</icao>
+    </airline>
+    <airline>
+        <airlineid>921</airlineid>
+        <name>Air Greenland</name>
+        <iata>GL</iata>
+        <icao>GRL</icao>
+    </airline>
+    <airline>
+        <airlineid>928</airlineid>
+        <name>Atlas Air</name>
+        <iata>5Y</iata>
+        <icao>GTI</icao>
+    </airline>
+    <airline>
+        <airlineid>931</airlineid>
+        <name>Air Guyane</name>
+        <iata>GG</iata>
+        <icao>GUY</icao>
+    </airline>
+    <airline>
+        <airlineid>970</airlineid>
+        <name>Air Bagan</name>
+        <iata>W9</iata>
+        <icao>JAB</icao>
+    </airline>
+    <airline>
+        <airlineid>983</airlineid>
+        <name>Air Canada Jazz</name>
+        <iata>QK</iata>
+        <icao>JZA</icao>
+    </airline>
+    <airline>
+        <airlineid>995</airlineid>
+        <name>Atlasjet</name>
+        <iata>KK</iata>
+        <icao>KKK</icao>
+    </airline>
+    <airline>
+        <airlineid>998</airlineid>
+        <name>Air Koryo</name>
+        <iata>JS</iata>
+        <icao>KOR</icao>
+    </airline>
+    <airline>
+        <airlineid>1006</airlineid>
+        <name>Air Astana</name>
+        <iata>KC</iata>
+        <icao>KZR</icao>
+    </airline>
+    <airline>
+        <airlineid>1008</airlineid>
+        <name>Albanian Airlines</name>
+        <iata>LV</iata>
+        <icao>LBC</icao>
+    </airline>
+    <airline>
+        <airlineid>1017</airlineid>
+        <name>Air Alfa</name>
+        <iata></iata>
+        <icao>LFA</icao>
+    </airline>
+    <airline>
+        <airlineid>1034</airlineid>
+        <name>Aerolane</name>
+        <iata>XL</iata>
+        <icao>LNE</icao>
+    </airline>
+    <airline>
+        <airlineid>1048</airlineid>
+        <name>Atlantis European Airways</name>
+        <iata>TD</iata>
+        <icao>LUR</icao>
+    </airline>
+    <airline>
+        <airlineid>1052</airlineid>
+        <name>Air Luxor</name>
+        <iata>LK</iata>
+        <icao>LXR</icao>
+    </airline>
+    <airline>
+        <airlineid>1057</airlineid>
+        <name>Air Mauritius</name>
+        <iata>MK</iata>
+        <icao>MAU</icao>
+    </airline>
+    <airline>
+        <airlineid>1066</airlineid>
+        <name>Air Madagascar</name>
+        <iata>MD</iata>
+        <icao>MDG</icao>
+    </airline>
+    <airline>
+        <airlineid>1073</airlineid>
+        <name>Air Moldova</name>
+        <iata>9U</iata>
+        <icao>MLD</icao>
+    </airline>
+    <airline>
+        <airlineid>1087</airlineid>
+        <name>Air Plus Comet</name>
+        <iata>A7</iata>
+        <icao>MPD</icao>
+    </airline>
+    <airline>
+        <airlineid>1109</airlineid>
+        <name>Astair</name>
+        <iata>8D</iata>
+        <icao></icao>
+    </airline>
+    <airline>
+        <airlineid>1116</airlineid>
+        <name>Aero Contractors</name>
+        <iata>AJ</iata>
+        <icao>NIG</icao>
+    </airline>
+    <airline>
+        <airlineid>1143</airlineid>
+        <name>Aeropelican Air Services</name>
+        <iata>OT</iata>
+        <icao>PEL</icao>
+    </airline>
+    <airline>
+        <airlineid>1188</airlineid>
+        <name>Aer Arann</name>
+        <iata>RE</iata>
+        <icao>REA</icao>
+    </airline>
+    <airline>
+        <airlineid>1191</airlineid>
+        <name>Air Austral</name>
+        <iata>UU</iata>
+        <icao>REU</icao>
+    </airline>
+    <airline>
+        <airlineid>1200</airlineid>
+        <name>Asian Spirit</name>
+        <iata>6K</iata>
+        <icao>RIT</icao>
+    </airline>
+    <airline>
+        <airlineid>1202</airlineid>
+        <name>Air Afrique</name>
+        <iata>RK</iata>
+        <icao>RKA</icao>
+    </airline>
+    <airline>
+        <airlineid>1203</airlineid>
+        <name>Airlinair</name>
+        <iata>A5</iata>
+        <icao>RLA</icao>
+    </airline>
+    <airline>
+        <airlineid>1206</airlineid>
+        <name>Aero Lanka</name>
+        <iata>QL</iata>
+        <icao>RLN</icao>
+    </airline>
+    <airline>
+        <airlineid>1213</airlineid>
+        <name>Air Salone</name>
+        <iata>20</iata>
+        <icao>RNE</icao>
+    </airline>
+    <airline>
+        <airlineid>1216</airlineid>
+        <name>Armavia</name>
+        <iata>U8</iata>
+        <icao>RNV</icao>
+    </airline>
+    <airline>
+        <airlineid>1224</airlineid>
+        <name>AeroRep</name>
+        <iata>P5</iata>
+        <icao>RPB</icao>
+    </airline>
+    <airline>
+        <airlineid>1230</airlineid>
+        <name>Aero-Service</name>
+        <iata>BF</iata>
+        <icao>RSR</icao>
+    </airline>
+    <airline>
+        <airlineid>1231</airlineid>
+        <name>Aerosur</name>
+        <iata>5L</iata>
+        <icao>RSU</icao>
+    </airline>
+    <airline>
+        <airlineid>1232</airlineid>
+        <name>Aeronorte</name>
+        <iata></iata>
+        <icao>RTE</icao>
+    </airline>
+    <airline>
+        <airlineid>1266</airlineid>
+        <name>Avient Aviation</name>
+        <iata>Z3</iata>
+        <icao>SMJ</icao>
+    </airline>
+    <airline>
+        <airlineid>1287</airlineid>
+        <name>Aircompany Yakutia</name>
+        <iata>R3</iata>
+        <icao>SYL</icao>
+    </airline>
+    <airline>
+        <airlineid>1290</airlineid>
+        <name>Aeromar</name>
+        <iata>VW</iata>
+        <icao>TAO</icao>
+    </airline>
+    <airline>
+        <airlineid>1299</airlineid>
+        <name>Arkefly</name>
+        <iata>OR</iata>
+        <icao>TFL</icao>
+    </airline>
+    <airline>
+        <airlineid>1308</airlineid>
+        <name>Airlines PNG</name>
+        <iata>CG</iata>
+        <icao>TOK</icao>
+    </airline>
+    <airline>
+        <airlineid>1316</airlineid>
+        <name>AirTran Airways</name>
+        <iata>FL</iata>
+        <icao>TRS</icao>
+    </airline>
+    <airline>
+        <airlineid>1317</airlineid>
+        <name>Air Transat</name>
+        <iata>TS</iata>
+        <icao>TSC</icao>
+    </airline>
+    <airline>
+        <airlineid>1322</airlineid>
+        <name>Avialeasing Aviation Company</name>
+        <iata>EC</iata>
+        <icao>TWN</icao>
+    </airline>
+    <airline>
+        <airlineid>1326</airlineid>
+        <name>Tyrolean Airways</name>
+        <iata>VO</iata>
+        <icao>TYR</icao>
+    </airline>
+    <airline>
+        <airlineid>1338</airlineid>
+        <name>Aerolineas Galapagos (Aerogal)</name>
+        <iata>2K</iata>
+        <icao>GLG</icao>
+    </airline>
+    <airline>
+        <airlineid>1340</airlineid>
+        <name>Alrosa Mirny Air Enterprise</name>
+        <iata>6R</iata>
+        <icao>DRU</icao>
+    </airline>
+    <airline>
+        <airlineid>1355</airlineid>
+        <name>British Airways</name>
+        <iata>BA</iata>
+        <icao>BAW</icao>
+    </airline>
+    <airline>
+        <airlineid>1359</airlineid>
+        <name>Biman Bangladesh Airlines</name>
+        <iata>BG</iata>
+        <icao>BBC</icao>
+    </airline>
+    <airline>
+        <airlineid>1401</airlineid>
+        <name>Belair Airlines</name>
+        <iata>4T</iata>
+        <icao>BHP</icao>
+    </airline>
+    <airline>
+        <airlineid>1403</airlineid>
+        <name>Bahamasair</name>
+        <iata>UP</iata>
+        <icao>BHS</icao>
+    </airline>
+    <airline>
+        <airlineid>1406</airlineid>
+        <name>Balkan Bulgarian Airlines</name>
+        <iata>LZ</iata>
+        <icao></icao>
+    </airline>
+    <airline>
+        <airlineid>1411</airlineid>
+        <name>British International Helicopters</name>
+        <iata>BS</iata>
+        <icao>BIH</icao>
+    </airline>
+    <airline>
+        <airlineid>1420</airlineid>
+        <name>BF-Lento OY</name>
+        <iata></iata>
+        <icao>BKF</icao>
+    </airline>
+    <airline>
+        <airlineid>1422</airlineid>
+        <name>Bangkok Airways</name>
+        <iata>PG</iata>
+        <icao>BKP</icao>
+    </airline>
+    <airline>
+        <airlineid>1427</airlineid>
+        <name>Blue1</name>
+        <iata>KF</iata>
+        <icao>BLF</icao>
+    </airline>
+    <airline>
+        <airlineid>1431</airlineid>
+        <name>Baltic Airlines</name>
+        <iata></iata>
+        <icao>BLL</icao>
+    </airline>
+    <airline>
+        <airlineid>1434</airlineid>
+        <name>Bearskin Lake Air Service</name>
+        <iata>JV</iata>
+        <icao>BLS</icao>
+    </airline>
+    <airline>
+        <airlineid>1436</airlineid>
+        <name>Bellview Airlines</name>
+        <iata>B3</iata>
+        <icao>BLV</icao>
+    </airline>
+    <airline>
+        <airlineid>1437</airlineid>
+        <name>bmi</name>
+        <iata>BD</iata>
+        <icao>BMA</icao>
+    </airline>
+    <airline>
+        <airlineid>1441</airlineid>
+        <name>bmibaby</name>
+        <iata>WW</iata>
+        <icao>BMI</icao>
+    </airline>
+    <airline>
+        <airlineid>1442</airlineid>
+        <name>Bemidji Airlines</name>
+        <iata>CH</iata>
+        <icao>BMJ</icao>
+    </airline>
+    <airline>
+        <airlineid>1445</airlineid>
+        <name>British Midland Regional</name>
+        <iata></iata>
+        <icao>BMR</icao>
+    </airline>
+    <airline>
+        <airlineid>1463</airlineid>
+        <name>Blue Panorama Airlines</name>
+        <iata>BV</iata>
+        <icao>BPA</icao>
+    </airline>
+    <airline>
+        <airlineid>1466</airlineid>
+        <name>Budapest Aircraft Services/Manx2</name>
+        <iata></iata>
+        <icao>BPS</icao>
+    </airline>
+    <airline>
+        <airlineid>1472</airlineid>
+        <name>Bering Air</name>
+        <iata>8E</iata>
+        <icao>BRG</icao>
+    </airline>
+    <airline>
+        <airlineid>1476</airlineid>
+        <name>Brazilian Air Force</name>
+        <iata></iata>
+        <icao>BRS</icao>
+    </airline>
+    <airline>
+        <airlineid>1478</airlineid>
+        <name>Belavia Belarusian Airlines</name>
+        <iata>B2</iata>
+        <icao>BRU</icao>
+    </airline>
+    <airline>
+        <airlineid>1500</airlineid>
+        <name>Metro Batavia</name>
+        <iata>7P</iata>
+        <icao>BTV</icao>
+    </airline>
+    <airline>
+        <airlineid>1508</airlineid>
+        <name>Berjaya Air</name>
+        <iata>J8</iata>
+        <icao>BVT</icao>
+    </airline>
+    <airline>
+        <airlineid>1510</airlineid>
+        <name>Blue Wings</name>
+        <iata>QW</iata>
+        <icao>BWG</icao>
+    </airline>
+    <airline>
+        <airlineid>1523</airlineid>
+        <name>Brit Air</name>
+        <iata>DB</iata>
+        <icao>BZH</icao>
+    </airline>
+    <airline>
+        <airlineid>1531</airlineid>
+        <name>Brussels Airlines</name>
+        <iata>SN</iata>
+        <icao>DAT</icao>
+    </airline>
+    <airline>
+        <airlineid>1539</airlineid>
+        <name>Binter Canarias</name>
+        <iata>NT</iata>
+        <icao>IBB</icao>
+    </airline>
+    <airline>
+        <airlineid>1542</airlineid>
+        <name>Blue Air</name>
+        <iata>0B</iata>
+        <icao>JOR</icao>
+    </airline>
+    <airline>
+        <airlineid>1543</airlineid>
+        <name>British Mediterranean Airways</name>
+        <iata>KJ</iata>
+        <icao>LAJ</icao>
+    </airline>
+    <airline>
+        <airlineid>1548</airlineid>
+        <name>Bulgaria Air</name>
+        <iata>FB</iata>
+        <icao>LZB</icao>
+    </airline>
+    <airline>
+        <airlineid>1550</airlineid>
+        <name>Barents AirLink</name>
+        <iata>8N</iata>
+        <icao>NKF</icao>
+    </airline>
+    <airline>
+        <airlineid>1581</airlineid>
+        <name>CAL Cargo Air Lines</name>
+        <iata>5C</iata>
+        <icao>ICL</icao>
+    </airline>
+    <airline>
+        <airlineid>1607</airlineid>
+        <name>Calima Aviacion</name>
+        <iata>XG</iata>
+        <icao>CLI</icao>
+    </airline>
+    <airline>
+        <airlineid>1615</airlineid>
+        <name>Canadian Airlines</name>
+        <iata>CP</iata>
+        <icao>CDN</icao>
+    </airline>
+    <airline>
+        <airlineid>1623</airlineid>
+        <name>Canadian North</name>
+        <iata>5T</iata>
+        <icao>MPE</icao>
+    </airline>
+    <airline>
+        <airlineid>1629</airlineid>
+        <name>Cape Air</name>
+        <iata>9K</iata>
+        <icao>KAP</icao>
+    </airline>
+    <airline>
+        <airlineid>1663</airlineid>
+        <name>Caribbean Airlines</name>
+        <iata>BW</iata>
+        <icao>BWA</icao>
+    </airline>
+    <airline>
+        <airlineid>1669</airlineid>
+        <name>Carpatair</name>
+        <iata>V3</iata>
+        <icao>KRP</icao>
+    </airline>
+    <airline>
+        <airlineid>1675</airlineid>
+        <name>Caspian Airlines</name>
+        <iata>RV</iata>
+        <icao>CPN</icao>
+    </airline>
+    <airline>
+        <airlineid>1680</airlineid>
+        <name>Cathay Pacific</name>
+        <iata>CX</iata>
+        <icao>CPA</icao>
+    </airline>
+    <airline>
+        <airlineid>1682</airlineid>
+        <name>Cayman Airways</name>
+        <iata>KX</iata>
+        <icao>CAY</icao>
+    </airline>
+    <airline>
+        <airlineid>1683</airlineid>
+        <name>Cebu Pacific</name>
+        <iata>5J</iata>
+        <icao>CEB</icao>
+    </airline>
+    <airline>
+        <airlineid>1700</airlineid>
+        <name>Central Connect Airlines</name>
+        <iata></iata>
+        <icao>CCG</icao>
+    </airline>
+    <airline>
+        <airlineid>1708</airlineid>
+        <name>Centralwings</name>
+        <iata>C0</iata>
+        <icao>CLW</icao>
+    </airline>
+    <airline>
+        <airlineid>1737</airlineid>
+        <name>Charter Air</name>
+        <iata></iata>
+        <icao>CHW</icao>
+    </airline>
+    <airline>
+        <airlineid>1739</airlineid>
+        <name>Chautauqua Airlines</name>
+        <iata>RP</iata>
+        <icao>CHQ</icao>
+    </airline>
+    <airline>
+        <airlineid>1756</airlineid>
+        <name>China Airlines</name>
+        <iata>CI</iata>
+        <icao>CAL</icao>
+    </airline>
+    <airline>
+        <airlineid>1758</airlineid>
+        <name>China Eastern Airlines</name>
+        <iata>MU</iata>
+        <icao>CES</icao>
+    </airline>
+    <airline>
+        <airlineid>1767</airlineid>
+        <name>China Southern Airlines</name>
+        <iata>CZ</iata>
+        <icao>CSN</icao>
+    </airline>
+    <airline>
+        <airlineid>1769</airlineid>
+        <name>China United Airlines</name>
+        <iata>HR</iata>
+        <icao>CUA</icao>
+    </airline>
+    <airline>
+        <airlineid>1771</airlineid>
+        <name>Yunnan Airlines</name>
+        <iata>3Q</iata>
+        <icao>CYH</icao>
+    </airline>
+    <airline>
+        <airlineid>1781</airlineid>
+        <name>Cimber Air</name>
+        <iata>QI</iata>
+        <icao>CIM</icao>
+    </airline>
+    <airline>
+        <airlineid>1784</airlineid>
+        <name>Cirrus Airlines</name>
+        <iata>C9</iata>
+        <icao>RUS</icao>
+    </airline>
+    <airline>
+        <airlineid>1789</airlineid>
+        <name>City Airline</name>
+        <iata>CF</iata>
+        <icao>SDR</icao>
+    </airline>
+    <airline>
+        <airlineid>1790</airlineid>
+        <name>City Connexion Airlines</name>
+        <iata>G3</iata>
+        <icao>CIX</icao>
+    </airline>
+    <airline>
+        <airlineid>1792</airlineid>
+        <name>CityJet</name>
+        <iata>WX</iata>
+        <icao>BCY</icao>
+    </airline>
+    <airline>
+        <airlineid>1795</airlineid>
+        <name>BA CityFlyer</name>
+        <iata>CJ</iata>
+        <icao>CFE</icao>
+    </airline>
+    <airline>
+        <airlineid>1808</airlineid>
+        <name>Click Airways</name>
+        <iata></iata>
+        <icao>CGK</icao>
+    </airline>
+    <airline>
+        <airlineid>1814</airlineid>
+        <name>Coastal Air</name>
+        <iata>DQ</iata>
+        <icao></icao>
+    </airline>
+    <airline>
+        <airlineid>1821</airlineid>
+        <name>Colgan Air</name>
+        <iata>9L</iata>
+        <icao>CJC</icao>
+    </airline>
+    <airline>
+        <airlineid>1828</airlineid>
+        <name>Comair</name>
+        <iata>OH</iata>
+        <icao>COM</icao>
+    </airline>
+    <airline>
+        <airlineid>1829</airlineid>
+        <name>Comair</name>
+        <iata>MN</iata>
+        <icao>CAW</icao>
+    </airline>
+    <airline>
+        <airlineid>1843</airlineid>
+        <name>CommutAir</name>
+        <iata>C5</iata>
+        <icao>UCA</icao>
+    </airline>
+    <airline>
+        <airlineid>1844</airlineid>
+        <name>Comores Airlines</name>
+        <iata>KR</iata>
+        <icao>CWK</icao>
+    </airline>
+    <airline>
+        <airlineid>1860</airlineid>
+        <name>Compass Airlines</name>
+        <iata>CP</iata>
+        <icao>CPZ</icao>
+    </airline>
+    <airline>
+        <airlineid>1868</airlineid>
+        <name>Condor Flugdienst</name>
+        <iata>DE</iata>
+        <icao>CFG</icao>
+    </airline>
+    <airline>
+        <airlineid>1876</airlineid>
+        <name>Consorcio Aviaxsa</name>
+        <iata>6A</iata>
+        <icao>CHP</icao>
+    </airline>
+    <airline>
+        <airlineid>1879</airlineid>
+        <name>Contact Air</name>
+        <iata>C3</iata>
+        <icao>KIS</icao>
+    </airline>
+    <airline>
+        <airlineid>1881</airlineid>
+        <name>Continental Airlines</name>
+        <iata>CO</iata>
+        <icao>COA</icao>
+    </airline>
+    <airline>
+        <airlineid>1883</airlineid>
+        <name>Continental Express</name>
+        <iata>CO</iata>
+        <icao></icao>
+    </airline>
+    <airline>
+        <airlineid>1884</airlineid>
+        <name>Continental Micronesia</name>
+        <iata>CS</iata>
+        <icao>CMI</icao>
+    </airline>
+    <airline>
+        <airlineid>1886</airlineid>
+        <name>Conviasa</name>
+        <iata>V0</iata>
+        <icao>VCV</icao>
+    </airline>
+    <airline>
+        <airlineid>1889</airlineid>
+        <name>Copa Airlines</name>
+        <iata>CM</iata>
+        <icao>CMP</icao>
+    </airline>
+    <airline>
+        <airlineid>1892</airlineid>
+        <name>Copterline</name>
+        <iata></iata>
+        <icao>AAQ</icao>
+    </airline>
+    <airline>
+        <airlineid>1894</airlineid>
+        <name>Corendon Airlines</name>
+        <iata></iata>
+        <icao>CAI</icao>
+    </airline>
+    <airline>
+        <airlineid>1908</airlineid>
+        <name>Corsairfly</name>
+        <iata>SS</iata>
+        <icao>CRL</icao>
+    </airline>
+    <airline>
+        <airlineid>1909</airlineid>
+        <name>Corse-Mediterranee</name>
+        <iata>XK</iata>
+        <icao>CCM</icao>
+    </airline>
+    <airline>
+        <airlineid>1923</airlineid>
+        <name>Crest Aviation</name>
+        <iata></iata>
+        <icao>CAN</icao>
+    </airline>
+    <airline>
+        <airlineid>1925</airlineid>
+        <name>Croatia Airlines</name>
+        <iata>OU</iata>
+        <icao>CTN</icao>
+    </airline>
+    <airline>
+        <airlineid>1931</airlineid>
+        <name>Crown Airways</name>
+        <iata></iata>
+        <icao>CRO</icao>
+    </airline>
+    <airline>
+        <airlineid>1936</airlineid>
+        <name>Cubana de Aviación</name>
+        <iata>CU</iata>
+        <icao>CUB</icao>
+    </airline>
+    <airline>
+        <airlineid>1942</airlineid>
+        <name>Cyprus Airways</name>
+        <iata>CY</iata>
+        <icao>CYP</icao>
+    </airline>
+    <airline>
+        <airlineid>1943</airlineid>
+        <name>Cyprus Turkish Airlines</name>
+        <iata>YK</iata>
+        <icao></icao>
+    </airline>
+    <airline>
+        <airlineid>1946</airlineid>
+        <name>Czech Airlines</name>
+        <iata>OK</iata>
+        <icao>CSA</icao>
+    </airline>
+    <airline>
+        <airlineid>1954</airlineid>
+        <name>DAT Danish Air Transport</name>
+        <iata>DX</iata>
+        <icao>DTR</icao>
+    </airline>
+    <airline>
+        <airlineid>1966</airlineid>
+        <name>Daallo Airlines</name>
+        <iata>D3</iata>
+        <icao>DAO</icao>
+    </airline>
+    <airline>
+        <airlineid>1973</airlineid>
+        <name>Dalavia</name>
+        <iata>H8</iata>
+        <icao>KHB</icao>
+    </airline>
+    <airline>
+        <airlineid>1983</airlineid>
+        <name>Darwin Airline</name>
+        <iata>0D</iata>
+        <icao>DWT</icao>
+    </airline>
+    <airline>
+        <airlineid>2006</airlineid>
+        <name>Delta Aerotaxi</name>
+        <iata></iata>
+        <icao>DEA</icao>
+    </airline>
+    <airline>
+        <airlineid>2009</airlineid>
+        <name>Delta Air Lines</name>
+        <iata>DL</iata>
+        <icao>DAL</icao>
+    </airline>
+    <airline>
+        <airlineid>2013</airlineid>
+        <name>Denim Air</name>
+        <iata></iata>
+        <icao>DNM</icao>
+    </airline>
+    <airline>
+        <airlineid>2021</airlineid>
+        <name>Deutsche Bahn</name>
+        <iata>2A</iata>
+        <icao></icao>
+    </airline>
+    <airline>
+        <airlineid>2041</airlineid>
+        <name>Djibouti Airlines</name>
+        <iata>D8</iata>
+        <icao>DJB</icao>
+    </airline>
+    <airline>
+        <airlineid>2042</airlineid>
+        <name>Dniproavia</name>
+        <iata></iata>
+        <icao>UDN</icao>
+    </airline>
+    <airline>
+        <airlineid>2047</airlineid>
+        <name>Dominicana de Aviaci</name>
+        <iata>DO</iata>
+        <icao>DOA</icao>
+    </airline>
+    <airline>
+        <airlineid>2048</airlineid>
+        <name>Domodedovo Airlines</name>
+        <iata>E3</iata>
+        <icao>DMO</icao>
+    </airline>
+    <airline>
+        <airlineid>2051</airlineid>
+        <name>DonbassAero</name>
+        <iata>5D</iata>
+        <icao>UDC</icao>
+    </airline>
+    <airline>
+        <airlineid>2056</airlineid>
+        <name>Dragonair</name>
+        <iata>KA</iata>
+        <icao>HDA</icao>
+    </airline>
+    <airline>
+        <airlineid>2058</airlineid>
+        <name>Druk Air</name>
+        <iata>KB</iata>
+        <icao>DRK</icao>
+    </airline>
+    <airline>
+        <airlineid>2061</airlineid>
+        <name>Dubrovnik Air</name>
+        <iata></iata>
+        <icao>DBK</icao>
+    </airline>
+    <airline>
+        <airlineid>2070</airlineid>
+        <name>Dutch Antilles Express</name>
+        <iata></iata>
+        <icao>DNL</icao>
+    </airline>
+    <airline>
+        <airlineid>2077</airlineid>
+        <name>dba</name>
+        <iata>DI</iata>
+        <icao>BAG</icao>
+    </airline>
+    <airline>
+        <airlineid>2091</airlineid>
+        <name>EVA Air</name>
+        <iata>BR</iata>
+        <icao>EVA</icao>
+    </airline>
+    <airline>
+        <airlineid>2094</airlineid>
+        <name>Eagle Air</name>
+        <iata>H7</iata>
+        <icao></icao>
+    </airline>
+    <airline>
+        <airlineid>2104</airlineid>
+        <name>East African</name>
+        <iata>QU</iata>
+        <icao>UGX</icao>
+    </airline>
+    <airline>
+        <airlineid>2117</airlineid>
+        <name>Eastern Airways</name>
+        <iata>T3</iata>
+        <icao>EZE</icao>
+    </airline>
+    <airline>
+        <airlineid>2125</airlineid>
+        <name>Eastland Air</name>
+        <iata>DK</iata>
+        <icao>ELA</icao>
+    </airline>
+    <airline>
+        <airlineid>2137</airlineid>
+        <name>Ecuavia</name>
+        <iata></iata>
+        <icao>ECU</icao>
+    </airline>
+    <airline>
+        <airlineid>2138</airlineid>
+        <name>Edelweiss Air</name>
+        <iata>WK</iata>
+        <icao>EDW</icao>
+    </airline>
+    <airline>
+        <airlineid>2143</airlineid>
+        <name>Egyptair</name>
+        <iata>MS</iata>
+        <icao>MSR</icao>
+    </airline>
+    <airline>
+        <airlineid>2150</airlineid>
+        <name>El Al Israel Airlines</name>
+        <iata>LY</iata>
+        <icao>ELY</icao>
+    </airline>
+    <airline>
+        <airlineid>2155</airlineid>
+        <name>El-Buraq Air Transport</name>
+        <iata>UZ</iata>
+        <icao>BRQ</icao>
+    </airline>
+    <airline>
+        <airlineid>2183</airlineid>
+        <name>Emirates</name>
+        <iata>EK</iata>
+        <icao>UAE</icao>
+    </airline>
+    <airline>
+        <airlineid>2193</airlineid>
+        <name>Empresa Ecuatoriana De Aviacion</name>
+        <iata>EU</iata>
+        <icao>EEA</icao>
+    </airline>
+    <airline>
+        <airlineid>2213</airlineid>
+        <name>Eritrean Airlines</name>
+        <iata>B8</iata>
+        <icao>ERT</icao>
+    </airline>
+    <airline>
+        <airlineid>2218</airlineid>
+        <name>Estonian Air</name>
+        <iata>OV</iata>
+        <icao>ELL</icao>
+    </airline>
+    <airline>
+        <airlineid>2220</airlineid>
+        <name>Ethiopian Airlines</name>
+        <iata>ET</iata>
+        <icao>ETH</icao>
+    </airline>
+    <airline>
+        <airlineid>2222</airlineid>
+        <name>Etihad Airways</name>
+        <iata>EY</iata>
+        <icao>ETD</icao>
+    </airline>
+    <airline>
+        <airlineid>2226</airlineid>
+        <name>Euro Exec Express</name>
+        <iata>RZ</iata>
+        <icao></icao>
+    </airline>
+    <airline>
+        <airlineid>2237</airlineid>
+        <name>Eurocypria Airlines</name>
+        <iata>UI</iata>
+        <icao>ECA</icao>
+    </airline>
+    <airline>
+        <airlineid>2239</airlineid>
+        <name>Eurofly Service</name>
+        <iata>GJ</iata>
+        <icao>EEU</icao>
+    </airline>
+    <airline>
+        <airlineid>2245</airlineid>
+        <name>Eurolot</name>
+        <iata>K2</iata>
+        <icao>ELO</icao>
+    </airline>
+    <airline>
+        <airlineid>2251</airlineid>
+        <name>European Air Express</name>
+        <iata>EA</iata>
+        <icao>EAL</icao>
+    </airline>
+    <airline>
+        <airlineid>2260</airlineid>
+        <name>Eurowings</name>
+        <iata>EW</iata>
+        <icao>EWG</icao>
+    </airline>
+    <airline>
+        <airlineid>2261</airlineid>
+        <name>Evergreen International Airlines</name>
+        <iata>EZ</iata>
+        <icao>EIA</icao>
+    </airline>
+    <airline>
+        <airlineid>2264</airlineid>
+        <name>Excel Airways</name>
+        <iata>JN</iata>
+        <icao>XLA</icao>
+    </airline>
+    <airline>
+        <airlineid>2265</airlineid>
+        <name>Excel Charter</name>
+        <iata></iata>
+        <icao>XEL</icao>
+    </airline>
+    <airline>
+        <airlineid>2293</airlineid>
+        <name>Express One International</name>
+        <iata>EO</iata>
+        <icao>LHN</icao>
+    </airline>
+    <airline>
+        <airlineid>2295</airlineid>
+        <name>ExpressJet</name>
+        <iata>XE</iata>
+        <icao>BTA</icao>
+    </airline>
+    <airline>
+        <airlineid>2297</airlineid>
+        <name>easyJet</name>
+        <iata>U2</iata>
+        <icao>EZY</icao>
+    </airline>
+    <airline>
+        <airlineid>2324</airlineid>
+        <name>Far Eastern Air Transport</name>
+        <iata>EF</iata>
+        <icao>EFA</icao>
+    </airline>
+    <airline>
+        <airlineid>2350</airlineid>
+        <name>Finnair</name>
+        <iata>AY</iata>
+        <icao>FIN</icao>
+    </airline>
+    <airline>
+        <airlineid>2351</airlineid>
+        <name>Finncomm Airlines</name>
+        <iata>FC</iata>
+        <icao>WBA</icao>
+    </airline>
+    <airline>
+        <airlineid>2353</airlineid>
+        <name>Firefly</name>
+        <iata>FY</iata>
+        <icao>FFM</icao>
+    </airline>
+    <airline>
+        <airlineid>2354</airlineid>
+        <name>First Air</name>
+        <iata>7F</iata>
+        <icao>FAB</icao>
+    </airline>
+    <airline>
+        <airlineid>2357</airlineid>
+        <name>First Choice Airways</name>
+        <iata>DP</iata>
+        <icao>FCA</icao>
+    </airline>
+    <airline>
+        <airlineid>2395</airlineid>
+        <name>Flightline</name>
+        <iata>B5</iata>
+        <icao>FLT</icao>
+    </airline>
+    <airline>
+        <airlineid>2404</airlineid>
+        <name>Florida West International Airways</name>
+        <iata>RF</iata>
+        <icao>FWL</icao>
+    </airline>
+    <airline>
+        <airlineid>2417</airlineid>
+        <name>AirAsia X</name>
+        <iata>D7</iata>
+        <icao>XAX</icao>
+    </airline>
+    <airline>
+        <airlineid>2418</airlineid>
+        <name>FlyLal</name>
+        <iata>TE</iata>
+        <icao>LIL</icao>
+    </airline>
+    <airline>
+        <airlineid>2419</airlineid>
+        <name>FlyNordic</name>
+        <iata>LF</iata>
+        <icao>NDC</icao>
+    </airline>
+    <airline>
+        <airlineid>2420</airlineid>
+        <name>Flybaboo</name>
+        <iata>F7</iata>
+        <icao>BBO</icao>
+    </airline>
+    <airline>
+        <airlineid>2421</airlineid>
+        <name>Flybe</name>
+        <iata>BE</iata>
+        <icao>BEE</icao>
+    </airline>
+    <airline>
+        <airlineid>2425</airlineid>
+        <name>Flyglobespan</name>
+        <iata>B4</iata>
+        <icao>GSM</icao>
+    </airline>
+    <airline>
+        <airlineid>2429</airlineid>
+        <name>Flyhy Cargo Airlines</name>
+        <iata></iata>
+        <icao>FYH</icao>
+    </airline>
+    <airline>
+        <airlineid>2439</airlineid>
+        <name>Formosa Airlines</name>
+        <iata>VY</iata>
+        <icao>FOS</icao>
+    </airline>
+    <airline>
+        <airlineid>2454</airlineid>
+        <name>Freedom Air</name>
+        <iata>FP</iata>
+        <icao>FRE</icao>
+    </airline>
+    <airline>
+        <airlineid>2456</airlineid>
+        <name>Freedom Airlines</name>
+        <iata></iata>
+        <icao>FRL</icao>
+    </airline>
+    <airline>
+        <airlineid>2468</airlineid>
+        <name>Frontier Airlines</name>
+        <iata>F9</iata>
+        <icao>FFT</icao>
+    </airline>
+    <airline>
+        <airlineid>2470</airlineid>
+        <name>Frontier Flying Service</name>
+        <iata>2F</iata>
+        <icao>FTA</icao>
+    </airline>
+    <airline>
+        <airlineid>2486</airlineid>
+        <name>GB Airways</name>
+        <iata>GT</iata>
+        <icao>GBL</icao>
+    </airline>
+    <airline>
+        <airlineid>2520</airlineid>
+        <name>Garuda Indonesia</name>
+        <iata>GA</iata>
+        <icao>GIA</icao>
+    </airline>
+    <airline>
+        <airlineid>2524</airlineid>
+        <name>Gazpromavia</name>
+        <iata>4G</iata>
+        <icao>GZP</icao>
+    </airline>
+    <airline>
+        <airlineid>2538</airlineid>
+        <name>Georgian Airways</name>
+        <iata>A9</iata>
+        <icao>TGZ</icao>
+    </airline>
+    <airline>
+        <airlineid>2541</airlineid>
+        <name>Georgian National Airlines</name>
+        <iata>QB</iata>
+        <icao>GFG</icao>
+    </airline>
+    <airline>
+        <airlineid>2547</airlineid>
+        <name>Germania</name>
+        <iata>ST</iata>
+        <icao>GMI</icao>
+    </airline>
+    <airline>
+        <airlineid>2548</airlineid>
+        <name>Germanwings</name>
+        <iata>4U</iata>
+        <icao>GWI</icao>
+    </airline>
+    <airline>
+        <airlineid>2556</airlineid>
+        <name>Ghana International Airlines</name>
+        <iata>G0</iata>
+        <icao>GHB</icao>
+    </airline>
+    <airline>
+        <airlineid>2575</airlineid>
+        <name>Go Air</name>
+        <iata>G8</iata>
+        <icao>GOW</icao>
+    </airline>
+    <airline>
+        <airlineid>2577</airlineid>
+        <name>GoJet Airlines</name>
+        <iata>G7</iata>
+        <icao>GJS</icao>
+    </airline>
+    <airline>
+        <airlineid>2581</airlineid>
+        <name>Gol Transportes Aéreos</name>
+        <iata>G3</iata>
+        <icao>GLO</icao>
+    </airline>
+    <airline>
+        <airlineid>2585</airlineid>
+        <name>Golden Air</name>
+        <iata>DC</iata>
+        <icao>GAO</icao>
+    </airline>
+    <airline>
+        <airlineid>2607</airlineid>
+        <name>Great Lakes Airlines</name>
+        <iata>ZK</iata>
+        <icao>GLA</icao>
+    </airline>
+    <airline>
+        <airlineid>2622</airlineid>
+        <name>Grupo TACA</name>
+        <iata>TA</iata>
+        <icao>TAT</icao>
+    </airline>
+    <airline>
+        <airlineid>2637</airlineid>
+        <name>Gulf Air</name>
+        <iata></iata>
+        <icao>GFA</icao>
+    </airline>
+    <airline>
+        <airlineid>2638</airlineid>
+        <name>Gulf Air Bahrain</name>
+        <iata>GF</iata>
+        <icao>GBA</icao>
+    </airline>
+    <airline>
+        <airlineid>2645</airlineid>
+        <name>Gulfstream International Airlines</name>
+        <iata></iata>
+        <icao>GFT</icao>
+    </airline>
+    <airline>
+        <airlineid>2657</airlineid>
+        <name>Hageland Aviation Services</name>
+        <iata>H6</iata>
+        <icao>HAG</icao>
+    </airline>
+    <airline>
+        <airlineid>2660</airlineid>
+        <name>Hainan Airlines</name>
+        <iata>HU</iata>
+        <icao>CHH</icao>
+    </airline>
+    <airline>
+        <airlineid>2663</airlineid>
+        <name>Haiti Ambassador Airlines</name>
+        <iata>2T</iata>
+        <icao>HAM</icao>
+    </airline>
+    <airline>
+        <airlineid>2674</airlineid>
+        <name>Hamburg International</name>
+        <iata>4R</iata>
+        <icao>HHI</icao>
+    </airline>
+    <airline>
+        <airlineid>2681</airlineid>
+        <name>TUIfly</name>
+        <iata>X3</iata>
+        <icao>HLX</icao>
+    </airline>
+    <airline>
+        <airlineid>2682</airlineid>
+        <name>Hapagfly</name>
+        <iata>HF</iata>
+        <icao>HLF</icao>
+    </airline>
+    <airline>
+        <airlineid>2688</airlineid>
+        <name>Hawaiian Airlines</name>
+        <iata>HA</iata>
+        <icao>HAL</icao>
+    </airline>
+    <airline>
+        <airlineid>2692</airlineid>
+        <name>Hawkair</name>
+        <iata>BH</iata>
+        <icao></icao>
+    </airline>
+    <airline>
+        <airlineid>2704</airlineid>
+        <name>Heli France</name>
+        <iata>8H</iata>
+        <icao>HFR</icao>
+    </airline>
+    <airline>
+        <airlineid>2731</airlineid>
+        <name>Helijet</name>
+        <iata>JB</iata>
+        <icao>JBA</icao>
+    </airline>
+    <airline>
+        <airlineid>2747</airlineid>
+        <name>Hellas Jet</name>
+        <iata>T4</iata>
+        <icao>HEJ</icao>
+    </airline>
+    <airline>
+        <airlineid>2748</airlineid>
+        <name>Hello</name>
+        <iata>HW</iata>
+        <icao>FHE</icao>
+    </airline>
+    <airline>
+        <airlineid>2750</airlineid>
+        <name>Helvetic Airways</name>
+        <iata>2L</iata>
+        <icao>OAW</icao>
+    </airline>
+    <airline>
+        <airlineid>2757</airlineid>
+        <name>Hex'Air</name>
+        <iata>UD</iata>
+        <icao>HER</icao>
+    </airline>
+    <airline>
+        <airlineid>2761</airlineid>
+        <name>Highland Airways</name>
+        <iata></iata>
+        <icao>HWY</icao>
+    </airline>
+    <airline>
+        <airlineid>2765</airlineid>
+        <name>Hokkaido International Airlines</name>
+        <iata>HD</iata>
+        <icao>ADO</icao>
+    </airline>
+    <airline>
+        <airlineid>2773</airlineid>
+        <name>Hong Kong Airlines</name>
+        <iata>HX</iata>
+        <icao>CRK</icao>
+    </airline>
+    <airline>
+        <airlineid>2774</airlineid>
+        <name>Hong Kong Express Airways</name>
+        <iata>UO</iata>
+        <icao>HKE</icao>
+    </airline>
+    <airline>
+        <airlineid>2778</airlineid>
+        <name>Horizon Air</name>
+        <iata>QX</iata>
+        <icao>QXE</icao>
+    </airline>
+    <airline>
+        <airlineid>2782</airlineid>
+        <name>Horizon Airlines</name>
+        <iata>BN</iata>
+        <icao>HZA</icao>
+    </airline>
+    <airline>
+        <airlineid>2822</airlineid>
+        <name>Iberia Airlines</name>
+        <iata>IB</iata>
+        <icao>IBE</icao>
+    </airline>
+    <airline>
+        <airlineid>2825</airlineid>
+        <name>Iberworld</name>
+        <iata>TY</iata>
+        <icao>IWD</icao>
+    </airline>
+    <airline>
+        <airlineid>2826</airlineid>
+        <name>Ibex Airlines</name>
+        <iata>FW</iata>
+        <icao>IBX</icao>
+    </airline>
+    <airline>
+        <airlineid>2829</airlineid>
+        <name>Icar Air</name>
+        <iata></iata>
+        <icao>RAC</icao>
+    </airline>
+    <airline>
+        <airlineid>2835</airlineid>
+        <name>Icelandair</name>
+        <iata>FI</iata>
+        <icao>ICE</icao>
+    </airline>
+    <airline>
+        <airlineid>2845</airlineid>
+        <name>Imair Airlines</name>
+        <iata>IK</iata>
+        <icao>ITX</icao>
+    </airline>
+    <airline>
+        <airlineid>2850</airlineid>
+        <name>IndiGo Airlines</name>
+        <iata>6E</iata>
+        <icao>IGO</icao>
+    </airline>
+    <airline>
+        <airlineid>2853</airlineid>
+        <name>Indian Airlines</name>
+        <iata>IC</iata>
+        <icao>IAC</icao>
+    </airline>
+    <airline>
+        <airlineid>2855</airlineid>
+        <name>Indigo</name>
+        <iata>I9</iata>
+        <icao>IBU</icao>
+    </airline>
+    <airline>
+        <airlineid>2857</airlineid>
+        <name>Indonesia AirAsia</name>
+        <iata>QZ</iata>
+        <icao>AWQ</icao>
+    </airline>
+    <airline>
+        <airlineid>2858</airlineid>
+        <name>Indonesian Airlines</name>
+        <iata>IO</iata>
+        <icao>IAA</icao>
+    </airline>
+    <airline>
+        <airlineid>2881</airlineid>
+        <name>Interair South Africa</name>
+        <iata>D6</iata>
+        <icao>ILN</icao>
+    </airline>
+    <airline>
+        <airlineid>2883</airlineid>
+        <name>Interavia Airlines</name>
+        <iata>ZA</iata>
+        <icao>SUW</icao>
+    </airline>
+    <airline>
+        <airlineid>2896</airlineid>
+        <name>Interlink Airlines</name>
+        <iata>ID</iata>
+        <icao>ITK</icao>
+    </airline>
+    <airline>
+        <airlineid>2916</airlineid>
+        <name>Intersky</name>
+        <iata>3L</iata>
+        <icao>ISK</icao>
+    </airline>
+    <airline>
+        <airlineid>2922</airlineid>
+        <name>Iran Air</name>
+        <iata>IR</iata>
+        <icao>IRA</icao>
+    </airline>
+    <airline>
+        <airlineid>2923</airlineid>
+        <name>Iran Aseman Airlines</name>
+        <iata>EP</iata>
+        <icao>IRC</icao>
+    </airline>
+    <airline>
+        <airlineid>2926</airlineid>
+        <name>Iraqi Airways</name>
+        <iata>IA</iata>
+        <icao>IAW</icao>
+    </airline>
+    <airline>
+        <airlineid>2937</airlineid>
+        <name>Island Airlines</name>
+        <iata>IS</iata>
+        <icao></icao>
+    </airline>
+    <airline>
+        <airlineid>2942</airlineid>
+        <name>Cargo Plus Aviation</name>
+        <iata>8L</iata>
+        <icao>CGP</icao>
+    </airline>
+    <airline>
+        <airlineid>2948</airlineid>
+        <name>Islas Airways</name>
+        <iata>IF</iata>
+        <icao>ISW</icao>
+    </airline>
+    <airline>
+        <airlineid>2950</airlineid>
+        <name>Islena De Inversiones</name>
+        <iata>WC</iata>
+        <icao>ISV</icao>
+    </airline>
+    <airline>
+        <airlineid>2954</airlineid>
+        <name>Israir</name>
+        <iata>6H</iata>
+        <icao>ISR</icao>
+    </airline>
+    <airline>
+        <airlineid>2958</airlineid>
+        <name>Itek Air</name>
+        <iata>GI</iata>
+        <icao>IKA</icao>
+    </airline>
+    <airline>
+        <airlineid>2969</airlineid>
+        <name>JAL Express</name>
+        <iata>JC</iata>
+        <icao>JEX</icao>
+    </airline>
+    <airline>
+        <airlineid>2970</airlineid>
+        <name>JALways</name>
+        <iata>JO</iata>
+        <icao>JAZ</icao>
+    </airline>
+    <airline>
+        <airlineid>2987</airlineid>
+        <name>Japan Airlines</name>
+        <iata>JL</iata>
+        <icao>JAL</icao>
+    </airline>
+    <airline>
+        <airlineid>2988</airlineid>
+        <name>Japan Airlines Domestic</name>
+        <iata>JL</iata>
+        <icao>JAL</icao>
+    </airline>
+    <airline>
+        <airlineid>2989</airlineid>
+        <name>Japan Asia Airways</name>
+        <iata>EG</iata>
+        <icao>JAA</icao>
+    </airline>
+    <airline>
+        <airlineid>2990</airlineid>
+        <name>Japan Transocean Air</name>
+        <iata>NU</iata>
+        <icao>JTA</icao>
+    </airline>
+    <airline>
+        <airlineid>2991</airlineid>
+        <name>Jat Airways</name>
+        <iata>JU</iata>
+        <icao>JAT</icao>
+    </airline>
+    <airline>
+        <airlineid>2993</airlineid>
+        <name>Jazeera Airways</name>
+        <iata>J9</iata>
+        <icao>JZR</icao>
+    </airline>
+    <airline>
+        <airlineid>2994</airlineid>
+        <name>Jeju Air</name>
+        <iata>7C</iata>
+        <icao>JJA</icao>
+    </airline>
+    <airline>
+        <airlineid>3000</airlineid>
+        <name>Jet Airways</name>
+        <iata>9W</iata>
+        <icao>JAI</icao>
+    </airline>
+    <airline>
+        <airlineid>3001</airlineid>
+        <name>Jet Airways</name>
+        <iata>QJ</iata>
+        <icao></icao>
+    </airline>
+    <airline>
+        <airlineid>3021</airlineid>
+        <name>Jetstar Asia Airways</name>
+        <iata>3K</iata>
+        <icao>JSA</icao>
+    </airline>
+    <airline>
+        <airlineid>3026</airlineid>
+        <name>Jet2.com</name>
+        <iata>LS</iata>
+        <icao>EXS</icao>
+    </airline>
+    <airline>
+        <airlineid>3027</airlineid>
+        <name>Jet4You</name>
+        <iata>8J</iata>
+        <icao>JFU</icao>
+    </airline>
+    <airline>
+        <airlineid>3029</airlineid>
+        <name>JetBlue Airways</name>
+        <iata>B6</iata>
+        <icao>JBU</icao>
+    </airline>
+    <airline>
+        <airlineid>3032</airlineid>
+        <name>Jetairfly</name>
+        <iata>JF</iata>
+        <icao>JAF</icao>
+    </airline>
+    <airline>
+        <airlineid>3039</airlineid>
+        <name>Jetflite</name>
+        <iata></iata>
+        <icao>JEF</icao>
+    </airline>
+    <airline>
+        <airlineid>3052</airlineid>
+        <name>Jetstar Airways</name>
+        <iata>JQ</iata>
+        <icao>JST</icao>
+    </airline>
+    <airline>
+        <airlineid>3081</airlineid>
+        <name>Juneyao Airlines</name>
+        <iata>HO</iata>
+        <icao>DKH</icao>
+    </airline>
+    <airline>
+        <airlineid>3087</airlineid>
+        <name>KD Avia</name>
+        <iata>KD</iata>
+        <icao>KNI</icao>
+    </airline>
+    <airline>
+        <airlineid>3088</airlineid>
+        <name>KLM Cityhopper</name>
+        <iata>WA</iata>
+        <icao>KLC</icao>
+    </airline>
+    <airline>
+        <airlineid>3090</airlineid>
+        <name>KLM Royal Dutch Airlines</name>
+        <iata>KL</iata>
+        <icao>KLM</icao>
+    </airline>
+    <airline>
+        <airlineid>3097</airlineid>
+        <name>Kam Air</name>
+        <iata>RQ</iata>
+        <icao>KMF</icao>
+    </airline>
+    <airline>
+        <airlineid>3110</airlineid>
+        <name>Kavminvodyavia</name>
+        <iata>KV</iata>
+        <icao>MVD</icao>
+    </airline>
+    <airline>
+        <airlineid>3122</airlineid>
+        <name>Kendell Airlines</name>
+        <iata></iata>
+        <icao>KDA</icao>
+    </airline>
+    <airline>
+        <airlineid>3123</airlineid>
+        <name>Kenmore Air</name>
+        <iata>M5</iata>
+        <icao>KEN</icao>
+    </airline>
+    <airline>
+        <airlineid>3126</airlineid>
+        <name>Kenya Airways</name>
+        <iata>KQ</iata>
+        <icao>KQA</icao>
+    </airline>
+    <airline>
+        <airlineid>3142</airlineid>
+        <name>Kingfisher Airlines</name>
+        <iata>IT</iata>
+        <icao>KFR</icao>
+    </airline>
+    <airline>
+        <airlineid>3148</airlineid>
+        <name>Kish Air</name>
+        <iata>Y9</iata>
+        <icao>IRK</icao>
+    </airline>
+    <airline>
+        <airlineid>3157</airlineid>
+        <name>Kogalymavia Air Company</name>
+        <iata>7K</iata>
+        <icao>KGL</icao>
+    </airline>
+    <airline>
+        <airlineid>3163</airlineid>
+        <name>Korean Air</name>
+        <iata>KE</iata>
+        <icao>KAL</icao>
+    </airline>
+    <airline>
+        <airlineid>3165</airlineid>
+        <name>Kosmos</name>
+        <iata></iata>
+        <icao>KSM</icao>
+    </airline>
+    <airline>
+        <airlineid>3168</airlineid>
+        <name>Krasnojarsky Airlines</name>
+        <iata>7B</iata>
+        <icao>KJC</icao>
+    </airline>
+    <airline>
+        <airlineid>3175</airlineid>
+        <name>Kuban Airlines</name>
+        <iata>GW</iata>
+        <icao>KIL</icao>
+    </airline>
+    <airline>
+        <airlineid>3179</airlineid>
+        <name>Kuwait Airways</name>
+        <iata>KU</iata>
+        <icao>KAC</icao>
+    </airline>
+    <airline>
+        <airlineid>3180</airlineid>
+        <name>Kuzu Airlines Cargo</name>
+        <iata>GO</iata>
+        <icao>KZU</icao>
+    </airline>
+    <airline>
+        <airlineid>3197</airlineid>
+        <name>LACSA</name>
+        <iata>LR</iata>
+        <icao>LRC</icao>
+    </airline>
+    <airline>
+        <airlineid>3200</airlineid>
+        <name>LAN Airlines</name>
+        <iata>LA</iata>
+        <icao>LAN</icao>
+    </airline>
+    <airline>
+        <airlineid>3201</airlineid>
+        <name>LAN Argentina</name>
+        <iata>4M</iata>
+        <icao>DSM</icao>
+    </airline>
+    <airline>
+        <airlineid>3204</airlineid>
+        <name>LAN Express</name>
+        <iata>LU</iata>
+        <icao>LXP</icao>
+    </airline>
+    <airline>
+        <airlineid>3205</airlineid>
+        <name>LAN Peru</name>
+        <iata>LP</iata>
+        <icao>LPE</icao>
+    </airline>
+    <airline>
+        <airlineid>3210</airlineid>
+        <name>LOT Polish Airlines</name>
+        <iata>LO</iata>
+        <icao>LOT</icao>
+    </airline>
+    <airline>
+        <airlineid>3211</airlineid>
+        <name>LTE International Airways</name>
+        <iata>XO</iata>
+        <icao>LTE</icao>
+    </airline>
+    <airline>
+        <airlineid>3212</airlineid>
+        <name>LTU Austria</name>
+        <iata>L3</iata>
+        <icao>LTO</icao>
+    </airline>
+    <airline>
+        <airlineid>3213</airlineid>
+        <name>LTU International</name>
+        <iata>LT</iata>
+        <icao>LTU</icao>
+    </airline>
+    <airline>
+        <airlineid>3233</airlineid>
+        <name>Lao Airlines</name>
+        <iata>QV</iata>
+        <icao>LAO</icao>
+    </airline>
+    <airline>
+        <airlineid>3237</airlineid>
+        <name>LatCharter</name>
+        <iata></iata>
+        <icao>LTC</icao>
+    </airline>
+    <airline>
+        <airlineid>3239</airlineid>
+        <name>Lauda Air</name>
+        <iata>NG</iata>
+        <icao>LDA</icao>
+    </airline>
+    <airline>
+        <airlineid>3251</airlineid>
+        <name>Leeward Islands Air Transport</name>
+        <iata>LI</iata>
+        <icao>LIA</icao>
+    </airline>
+    <airline>
+        <airlineid>3258</airlineid>
+        <name>Libyan Arab Airlines</name>
+        <iata>LN</iata>
+        <icao>LAA</icao>
+    </airline>
+    <airline>
+        <airlineid>3287</airlineid>
+        <name>Linhas A</name>
+        <iata>LM</iata>
+        <icao>LAM</icao>
+    </airline>
+    <airline>
+        <airlineid>3290</airlineid>
+        <name>Lion Mentari Airlines</name>
+        <iata>JT</iata>
+        <icao>LNI</icao>
+    </airline>
+    <airline>
+        <airlineid>3319</airlineid>
+        <name>Luftfahrtgesellschaft Walter</name>
+        <iata>HE</iata>
+        <icao>LGW</icao>
+    </airline>
+    <airline>
+        <airlineid>3320</airlineid>
+        <name>Lufthansa</name>
+        <iata>LH</iata>
+        <icao>DLH</icao>
+    </airline>
+    <airline>
+        <airlineid>3321</airlineid>
+        <name>Lufthansa Cargo</name>
+        <iata>LH</iata>
+        <icao>GEC</icao>
+    </airline>
+    <airline>
+        <airlineid>3322</airlineid>
+        <name>Lufthansa CityLine</name>
+        <iata>CL</iata>
+        <icao>CLH</icao>
+    </airline>
+    <airline>
+        <airlineid>3326</airlineid>
+        <name>Lufttransport</name>
+        <iata>L5</iata>
+        <icao>LTR</icao>
+    </airline>
+    <airline>
+        <airlineid>3329</airlineid>
+        <name>Luxair</name>
+        <iata>LG</iata>
+        <icao>LGL</icao>
+    </airline>
+    <airline>
+        <airlineid>3342</airlineid>
+        <name>L</name>
+        <iata>MJ</iata>
+        <icao>LPR</icao>
+    </airline>
+    <airline>
+        <airlineid>3349</airlineid>
+        <name>MasAir</name>
+        <iata>M7</iata>
+        <icao>MAA</icao>
+    </airline>
+    <airline>
+        <airlineid>3350</airlineid>
+        <name>MAT Macedonian Airlines</name>
+        <iata>IN</iata>
+        <icao>MAK</icao>
+    </airline>
+    <airline>
+        <airlineid>3354</airlineid>
+        <name>MIAT Mongolian Airlines</name>
+        <iata>OM</iata>
+        <icao>MGL</icao>
+    </airline>
+    <airline>
+        <airlineid>3357</airlineid>
+        <name>MNG Airlines</name>
+        <iata>MB</iata>
+        <icao>MNB</icao>
+    </airline>
+    <airline>
+        <airlineid>3363</airlineid>
+        <name>Macair Airlines</name>
+        <iata>CC</iata>
+        <icao>MCK</icao>
+    </airline>
+    <airline>
+        <airlineid>3366</airlineid>
+        <name>Maersk</name>
+        <iata>DM</iata>
+        <icao></icao>
+    </airline>
+    <airline>
+        <airlineid>3370</airlineid>
+        <name>Mahan Air</name>
+        <iata>W5</iata>
+        <icao>IRM</icao>
+    </airline>
+    <airline>
+        <airlineid>3378</airlineid>
+        <name>Malaysia Airlines</name>
+        <iata>MH</iata>
+        <icao>MAS</icao>
+    </airline>
+    <airline>
+        <airlineid>3384</airlineid>
+        <name>Malmo Aviation</name>
+        <iata></iata>
+        <icao>SCW</icao>
+    </airline>
+    <airline>
+        <airlineid>3386</airlineid>
+        <name>Malmö Aviation</name>
+        <iata>TF</iata>
+        <icao>SCW</icao>
+    </airline>
+    <airline>
+        <airlineid>3387</airlineid>
+        <name>Malta Air Charter</name>
+        <iata>R5</iata>
+        <icao>MAC</icao>
+    </airline>
+    <airline>
+        <airlineid>3389</airlineid>
+        <name>Malév</name>
+        <iata>MA</iata>
+        <icao>MAH</icao>
+    </airline>
+    <airline>
+        <airlineid>3391</airlineid>
+        <name>Mandala Airlines</name>
+        <iata>RI</iata>
+        <icao>MDL</icao>
+    </airline>
+    <airline>
+        <airlineid>3392</airlineid>
+        <name>Mandarin Airlines</name>
+        <iata>AE</iata>
+        <icao>MDA</icao>
+    </airline>
+    <airline>
+        <airlineid>3393</airlineid>
+        <name>Mango</name>
+        <iata>JE</iata>
+        <icao>MNO</icao>
+    </airline>
+    <airline>
+        <airlineid>3411</airlineid>
+        <name>Martinair</name>
+        <iata>MP</iata>
+        <icao>MPH</icao>
+    </airline>
+    <airline>
+        <airlineid>3432</airlineid>
+        <name>Maxair</name>
+        <iata>8M</iata>
+        <icao>MXL</icao>
+    </airline>
+    <airline>
+        <airlineid>3437</airlineid>
+        <name>Maya Island Air</name>
+        <iata>MW</iata>
+        <icao>MYD</icao>
+    </airline>
+    <airline>
+        <airlineid>3463</airlineid>
+        <name>Meridiana</name>
+        <iata>IG</iata>
+        <icao>ISS</icao>
+    </airline>
+    <airline>
+        <airlineid>3465</airlineid>
+        <name>Merpati Nusantara Airlines</name>
+        <iata>MZ</iata>
+        <icao>MNA</icao>
+    </airline>
+    <airline>
+        <airlineid>3466</airlineid>
+        <name>Mesa Airlines</name>
+        <iata>YV</iata>
+        <icao>ASH</icao>
+    </airline>
+    <airline>
+        <airlineid>3467</airlineid>
+        <name>Mesaba Airlines</name>
+        <iata>XJ</iata>
+        <icao>MES</icao>
+    </airline>
+    <airline>
+        <airlineid>3479</airlineid>
+        <name>Mexicana de Aviaci</name>
+        <iata>MX</iata>
+        <icao>MXA</icao>
+    </airline>
+    <airline>
+        <airlineid>3490</airlineid>
+        <name>Middle East Airlines</name>
+        <iata>ME</iata>
+        <icao>MEA</icao>
+    </airline>
+    <airline>
+        <airlineid>3494</airlineid>
+        <name>Midway Airlines</name>
+        <iata>JI</iata>
+        <icao>MDW</icao>
+    </airline>
+    <airline>
+        <airlineid>3497</airlineid>
+        <name>Midwest Airlines</name>
+        <iata>YX</iata>
+        <icao>MEP</icao>
+    </airline>
+    <airline>
+        <airlineid>3498</airlineid>
+        <name>Midwest Airlines (Egypt)</name>
+        <iata>MY</iata>
+        <icao>MWA</icao>
+    </airline>
+    <airline>
+        <airlineid>3529</airlineid>
+        <name>Moldavian Airlines</name>
+        <iata>2M</iata>
+        <icao>MDV</icao>
+    </airline>
+    <airline>
+        <airlineid>3532</airlineid>
+        <name>Monarch Airlines</name>
+        <iata>ZB</iata>
+        <icao>MON</icao>
+    </airline>
+    <airline>
+        <airlineid>3534</airlineid>
+        <name>Myway Airlines</name>
+        <iata>8I</iata>
+        <icao></icao>
+    </airline>
+    <airline>
+        <airlineid>3539</airlineid>
+        <name>Montenegro Airlines</name>
+        <iata>YM</iata>
+        <icao>MGX</icao>
+    </airline>
+    <airline>
+        <airlineid>3542</airlineid>
+        <name>Morningstar Air Express</name>
+        <iata></iata>
+        <icao>MAL</icao>
+    </airline>
+    <airline>
+        <airlineid>3545</airlineid>
+        <name>Moskovia Airlines</name>
+        <iata>3R</iata>
+        <icao>GAI</icao>
+    </airline>
+    <airline>
+        <airlineid>3547</airlineid>
+        <name>Motor Sich</name>
+        <iata>M9</iata>
+        <icao>MSI</icao>
+    </airline>
+    <airline>
+        <airlineid>3568</airlineid>
+        <name>MyTravel Airways</name>
+        <iata>VZ</iata>
+        <icao>MYT</icao>
+    </airline>
+    <airline>
+        <airlineid>3569</airlineid>
+        <name>Myanma Airways</name>
+        <iata>UB</iata>
+        <icao>UBA</icao>
+    </airline>
+    <airline>
+        <airlineid>3570</airlineid>
+        <name>Myanmar Airways International</name>
+        <iata>8M</iata>
+        <icao>MMM</icao>
+    </airline>
+    <airline>
+        <airlineid>3571</airlineid>
+        <name>Myflug</name>
+        <iata></iata>
+        <icao>MYA</icao>
+    </airline>
+    <airline>
+        <airlineid>3589</airlineid>
+        <name>Nasair</name>
+        <iata>UE</iata>
+        <icao>NAS</icao>
+    </airline>
+    <airline>
+        <airlineid>3608</airlineid>
+        <name>National Jet Systems</name>
+        <iata>NC</iata>
+        <icao>NJS</icao>
+    </airline>
+    <airline>
+        <airlineid>3613</airlineid>
+        <name>Nationwide Airlines</name>
+        <iata>CE</iata>
+        <icao>NTW</icao>
+    </airline>
+    <airline>
+        <airlineid>3618</airlineid>
+        <name>Nauru Air Corporation</name>
+        <iata>ON</iata>
+        <icao>RON</icao>
+    </airline>
+    <airline>
+        <airlineid>3637</airlineid>
+        <name>Nepal Airlines</name>
+        <iata>RA</iata>
+        <icao>RNA</icao>
+    </airline>
+    <airline>
+        <airlineid>3641</airlineid>
+        <name>NetJets</name>
+        <iata>1I</iata>
+        <icao>EJA</icao>
+    </airline>
+    <airline>
+        <airlineid>3644</airlineid>
+        <name>New England Airlines</name>
+        <iata>EJ</iata>
+        <icao>NEA</icao>
+    </airline>
+    <airline>
+        <airlineid>3652</airlineid>
+        <name>NextJet</name>
+        <iata>2N</iata>
+        <icao>NTJ</icao>
+    </airline>
+    <airline>
+        <airlineid>3661</airlineid>
+        <name>Niki</name>
+        <iata>HG</iata>
+        <icao>NLY</icao>
+    </airline>
+    <airline>
+        <airlineid>3674</airlineid>
+        <name>Nok Air</name>
+        <iata>DD</iata>
+        <icao>NOK</icao>
+    </airline>
+    <airline>
+        <airlineid>3684</airlineid>
+        <name>Norfolk County Flight College</name>
+        <iata></iata>
+        <icao>NCF</icao>
+    </airline>
+    <airline>
+        <airlineid>3693</airlineid>
+        <name>North American Airlines</name>
+        <iata></iata>
+        <icao>NTM</icao>
+    </airline>
+    <airline>
+        <airlineid>3694</airlineid>
+        <name>North American Charters</name>
+        <iata></iata>
+        <icao>HMR</icao>
+    </airline>
+    <airline>
+        <airlineid>3721</airlineid>
+        <name>Northern Dene Airways</name>
+        <iata>U7</iata>
+        <icao></icao>
+    </airline>
+    <airline>
+        <airlineid>3731</airlineid>
+        <name>Northwest Airlines</name>
+        <iata>NW</iata>
+        <icao>NWA</icao>
+    </airline>
+    <airline>
+        <airlineid>3734</airlineid>
+        <name>Northwestern Air</name>
+        <iata>J3</iata>
+        <icao>PLR</icao>
+    </airline>
+    <airline>
+        <airlineid>3737</airlineid>
+        <name>Norwegian Air Shuttle</name>
+        <iata>DY</iata>
+        <icao>NAX</icao>
+    </airline>
+    <airline>
+        <airlineid>3738</airlineid>
+        <name>Norwegian Aviation College</name>
+        <iata></iata>
+        <icao>TFN</icao>
+    </airline>
+    <airline>
+        <airlineid>3740</airlineid>
+        <name>Nouvel Air Tunisie</name>
+        <iata>BJ</iata>
+        <icao>LBT</icao>
+    </airline>
+    <airline>
+        <airlineid>3743</airlineid>
+        <name>Novair</name>
+        <iata>1I</iata>
+        <icao>NVR</icao>
+    </airline>
+    <airline>
+        <airlineid>3754</airlineid>
+        <name>Nas Air</name>
+        <iata>XY</iata>
+        <icao>KNE</icao>
+    </airline>
+    <airline>
+        <airlineid>3759</airlineid>
+        <name>Oasis Hong Kong Airlines</name>
+        <iata>O8</iata>
+        <icao>OHK</icao>
+    </airline>
+    <airline>
+        <airlineid>3760</airlineid>
+        <name>Ocean Air</name>
+        <iata></iata>
+        <icao>BCN</icao>
+    </airline>
+    <airline>
+        <airlineid>3764</airlineid>
+        <name>Oceanair</name>
+        <iata>O6</iata>
+        <icao>ONE</icao>
+    </airline>
+    <airline>
+        <airlineid>3765</airlineid>
+        <name>Oceanic Airlines</name>
+        <iata>O2</iata>
+        <icao></icao>
+    </airline>
+    <airline>
+        <airlineid>3776</airlineid>
+        <name>Olympic Airlines</name>
+        <iata>OA</iata>
+        <icao>OAL</icao>
+    </airline>
+    <airline>
+        <airlineid>3778</airlineid>
+        <name>Oman Air</name>
+        <iata>WY</iata>
+        <icao>OMA</icao>
+    </airline>
+    <airline>
+        <airlineid>3781</airlineid>
+        <name>Omni Air International</name>
+        <iata>OY</iata>
+        <icao>OAE</icao>
+    </airline>
+    <airline>
+        <airlineid>3785</airlineid>
+        <name>One Two Go Airlines</name>
+        <iata></iata>
+        <icao>OTG</icao>
+    </airline>
+    <airline>
+        <airlineid>3788</airlineid>
+        <name>Onur Air</name>
+        <iata>8Q</iata>
+        <icao>OHY</icao>
+    </airline>
+    <airline>
+        <airlineid>3805</airlineid>
+        <name>Orenburg Airlines</name>
+        <iata>R2</iata>
+        <icao>ORB</icao>
+    </airline>
+    <airline>
+        <airlineid>3811</airlineid>
+        <name>Orient Thai Airlines</name>
+        <iata>OX</iata>
+        <icao>OEA</icao>
+    </airline>
+    <airline>
+        <airlineid>3814</airlineid>
+        <name>Origin Pacific Airways</name>
+        <iata>QO</iata>
+        <icao>OGN</icao>
+    </airline>
+    <airline>
+        <airlineid>3822</airlineid>
+        <name>Ostfriesische Lufttransport</name>
+        <iata>OL</iata>
+        <icao>OLT</icao>
+    </airline>
+    <airline>
+        <airlineid>3826</airlineid>
+        <name>Overland Airways</name>
+        <iata>OJ</iata>
+        <icao>OLA</icao>
+    </airline>
+    <airline>
+        <airlineid>3831</airlineid>
+        <name>Ozjet Airlines</name>
+        <iata>O7</iata>
+        <icao>OZJ</icao>
+    </airline>
+    <airline>
+        <airlineid>3834</airlineid>
+        <name>PAN Air</name>
+        <iata>PV</iata>
+        <icao>PNR</icao>
+    </airline>
+    <airline>
+        <airlineid>3835</airlineid>
+        <name>PB Air</name>
+        <iata>9Q</iata>
+        <icao>PBA</icao>
+    </airline>
+    <airline>
+        <airlineid>3839</airlineid>
+        <name>PLUNA</name>
+        <iata>PU</iata>
+        <icao>PUA</icao>
+    </airline>
+    <airline>
+        <airlineid>3840</airlineid>
+        <name>PMTair</name>
+        <iata>U4</iata>
+        <icao>PMT</icao>
+    </airline>
+    <airline>
+        <airlineid>3850</airlineid>
+        <name>Jetstar Pacific</name>
+        <iata>BL</iata>
+        <icao>PIC</icao>
+    </airline>
+    <airline>
+        <airlineid>3856</airlineid>
+        <name>Pacific Coastal Airline</name>
+        <iata>8P</iata>
+        <icao>PCO</icao>
+    </airline>
+    <airline>
+        <airlineid>3857</airlineid>
+        <name>Pacific East Asia Cargo Airlines</name>
+        <iata>Q8</iata>
+        <icao>PEC</icao>
+    </airline>
+    <airline>
+        <airlineid>3860</airlineid>
+        <name>Pacific Island Aviation</name>
+        <iata></iata>
+        <icao>PSA</icao>
+    </airline>
+    <airline>
+        <airlineid>3865</airlineid>
+        <name>Pacific Wings</name>
+        <iata>LW</iata>
+        <icao>NMI</icao>
+    </airline>
+    <airline>
+        <airlineid>3871</airlineid>
+        <name>Pakistan International Airlines</name>
+        <iata>PK</iata>
+        <icao>PIA</icao>
+    </airline>
+    <airline>
+        <airlineid>3907</airlineid>
+        <name>Paramount Airways</name>
+        <iata>I7</iata>
+        <icao>PMW</icao>
+    </airline>
+    <airline>
+        <airlineid>3914</airlineid>
+        <name>Passaredo Transportes Aereos</name>
+        <iata></iata>
+        <icao>PTB</icao>
+    </airline>
+    <airline>
+        <airlineid>3926</airlineid>
+        <name>Pegasus Airlines</name>
+        <iata>PC</iata>
+        <icao>PGT</icao>
+    </airline>
+    <airline>
+        <airlineid>3935</airlineid>
+        <name>Peninsula Airways</name>
+        <iata>KS</iata>
+        <icao>PEN</icao>
+    </airline>
+    <airline>
+        <airlineid>3952</airlineid>
+        <name>Philippine Airlines</name>
+        <iata>PR</iata>
+        <icao>PAL</icao>
+    </airline>
+    <airline>
+        <airlineid>3969</airlineid>
+        <name>Piedmont Airlines (1948-1989)</name>
+        <iata>PI</iata>
+        <icao>PDT</icao>
+    </airline>
+    <airline>
+        <airlineid>3976</airlineid>
+        <name>Pinnacle Airlines</name>
+        <iata>9E</iata>
+        <icao>FLG</icao>
+    </airline>
+    <airline>
+        <airlineid>3995</airlineid>
+        <name>Polet</name>
+        <iata></iata>
+        <icao>POT</icao>
+    </airline>
+    <airline>
+        <airlineid>4013</airlineid>
+        <name>Polynesian Airlines</name>
+        <iata>PH</iata>
+        <icao>PAO</icao>
+    </airline>
+    <airline>
+        <airlineid>4021</airlineid>
+        <name>Porter Airlines</name>
+        <iata>PD</iata>
+        <icao>POE</icao>
+    </airline>
+    <airline>
+        <airlineid>4022</airlineid>
+        <name>Portugalia</name>
+        <iata>NI</iata>
+        <icao>PGA</icao>
+    </airline>
+    <airline>
+        <airlineid>4026</airlineid>
+        <name>Potomac Air</name>
+        <iata>BK</iata>
+        <icao>PDC</icao>
+    </airline>
+    <airline>
+        <airlineid>4031</airlineid>
+        <name>Precision Air</name>
+        <iata>PW</iata>
+        <icao>PRF</icao>
+    </airline>
+    <airline>
+        <airlineid>4056</airlineid>
+        <name>Privatair</name>
+        <iata></iata>
+        <icao>PTI</icao>
+    </airline>
+    <airline>
+        <airlineid>4066</airlineid>
+        <name>Proflight Commuter Services</name>
+        <iata>P0</iata>
+        <icao></icao>
+    </airline>
+    <airline>
+        <airlineid>4089</airlineid>
+        <name>Qantas</name>
+        <iata>QF</iata>
+        <icao>QFA</icao>
+    </airline>
+    <airline>
+        <airlineid>4091</airlineid>
+        <name>Qatar Airways</name>
+        <iata>QR</iata>
+        <icao>QTR</icao>
+    </airline>
+    <airline>
+        <airlineid>4106</airlineid>
+        <name>RACSA</name>
+        <iata>R6</iata>
+        <icao></icao>
+    </airline>
+    <airline>
+        <airlineid>4113</airlineid>
+        <name>Kinloss Flying Training Unit</name>
+        <iata></iata>
+        <icao>KIN</icao>
+    </airline>
+    <airline>
+        <airlineid>4177</airlineid>
+        <name>Regional Airlines</name>
+        <iata>FN</iata>
+        <icao></icao>
+    </airline>
+    <airline>
+        <airlineid>4178</airlineid>
+        <name>Regional Express</name>
+        <iata>ZL</iata>
+        <icao>RXA</icao>
+    </airline>
+    <airline>
+        <airlineid>4187</airlineid>
+        <name>Republic Airlines</name>
+        <iata>RW</iata>
+        <icao>RPA</icao>
+    </airline>
+    <airline>
+        <airlineid>4188</airlineid>
+        <name>Republic Express Airlines</name>
+        <iata>RH</iata>
+        <icao>RPH</icao>
+    </airline>
+    <airline>
+        <airlineid>4232</airlineid>
+        <name>Rossiya</name>
+        <iata>R4</iata>
+        <icao></icao>
+    </airline>
+    <airline>
+        <airlineid>4234</airlineid>
+        <name>Air Rarotonga</name>
+        <iata>GZ</iata>
+        <icao>RAR</icao>
+    </airline>
+    <airline>
+        <airlineid>4248</airlineid>
+        <name>Royal Air Maroc</name>
+        <iata>AT</iata>
+        <icao>RAM</icao>
+    </airline>
+    <airline>
+        <airlineid>4255</airlineid>
+        <name>Royal Brunei Airlines</name>
+        <iata>BI</iata>
+        <icao>RBA</icao>
+    </airline>
+    <airline>
+        <airlineid>4259</airlineid>
+        <name>Royal Jordanian</name>
+        <iata>RJ</iata>
+        <icao>RJA</icao>
+    </airline>
+    <airline>
+        <airlineid>4264</airlineid>
+        <name>Royal Nepal Airlines</name>
+        <iata>RA</iata>
+        <icao>RNA</icao>
+    </airline>
+    <airline>
+        <airlineid>4270</airlineid>
+        <name>Royal Phnom Penh Airways</name>
+        <iata></iata>
+        <icao>PPW</icao>
+    </airline>
+    <airline>
+        <airlineid>4283</airlineid>
+        <name>Rusline</name>
+        <iata></iata>
+        <icao>RLU</icao>
+    </airline>
+    <airline>
+        <airlineid>4292</airlineid>
+        <name>Rwandair Express</name>
+        <iata>WB</iata>
+        <icao>RWD</icao>
+    </airline>
+    <airline>
+        <airlineid>4294</airlineid>
+        <name>Ryan Air Services</name>
+        <iata></iata>
+        <icao>RYA</icao>
+    </airline>
+    <airline>
+        <airlineid>4295</airlineid>
+        <name>Ryan International Airlines</name>
+        <iata>RD</iata>
+        <icao>RYN</icao>
+    </airline>
+    <airline>
+        <airlineid>4296</airlineid>
+        <name>Ryanair</name>
+        <iata>FR</iata>
+        <icao>RYR</icao>
+    </airline>
+    <airline>
+        <airlineid>4299</airlineid>
+        <name>Régional</name>
+        <iata>YS</iata>
+        <icao>RAE</icao>
+    </airline>
+    <airline>
+        <airlineid>4304</airlineid>
+        <name>SATA International</name>
+        <iata>S4</iata>
+        <icao>RZO</icao>
+    </airline>
+    <airline>
+        <airlineid>4305</airlineid>
+        <name>South African Airways</name>
+        <iata>SA</iata>
+        <icao>SAA</icao>
+    </airline>
+    <airline>
+        <airlineid>4311</airlineid>
+        <name>Shaheen Air International</name>
+        <iata>NL</iata>
+        <icao>SAI</icao>
+    </airline>
+    <airline>
+        <airlineid>4319</airlineid>
+        <name>Scandinavian Airlines System</name>
+        <iata>SK</iata>
+        <icao>SAS</icao>
+    </airline>
+    <airline>
+        <airlineid>4323</airlineid>
+        <name>ScotAirways</name>
+        <iata></iata>
+        <icao>SAY</icao>
+    </airline>
+    <airline>
+        <airlineid>4329</airlineid>
+        <name>S7 Airlines</name>
+        <iata>S7</iata>
+        <icao>SBI</icao>
+    </airline>
+    <airline>
+        <airlineid>4335</airlineid>
+        <name>Seaborne Airlines</name>
+        <iata>BB</iata>
+        <icao>SBS</icao>
+    </airline>
+    <airline>
+        <airlineid>4342</airlineid>
+        <name>Scenic Airlines</name>
+        <iata></iata>
+        <icao>SCE</icao>
+    </airline>
+    <airline>
+        <airlineid>4349</airlineid>
+        <name>SriLankan Airlines</name>
+        <iata>UL</iata>
+        <icao>ALK</icao>
+    </airline>
+    <airline>
+        <airlineid>4356</airlineid>
+        <name>Sun Country Airlines</name>
+        <iata>SY</iata>
+        <icao>SCX</icao>
+    </airline>
+    <airline>
+        <airlineid>4370</airlineid>
+        <name>Southeast Air</name>
+        <iata></iata>
+        <icao>SEA</icao>
+    </airline>
+    <airline>
+        <airlineid>4374</airlineid>
+        <name>Sky Express</name>
+        <iata>G3</iata>
+        <icao>SEH</icao>
+    </airline>
+    <airline>
+        <airlineid>4375</airlineid>
+        <name>Spicejet</name>
+        <iata>SG</iata>
+        <icao>SEJ</icao>
+    </airline>
+    <airline>
+        <airlineid>4388</airlineid>
+        <name>Star Flyer</name>
+        <iata>7G</iata>
+        <icao>SFJ</icao>
+    </airline>
+    <airline>
+        <airlineid>4411</airlineid>
+        <name>Skagway Air Service</name>
+        <iata>N5</iata>
+        <icao>SGY</icao>
+    </airline>
+    <airline>
+        <airlineid>4414</airlineid>
+        <name>Sahara Airlines</name>
+        <iata></iata>
+        <icao>SHD</icao>
+    </airline>
+    <airline>
+        <airlineid>4429</airlineid>
+        <name>SATA Air Acores</name>
+        <iata>SP</iata>
+        <icao>SAT</icao>
+    </airline>
+    <airline>
+        <airlineid>4435</airlineid>
+        <name>Singapore Airlines</name>
+        <iata>SQ</iata>
+        <icao>SIA</icao>
+    </airline>
+    <airline>
+        <airlineid>4436</airlineid>
+        <name>Sibaviatrans</name>
+        <iata>5M</iata>
+        <icao>SIB</icao>
+    </airline>
+    <airline>
+        <airlineid>4438</airlineid>
+        <name>Skynet Airlines</name>
+        <iata>SI</iata>
+        <icao>SIH</icao>
+    </airline>
+    <airline>
+        <airlineid>4454</airlineid>
+        <name>Sriwijaya Air</name>
+        <iata>SJ</iata>
+        <icao>SJY</icao>
+    </airline>
+    <airline>
+        <airlineid>4455</airlineid>
+        <name>Sama Airlines</name>
+        <iata>ZS</iata>
+        <icao>SMY</icao>
+    </airline>
+    <airline>
+        <airlineid>4464</airlineid>
+        <name>Singapore Airlines Cargo</name>
+        <iata>SQ</iata>
+        <icao>SQC</icao>
+    </airline>
+    <airline>
+        <airlineid>4469</airlineid>
+        <name>Siem Reap Airways</name>
+        <iata>FT</iata>
+        <icao>SRH</icao>
+    </airline>
+    <airline>
+        <airlineid>4475</airlineid>
+        <name>South East Asian Airlines</name>
+        <iata>DG</iata>
+        <icao>SRQ</icao>
+    </airline>
+    <airline>
+        <airlineid>4496</airlineid>
+        <name>Skyservice Airlines</name>
+        <iata>5G</iata>
+        <icao>SSV</icao>
+    </airline>
+    <airline>
+        <airlineid>4513</airlineid>
+        <name>Servicios de Transportes A</name>
+        <iata>FS</iata>
+        <icao>STU</icao>
+    </airline>
+    <airline>
+        <airlineid>4521</airlineid>
+        <name>Sudan Airways</name>
+        <iata>SD</iata>
+        <icao>SUD</icao>
+    </airline>
+    <airline>
+        <airlineid>4533</airlineid>
+        <name>Saudi Arabian Airlines</name>
+        <iata>SV</iata>
+        <icao>SVA</icao>
+    </airline>
+    <airline>
+        <airlineid>4547</airlineid>
+        <name>Southwest Airlines</name>
+        <iata>WN</iata>
+        <icao>SWA</icao>
+    </airline>
+    <airline>
+        <airlineid>4550</airlineid>
+        <name>Southern Winds Airlines</name>
+        <iata>A4</iata>
+        <icao>SWD</icao>
+    </airline>
+    <airline>
+        <airlineid>4559</airlineid>
+        <name>Swiss International Air Lines</name>
+        <iata>LX</iata>
+        <icao>SWR</icao>
+    </airline>
+    <airline>
+        <airlineid>4560</airlineid>
+        <name>Swissair</name>
+        <iata>SR</iata>
+        <icao>SWR</icao>
+    </airline>
+    <airline>
+        <airlineid>4563</airlineid>
+        <name>Swiss European Air Lines</name>
+        <iata></iata>
+        <icao>SWU</icao>
+    </airline>
+    <airline>
+        <airlineid>4564</airlineid>
+        <name>Swe Fly</name>
+        <iata>WV</iata>
+        <icao>SWV</icao>
+    </airline>
+    <airline>
+        <airlineid>4573</airlineid>
+        <name>SunExpress</name>
+        <iata>XQ</iata>
+        <icao>SXS</icao>
+    </airline>
+    <airline>
+        <airlineid>4586</airlineid>
+        <name>Syrian Arab Airlines</name>
+        <iata>RB</iata>
+        <icao>SYR</icao>
+    </airline>
+    <airline>
+        <airlineid>4589</airlineid>
+        <name>Skywalk Airlines</name>
+        <iata>AL</iata>
+        <icao>SYX</icao>
+    </airline>
+    <airline>
+        <airlineid>4599</airlineid>
+        <name>Shandong Airlines</name>
+        <iata>SC</iata>
+        <icao>CDG</icao>
+    </airline>
+    <airline>
+        <airlineid>4606</airlineid>
+        <name>SAS Braathens</name>
+        <iata></iata>
+        <icao>CNO</icao>
+    </airline>
+    <airline>
+        <airlineid>4607</airlineid>
+        <name>Spring Airlines</name>
+        <iata>9S</iata>
+        <icao>CQH</icao>
+    </airline>
+    <airline>
+        <airlineid>4608</airlineid>
+        <name>Sichuan Airlines</name>
+        <iata>3U</iata>
+        <icao>CSC</icao>
+    </airline>
+    <airline>
+        <airlineid>4609</airlineid>
+        <name>Shanghai Airlines</name>
+        <iata>FM</iata>
+        <icao>CSH</icao>
+    </airline>
+    <airline>
+        <airlineid>4611</airlineid>
+        <name>Shenzhen Airlines</name>
+        <iata>ZH</iata>
+        <icao>CSZ</icao>
+    </airline>
+    <airline>
+        <airlineid>4619</airlineid>
+        <name>Sun D'Or</name>
+        <iata>7L</iata>
+        <icao>ERO</icao>
+    </airline>
+    <airline>
+        <airlineid>4620</airlineid>
+        <name>SkyEurope</name>
+        <iata>NE</iata>
+        <icao>ESK</icao>
+    </airline>
+    <airline>
+        <airlineid>4640</airlineid>
+        <name>Sky Europe Airlines</name>
+        <iata></iata>
+        <icao>HSK</icao>
+    </airline>
+    <airline>
+        <airlineid>4652</airlineid>
+        <name>Spanair</name>
+        <iata>JK</iata>
+        <icao>JKK</icao>
+    </airline>
+    <airline>
+        <airlineid>4687</airlineid>
+        <name>Spirit Airlines</name>
+        <iata>NK</iata>
+        <icao>NKS</icao>
+    </airline>
+    <airline>
+        <airlineid>4691</airlineid>
+        <name>SATENA</name>
+        <iata>9R</iata>
+        <icao>NSE</icao>
+    </airline>
+    <airline>
+        <airlineid>4702</airlineid>
+        <name>Skywest Airlines</name>
+        <iata></iata>
+        <icao>OZW</icao>
+    </airline>
+    <airline>
+        <airlineid>4735</airlineid>
+        <name>Santa Barbara Airlines</name>
+        <iata>S3</iata>
+        <icao>BBR</icao>
+    </airline>
+    <airline>
+        <airlineid>4737</airlineid>
+        <name>Sky Airline</name>
+        <iata>H2</iata>
+        <icao>SKU</icao>
+    </airline>
+    <airline>
+        <airlineid>4738</airlineid>
+        <name>SkyWest</name>
+        <iata>OO</iata>
+        <icao>SKW</icao>
+    </airline>
+    <airline>
+        <airlineid>4739</airlineid>
+        <name>Skyways Express</name>
+        <iata>JZ</iata>
+        <icao>SKX</icao>
+    </airline>
+    <airline>
+        <airlineid>4740</airlineid>
+        <name>Skymark Airlines</name>
+        <iata>BC</iata>
+        <icao>SKY</icao>
+    </airline>
+    <airline>
+        <airlineid>4750</airlineid>
+        <name>SilkAir</name>
+        <iata>MI</iata>
+        <icao>SLK</icao>
+    </airline>
+    <airline>
+        <airlineid>4752</airlineid>
+        <name>Surinam Airways</name>
+        <iata>PY</iata>
+        <icao>SLM</icao>
+    </airline>
+    <airline>
+        <airlineid>4776</airlineid>
+        <name>Sterling Airlines</name>
+        <iata>NB</iata>
+        <icao>SNB</icao>
+    </airline>
+    <airline>
+        <airlineid>4781</airlineid>
+        <name>Skynet Asia Airways</name>
+        <iata>6J</iata>
+        <icao>SNJ</icao>
+    </airline>
+    <airline>
+        <airlineid>4797</airlineid>
+        <name>Solomon Airlines</name>
+        <iata>IE</iata>
+        <icao>SOL</icao>
+    </airline>
+    <airline>
+        <airlineid>4804</airlineid>
+        <name>Southern Airways</name>
+        <iata></iata>
+        <icao>SOU</icao>
+    </airline>
+    <airline>
+        <airlineid>4805</airlineid>
+        <name>Saratov Aviation Division</name>
+        <iata>6W</iata>
+        <icao>SOV</icao>
+    </airline>
+    <airline>
+        <airlineid>4808</airlineid>
+        <name>Sat Airlines</name>
+        <iata>HZ</iata>
+        <icao>SOZ</icao>
+    </airline>
+    <airline>
+        <airlineid>4816</airlineid>
+        <name>South Pacific Island Airways</name>
+        <iata></iata>
+        <icao>SPI</icao>
+    </airline>
+    <airline>
+        <airlineid>4822</airlineid>
+        <name>Shuttle America</name>
+        <iata>S5</iata>
+        <icao>TCF</icao>
+    </airline>
+    <airline>
+        <airlineid>4840</airlineid>
+        <name>Scat Air</name>
+        <iata>DV</iata>
+        <icao>VSV</icao>
+    </airline>
+    <airline>
+        <airlineid>4863</airlineid>
+        <name>TAME</name>
+        <iata>EQ</iata>
+        <icao>TAE</icao>
+    </airline>
+    <airline>
+        <airlineid>4867</airlineid>
+        <name>TAM Brazilian Airlines</name>
+        <iata>JJ</iata>
+        <icao>TAM</icao>
+    </airline>
+    <airline>
+        <airlineid>4869</airlineid>
+        <name>TAP Portugal</name>
+        <iata>TP</iata>
+        <icao>TAP</icao>
+    </airline>
+    <airline>
+        <airlineid>4870</airlineid>
+        <name>Tunisair</name>
+        <iata>TU</iata>
+        <icao>TAR</icao>
+    </airline>
+    <airline>
+        <airlineid>4889</airlineid>
+        <name>Thai Air Cargo</name>
+        <iata>T2</iata>
+        <icao>TCG</icao>
+    </airline>
+    <airline>
+        <airlineid>4896</airlineid>
+        <name>Thomas Cook Airlines</name>
+        <iata>FQ</iata>
+        <icao>TCW</icao>
+    </airline>
+    <airline>
+        <airlineid>4897</airlineid>
+        <name>Thomas Cook Airlines</name>
+        <iata>MT</iata>
+        <icao>TCX</icao>
+    </airline>
+    <airline>
+        <airlineid>4933</airlineid>
+        <name>Trigana Air Service</name>
+        <iata></iata>
+        <icao>TGN</icao>
+    </airline>
+    <airline>
+        <airlineid>4936</airlineid>
+        <name>Tiger Airways</name>
+        <iata>TR</iata>
+        <icao>TGW</icao>
+    </airline>
+    <airline>
+        <airlineid>4937</airlineid>
+        <name>Tiger Airways Australia</name>
+        <iata>TT</iata>
+        <icao>TGW</icao>
+    </airline>
+    <airline>
+        <airlineid>4940</airlineid>
+        <name>Thai Airways International</name>
+        <iata>TG</iata>
+        <icao>THA</icao>
+    </airline>
+    <airline>
+        <airlineid>4946</airlineid>
+        <name>Turk Hava Kurumu Hava Taksi Isletmesi</name>
+        <iata></iata>
+        <icao>THK</icao>
+    </airline>
+    <airline>
+        <airlineid>4947</airlineid>
+        <name>Thai AirAsia</name>
+        <iata>FD</iata>
+        <icao>AIQ</icao>
+    </airline>
+    <airline>
+        <airlineid>4951</airlineid>
+        <name>Turkish Airlines</name>
+        <iata>TK</iata>
+        <icao>THY</icao>
+    </airline>
+    <airline>
+        <airlineid>4957</airlineid>
+        <name>Tajikistan International Airlines</name>
+        <iata></iata>
+        <icao>TIL</icao>
+    </airline>
+    <airline>
+        <airlineid>4965</airlineid>
+        <name>Twin Jet</name>
+        <iata>T7</iata>
+        <icao>TJT</icao>
+    </airline>
+    <airline>
+        <airlineid>4970</airlineid>
+        <name>Translift Airways</name>
+        <iata></iata>
+        <icao>TLA</icao>
+    </airline>
+    <airline>
+        <airlineid>4981</airlineid>
+        <name>Trans Mediterranean Airlines</name>
+        <iata>TL</iata>
+        <icao>TMA</icao>
+    </airline>
+    <airline>
+        <airlineid>5002</airlineid>
+        <name>Tiara Air</name>
+        <iata>3P</iata>
+        <icao>TNM</icao>
+    </airline>
+    <airline>
+        <airlineid>5013</airlineid>
+        <name>Thomsonfly</name>
+        <iata>BY</iata>
+        <icao>TOM</icao>
+    </airline>
+    <airline>
+        <airlineid>5016</airlineid>
+        <name>Tropic Air</name>
+        <iata>PM</iata>
+        <icao>TOS</icao>
+    </airline>
+    <airline>
+        <airlineid>5020</airlineid>
+        <name>TAMPA</name>
+        <iata>QT</iata>
+        <icao>TPA</icao>
+    </airline>
+    <airline>
+        <airlineid>5038</airlineid>
+        <name>TransAsia Airways</name>
+        <iata>GE</iata>
+        <icao>TNA</icao>
+    </airline>
+    <airline>
+        <airlineid>5039</airlineid>
+        <name>Transavia Holland</name>
+        <iata>HV</iata>
+        <icao>TRA</icao>
+    </airline>
+    <airline>
+        <airlineid>5041</airlineid>
+        <name>TACV</name>
+        <iata>VR</iata>
+        <icao>TCV</icao>
+    </airline>
+    <airline>
+        <airlineid>5064</airlineid>
+        <name>Transwest Air</name>
+        <iata>9T</iata>
+        <icao>ABS</icao>
+    </airline>
+    <airline>
+        <airlineid>5067</airlineid>
+        <name>Transaero Airlines</name>
+        <iata>UN</iata>
+        <icao>TSO</icao>
+    </airline>
+    <airline>
+        <airlineid>5083</airlineid>
+        <name>Turkmenistan Airlines</name>
+        <iata>T5</iata>
+        <icao>TUA</icao>
+    </airline>
+    <airline>
+        <airlineid>5085</airlineid>
+        <name>Tuninter</name>
+        <iata>UG</iata>
+        <icao>TUI</icao>
+    </airline>
+    <airline>
+        <airlineid>5097</airlineid>
+        <name>Travel Service</name>
+        <iata>QS</iata>
+        <icao>TVS</icao>
+    </airline>
+    <airline>
+        <airlineid>5122</airlineid>
+        <name>TUIfly Nordic</name>
+        <iata>6B</iata>
+        <icao>BLX</icao>
+    </airline>
+    <airline>
+        <airlineid>5133</airlineid>
+        <name>TAAG Angola Airlines</name>
+        <iata>DT</iata>
+        <icao>DTA</icao>
+    </airline>
+    <airline>
+        <airlineid>5146</airlineid>
+        <name>Turkish Air Force</name>
+        <iata></iata>
+        <icao>HVK</icao>
+    </airline>
+    <airline>
+        <airlineid>5156</airlineid>
+        <name>TAM Mercosur</name>
+        <iata>PZ</iata>
+        <icao>LAP</icao>
+    </airline>
+    <airline>
+        <airlineid>5160</airlineid>
+        <name>Trans States Airlines</name>
+        <iata>AX</iata>
+        <icao>LOF</icao>
+    </airline>
+    <airline>
+        <airlineid>5179</airlineid>
+        <name>Tarom</name>
+        <iata>RO</iata>
+        <icao>ROT</icao>
+    </airline>
+    <airline>
+        <airlineid>5187</airlineid>
+        <name>Turan Air</name>
+        <iata>3T</iata>
+        <icao>URN</icao>
+    </airline>
+    <airline>
+        <airlineid>5188</airlineid>
+        <name>TRIP Linhas A</name>
+        <iata>8R</iata>
+        <icao>TIB</icao>
+    </airline>
+    <airline>
+        <airlineid>5207</airlineid>
+        <name>USA3000 Airlines</name>
+        <iata>U5</iata>
+        <icao>GWY</icao>
+    </airline>
+    <airline>
+        <airlineid>5209</airlineid>
+        <name>United Airlines</name>
+        <iata>UA</iata>
+        <icao>UAL</icao>
+    </airline>
+    <airline>
+        <airlineid>5210</airlineid>
+        <name>United Air Charters</name>
+        <iata></iata>
+        <icao>UAC</icao>
+    </airline>
+    <airline>
+        <airlineid>5234</airlineid>
+        <name>Ural Airlines</name>
+        <iata>U6</iata>
+        <icao>SVR</icao>
+    </airline>
+    <airline>
+        <airlineid>5251</airlineid>
+        <name>UM Airlines</name>
+        <iata>UF</iata>
+        <icao>UKM</icao>
+    </airline>
+    <airline>
+        <airlineid>5265</airlineid>
+        <name>US Airways</name>
+        <iata>US</iata>
+        <icao>USA</icao>
+    </airline>
+    <airline>
+        <airlineid>5268</airlineid>
+        <name>US Helicopter</name>
+        <iata></iata>
+        <icao>USH</icao>
+    </airline>
+    <airline>
+        <airlineid>5271</airlineid>
+        <name>UTair Aviation</name>
+        <iata>UT</iata>
+        <icao>UTA</icao>
+    </airline>
+    <airline>
+        <airlineid>5279</airlineid>
+        <name>United States Air Force</name>
+        <iata></iata>
+        <icao>AIO</icao>
+    </airline>
+    <airline>
+        <airlineid>5281</airlineid>
+        <name>Uzbekistan Airways</name>
+        <iata>HY</iata>
+        <icao>UZB</icao>
+    </airline>
+    <airline>
+        <airlineid>5282</airlineid>
+        <name>Ukraine International Airlines</name>
+        <iata>PS</iata>
+        <icao>AUI</icao>
+    </airline>
+    <airline>
+        <airlineid>5284</airlineid>
+        <name>US Helicopter Corporation</name>
+        <iata>UH</iata>
+        <icao></icao>
+    </airline>
+    <airline>
+        <airlineid>5297</airlineid>
+        <name>Valuair</name>
+        <iata>VF</iata>
+        <icao>VLU</icao>
+    </airline>
+    <airline>
+        <airlineid>5301</airlineid>
+        <name>Vasco Air</name>
+        <iata></iata>
+        <icao>VFC</icao>
+    </airline>
+    <airline>
+        <airlineid>5309</airlineid>
+        <name>Vietnam Airlines</name>
+        <iata>VN</iata>
+        <icao>HVN</icao>
+    </airline>
+    <airline>
+        <airlineid>5311</airlineid>
+        <name>VIM Airlines</name>
+        <iata>NN</iata>
+        <icao>MOV</icao>
+    </airline>
+    <airline>
+        <airlineid>5325</airlineid>
+        <name>Volaris</name>
+        <iata>Y4</iata>
+        <icao>VOI</icao>
+    </airline>
+    <airline>
+        <airlineid>5326</airlineid>
+        <name>Volga-Dnepr Airlines</name>
+        <iata>VI</iata>
+        <icao>VDA</icao>
+    </airline>
+    <airline>
+        <airlineid>5331</airlineid>
+        <name>Virgin America</name>
+        <iata>VX</iata>
+        <icao>VRD</icao>
+    </airline>
+    <airline>
+        <airlineid>5333</airlineid>
+        <name>Virgin Express</name>
+        <iata>TV</iata>
+        <icao>VEX</icao>
+    </airline>
+    <airline>
+        <airlineid>5335</airlineid>
+        <name>Virgin Nigeria Airways</name>
+        <iata>VK</iata>
+        <icao>VGN</icao>
+    </airline>
+    <airline>
+        <airlineid>5347</airlineid>
+        <name>Virgin Atlantic Airways</name>
+        <iata>VS</iata>
+        <icao>VIR</icao>
+    </airline>
+    <airline>
+        <airlineid>5350</airlineid>
+        <name>Viva Macau</name>
+        <iata>ZG</iata>
+        <icao>VVM</icao>
+    </airline>
+    <airline>
+        <airlineid>5351</airlineid>
+        <name>Volare Airlines</name>
+        <iata>VE</iata>
+        <icao>VLE</icao>
+    </airline>
+    <airline>
+        <airlineid>5352</airlineid>
+        <name>Vueling Airlines</name>
+        <iata>VY</iata>
+        <icao>VLG</icao>
+    </airline>
+    <airline>
+        <airlineid>5353</airlineid>
+        <name>Vladivostok Air</name>
+        <iata>XF</iata>
+        <icao>VLK</icao>
+    </airline>
+    <airline>
+        <airlineid>5354</airlineid>
+        <name>Varig Log</name>
+        <iata>LC</iata>
+        <icao>VLO</icao>
+    </airline>
+    <airline>
+        <airlineid>5360</airlineid>
+        <name>Virgin Australia</name>
+        <iata>VA</iata>
+        <icao>VOZ</icao>
+    </airline>
+    <airline>
+        <airlineid>5368</airlineid>
+        <name>VRG Linhas Aereas</name>
+        <iata>RG</iata>
+        <icao>VRN</icao>
+    </airline>
+    <airline>
+        <airlineid>5373</airlineid>
+        <name>VASP</name>
+        <iata>VP</iata>
+        <icao>VSP</icao>
+    </airline>
+    <airline>
+        <airlineid>5383</airlineid>
+        <name>VLM Airlines</name>
+        <iata>VG</iata>
+        <icao>VLM</icao>
+    </airline>
+    <airline>
+        <airlineid>5397</airlineid>
+        <name>Wayraper</name>
+        <iata>7W</iata>
+        <icao></icao>
+    </airline>
+    <airline>
+        <airlineid>5399</airlineid>
+        <name>WebJet Linhas A</name>
+        <iata>WJ</iata>
+        <icao>WEB</icao>
+    </airline>
+    <airline>
+        <airlineid>5401</airlineid>
+        <name>Welcome Air</name>
+        <iata>2W</iata>
+        <icao>WLC</icao>
+    </airline>
+    <airline>
+        <airlineid>5411</airlineid>
+        <name>West Coast Air</name>
+        <iata>8O</iata>
+        <icao></icao>
+    </airline>
+    <airline>
+        <airlineid>5416</airlineid>
+        <name>WestJet</name>
+        <iata>WS</iata>
+        <icao>WJA</icao>
+    </airline>
+    <airline>
+        <airlineid>5424</airlineid>
+        <name>Western Airlines</name>
+        <iata>WA</iata>
+        <icao>WAL</icao>
+    </airline>
+    <airline>
+        <airlineid>5439</airlineid>
+        <name>Widerøe</name>
+        <iata>WF</iata>
+        <icao>WIF</icao>
+    </airline>
+    <airline>
+        <airlineid>5447</airlineid>
+        <name>Wind Jet</name>
+        <iata>IV</iata>
+        <icao>JET</icao>
+    </airline>
+    <airline>
+        <airlineid>5451</airlineid>
+        <name>Wings Air</name>
+        <iata>IW</iata>
+        <icao>WON</icao>
+    </airline>
+    <airline>
+        <airlineid>5461</airlineid>
+        <name>Wizz Air</name>
+        <iata>W6</iata>
+        <icao>WZZ</icao>
+    </airline>
+    <airline>
+        <airlineid>5462</airlineid>
+        <name>Wizz Air Hungary</name>
+        <iata>8Z</iata>
+        <icao>WVL</icao>
+    </airline>
+    <airline>
+        <airlineid>5465</airlineid>
+        <name>World Airways</name>
+        <iata>WO</iata>
+        <icao>WOA</icao>
+    </airline>
+    <airline>
+        <airlineid>5479</airlineid>
+        <name>XL Airways France</name>
+        <iata>SE</iata>
+        <icao>SEU</icao>
+    </airline>
+    <airline>
+        <airlineid>5484</airlineid>
+        <name>Xiamen Airlines</name>
+        <iata>MF</iata>
+        <icao>CXA</icao>
+    </airline>
+    <airline>
+        <airlineid>5492</airlineid>
+        <name>Yamal Airlines</name>
+        <iata>YL</iata>
+        <icao>LLM</icao>
+    </airline>
+    <airline>
+        <airlineid>5496</airlineid>
+        <name>Yemenia</name>
+        <iata>IY</iata>
+        <icao>IYE</icao>
+    </airline>
+    <airline>
+        <airlineid>5501</airlineid>
+        <name>Yuzhmashavia</name>
+        <iata></iata>
+        <icao>UMK</icao>
+    </airline>
+    <airline>
+        <airlineid>5510</airlineid>
+        <name>Zanair</name>
+        <iata></iata>
+        <icao>TAN</icao>
+    </airline>
+    <airline>
+        <airlineid>5523</airlineid>
+        <name>Zoom Airlines</name>
+        <iata>Z4</iata>
+        <icao>OOM</icao>
+    </airline>
+    <airline>
+        <airlineid>5533</airlineid>
+        <name>Tyrolean Airways</name>
+        <iata>\N</iata>
+        <icao>TYR</icao>
+    </airline>
+    <airline>
+        <airlineid>5559</airlineid>
+        <name>Maldivian Air Taxi</name>
+        <iata>8Q</iata>
+        <icao>\N</icao>
+    </airline>
+    <airline>
+        <airlineid>5651</airlineid>
+        <name>Royal Air Cambodge</name>
+        <iata>VJ</iata>
+        <icao>RAC</icao>
+    </airline>
+    <airline>
+        <airlineid>5813</airlineid>
+        <name>Air Mandalay</name>
+        <iata>6T</iata>
+        <icao>\N</icao>
+    </airline>
+    <airline>
+        <airlineid>5982</airlineid>
+        <name>Air Busan</name>
+        <iata>BX</iata>
+        <icao>ABL</icao>
+    </airline>
+    <airline>
+        <airlineid>5584</airlineid>
+        <name>Sky Express</name>
+        <iata>XW</iata>
+        <icao>SXR</icao>
+    </airline>
+    <airline>
+        <airlineid>6196</airlineid>
+        <name>Globus</name>
+        <iata>GH</iata>
+        <icao>GLP</icao>
+    </airline>
+    <airline>
+        <airlineid>6222</airlineid>
+        <name>Air Kazakhstan</name>
+        <iata>9Y</iata>
+        <icao>KZK</icao>
+    </airline>
+    <airline>
+        <airlineid>6557</airlineid>
+        <name>Japan Air System</name>
+        <iata>JD</iata>
+        <icao>JAS</icao>
+    </airline>
+    <airline>
+        <airlineid>6855</airlineid>
+        <name>EasyJet (DS)</name>
+        <iata>DS</iata>
+        <icao>\N</icao>
+    </airline>
+    <airline>
+        <airlineid>8359</airlineid>
+        <name>Star Peru (2I)</name>
+        <iata>2I</iata>
+        <icao>\N</icao>
+    </airline>
+    <airline>
+        <airlineid>8461</airlineid>
+        <name>Carnival Air Lines</name>
+        <iata>KW</iata>
+        <icao>\N</icao>
+    </airline>
+    <airline>
+        <airlineid>8463</airlineid>
+        <name>United Airways</name>
+        <iata>4H</iata>
+        <icao>UBD</icao>
+    </airline>
+    <airline>
+        <airlineid>8576</airlineid>
+        <name>Fly540</name>
+        <iata>5H</iata>
+        <icao>FFV</icao>
+    </airline>
+    <airline>
+        <airlineid>8745</airlineid>
+        <name>Transavia France</name>
+        <iata>TO</iata>
+        <icao>TVF</icao>
+    </airline>
+    <airline>
+        <airlineid>8809</airlineid>
+        <name>Island Air (WP)</name>
+        <iata>WP</iata>
+        <icao>MKU</icao>
+    </airline>
+    <airline>
+        <airlineid>9082</airlineid>
+        <name>Uni Air</name>
+        <iata>B7</iata>
+        <icao>UIA</icao>
+    </airline>
+    <airline>
+        <airlineid>9135</airlineid>
+        <name>Gomelavia</name>
+        <iata>YD</iata>
+        <icao>\N</icao>
+    </airline>
+    <airline>
+        <airlineid>9239</airlineid>
+        <name>Red Wings</name>
+        <iata>WZ</iata>
+        <icao>RWZ</icao>
+    </airline>
+    <airline>
+        <airlineid>9335</airlineid>
+        <name>TUIfly (X3)</name>
+        <iata>11</iata>
+        <icao>\N</icao>
+    </airline>
+    <airline>
+        <airlineid>9343</airlineid>
+        <name>Felix Airways</name>
+        <iata>FU</iata>
+        <icao>FXX</icao>
+    </airline>
+    <airline>
+        <airlineid>9344</airlineid>
+        <name>Kostromskie avialinii</name>
+        <iata>K1</iata>
+        <icao>KOQ</icao>
+    </airline>
+    <airline>
+        <airlineid>9373</airlineid>
+        <name>Greenfly</name>
+        <iata>XX</iata>
+        <icao>GFY</icao>
+    </airline>
+    <airline>
+        <airlineid>9531</airlineid>
+        <name>Tajik Air</name>
+        <iata>7J</iata>
+        <icao>\N</icao>
+    </airline>
+    <airline>
+        <airlineid>9541</airlineid>
+        <name>Air Mozambique</name>
+        <iata>TM</iata>
+        <icao>\N</icao>
+    </airline>
+    <airline>
+        <airlineid>9577</airlineid>
+        <name>ELK Airways</name>
+        <iata>--</iata>
+        <icao>ELK</icao>
+    </airline>
+    <airline>
+        <airlineid>9620</airlineid>
+        <name>Gabon Airlines</name>
+        <iata>GY</iata>
+        <icao>GBK</icao>
+    </airline>
+    <airline>
+        <airlineid>9626</airlineid>
+        <name>MCA Airlines</name>
+        <iata></iata>
+        <icao>MCA</icao>
+    </airline>
+    <airline>
+        <airlineid>9656</airlineid>
+        <name>Maldivo Airlines</name>
+        <iata>ML</iata>
+        <icao>MAV</icao>
+    </airline>
+    <airline>
+        <airlineid>9666</airlineid>
+        <name>Virgin Pacific</name>
+        <iata>VH</iata>
+        <icao>VNP</icao>
+    </airline>
+    <airline>
+        <airlineid>9764</airlineid>
+        <name>Zest Air</name>
+        <iata>Z2</iata>
+        <icao>\N</icao>
+    </airline>
+    <airline>
+        <airlineid>9784</airlineid>
+        <name>Yangon Airways</name>
+        <iata>HK</iata>
+        <icao>\N</icao>
+    </airline>
+    <airline>
+        <airlineid>9809</airlineid>
+        <name>Eastar Jet</name>
+        <iata>ZE</iata>
+        <icao>ESR</icao>
+    </airline>
+    <airline>
+        <airlineid>9810</airlineid>
+        <name>Jin Air</name>
+        <iata>LJ</iata>
+        <icao>JNA</icao>
+    </airline>
+    <airline>
+        <airlineid>9811</airlineid>
+        <name>Wataniya Airways</name>
+        <iata></iata>
+        <icao>KW1</icao>
+    </airline>
+    <airline>
+        <airlineid>9818</airlineid>
+        <name>Air Arabia Maroc</name>
+        <iata>3O</iata>
+        <icao>\N</icao>
+    </airline>
+    <airline>
+        <airlineid>9825</airlineid>
+        <name>Baltic Air lines</name>
+        <iata>B1</iata>
+        <icao>BA1</icao>
+    </airline>
+    <airline>
+        <airlineid>9828</airlineid>
+        <name>Ciel Canadien</name>
+        <iata>YC</iata>
+        <icao>YCC</icao>
+    </airline>
+    <airline>
+        <airlineid>9829</airlineid>
+        <name>Canadian National Airways</name>
+        <iata>CN</iata>
+        <icao>YCP</icao>
+    </airline>
+    <airline>
+        <airlineid>9833</airlineid>
+        <name>Epic Holiday</name>
+        <iata>FA</iata>
+        <icao>4AA</icao>
+    </airline>
+    <airline>
+        <airlineid>9838</airlineid>
+        <name>Indochina Airlines</name>
+        <iata></iata>
+        <icao>AXC</icao>
+    </airline>
+    <airline>
+        <airlineid>9851</airlineid>
+        <name>Air Comet Chile</name>
+        <iata>3I</iata>
+        <icao>\N</icao>
+    </airline>
+    <airline>
+        <airlineid>9859</airlineid>
+        <name>German Air Force - FLB</name>
+        <iata></iata>
+        <icao>FLB</icao>
+    </airline>
+    <airline>
+        <airlineid>10114</airlineid>
+        <name>Line Blue</name>
+        <iata>L8</iata>
+        <icao>LBL</icao>
+    </airline>
+    <airline>
+        <airlineid>10117</airlineid>
+        <name>FlyLAL Charters</name>
+        <iata></iata>
+        <icao>LLC</icao>
+    </airline>
+    <airline>
+        <airlineid>10122</airlineid>
+        <name>Salzburg arrows</name>
+        <iata>SZ</iata>
+        <icao>\N</icao>
+    </airline>
+    <airline>
+        <airlineid>10123</airlineid>
+        <name>Texas Wings</name>
+        <iata>TQ</iata>
+        <icao>TXW</icao>
+    </airline>
+    <airline>
+        <airlineid>10128</airlineid>
+        <name>Dennis Sky</name>
+        <iata>DH</iata>
+        <icao>DSY</icao>
+    </airline>
+    <airline>
+        <airlineid>10224</airlineid>
+        <name>Zz</name>
+        <iata>ZZ</iata>
+        <icao>\N</icao>
+    </airline>
+    <airline>
+        <airlineid>10226</airlineid>
+        <name>Atifly</name>
+        <iata>A1</iata>
+        <icao>A1F</icao>
+    </airline>
+    <airline>
+        <airlineid>10371</airlineid>
+        <name>Aerolineas heredas santa maria</name>
+        <iata></iata>
+        <icao>SZB</icao>
+    </airline>
+    <airline>
+        <airlineid>10372</airlineid>
+        <name>Ciao Air</name>
+        <iata>99</iata>
+        <icao>\N</icao>
+    </airline>
+    <airline>
+        <airlineid>10642</airlineid>
+        <name>Jc royal.britannica</name>
+        <iata></iata>
+        <icao>JRB</icao>
+    </airline>
+    <airline>
+        <airlineid>10650</airlineid>
+        <name>Pal airlines</name>
+        <iata>5P</iata>
+        <icao>\N</icao>
+    </airline>
+    <airline>
+        <airlineid>10673</airlineid>
+        <name>CanXpress</name>
+        <iata>C1</iata>
+        <icao>CA1</icao>
+    </airline>
+    <airline>
+        <airlineid>10674</airlineid>
+        <name>Danube Wings (V5)</name>
+        <iata>V5</iata>
+        <icao>\N</icao>
+    </airline>
+    <airline>
+        <airlineid>10675</airlineid>
+        <name>Sharp Airlines</name>
+        <iata>SH</iata>
+        <icao>SHA</icao>
+    </airline>
+    <airline>
+        <airlineid>10683</airlineid>
+        <name>CanXplorer</name>
+        <iata>C2</iata>
+        <icao>CAP</icao>
+    </airline>
+    <airline>
+        <airlineid>10715</airlineid>
+        <name>Click (Mexicana)</name>
+        <iata>QA</iata>
+        <icao>\N</icao>
+    </airline>
+    <airline>
+        <airlineid>10735</airlineid>
+        <name>World Experience Airline</name>
+        <iata>W1</iata>
+        <icao>WE1</icao>
+    </airline>
+    <airline>
+        <airlineid>10737</airlineid>
+        <name>ALAK</name>
+        <iata>J4</iata>
+        <icao>\N</icao>
+    </airline>
+    <airline>
+        <airlineid>10739</airlineid>
+        <name>Air Choice One</name>
+        <iata>3E</iata>
+        <icao>\N</icao>
+    </airline>
+    <airline>
+        <airlineid>10740</airlineid>
+        <name>Tianjin Airlines</name>
+        <iata></iata>
+        <icao>GCR</icao>
+    </airline>
+    <airline>
+        <airlineid>10741</airlineid>
+        <name>China United</name>
+        <iata>KN</iata>
+        <icao>\N</icao>
+    </airline>
+    <airline>
+        <airlineid>10748</airlineid>
+        <name>Locair</name>
+        <iata>ZQ</iata>
+        <icao>LOC</icao>
+    </airline>
+    <airline>
+        <airlineid>10758</airlineid>
+        <name>Safi Airlines</name>
+        <iata>4Q</iata>
+        <icao>\N</icao>
+    </airline>
+    <airline>
+        <airlineid>10765</airlineid>
+        <name>SeaPort Airlines</name>
+        <iata>K5</iata>
+        <icao>SQH</icao>
+    </airline>
+    <airline>
+        <airlineid>10776</airlineid>
+        <name>Salmon Air</name>
+        <iata>S6</iata>
+        <icao>\N</icao>
+    </airline>
+    <airline>
+        <airlineid>10798</airlineid>
+        <name>Bobb Air Freight</name>
+        <iata>01</iata>
+        <icao>\N</icao>
+    </airline>
+    <airline>
+        <airlineid>10800</airlineid>
+        <name>Star1 Airlines</name>
+        <iata>V9</iata>
+        <icao>HCW</icao>
+    </airline>
+    <airline>
+        <airlineid>10845</airlineid>
+        <name>Pelita</name>
+        <iata>6D</iata>
+        <icao>\N</icao>
+    </airline>
+    <airline>
+        <airlineid>10912</airlineid>
+        <name>Alaska Seaplane Service</name>
+        <iata>J5</iata>
+        <icao>\N</icao>
+    </airline>
+    <airline>
+        <airlineid>10945</airlineid>
+        <name>Enerjet</name>
+        <iata></iata>
+        <icao>ENJ</icao>
+    </airline>
+    <airline>
+        <airlineid>10955</airlineid>
+        <name>MexicanaLink</name>
+        <iata>I6</iata>
+        <icao>MXI</icao>
+    </airline>
+    <airline>
+        <airlineid>10960</airlineid>
+        <name>Island Spirit</name>
+        <iata>IP</iata>
+        <icao>ISX</icao>
+    </airline>
+    <airline>
+        <airlineid>10969</airlineid>
+        <name>TACA Peru</name>
+        <iata>T0</iata>
+        <icao>\N</icao>
+    </airline>
+    <airline>
+        <airlineid>11700</airlineid>
+        <name>Orbest</name>
+        <iata></iata>
+        <icao>OBS</icao>
+    </airline>
+    <airline>
+        <airlineid>11719</airlineid>
+        <name>Southern Air Charter</name>
+        <iata></iata>
+        <icao>SOA</icao>
+    </airline>
+    <airline>
+        <airlineid>11724</airlineid>
+        <name>SVG Air</name>
+        <iata></iata>
+        <icao>SVG</icao>
+    </airline>
+    <airline>
+        <airlineid>11726</airlineid>
+        <name>Air Century</name>
+        <iata></iata>
+        <icao>CEY</icao>
+    </airline>
+    <airline>
+        <airlineid>11731</airlineid>
+        <name>Pan Am World Airways Dominicana</name>
+        <iata>7Q</iata>
+        <icao>\N</icao>
+    </airline>
+    <airline>
+        <airlineid>11732</airlineid>
+        <name>Primera Air</name>
+        <iata>PF</iata>
+        <icao>\N</icao>
+    </airline>
+    <airline>
+        <airlineid>11741</airlineid>
+        <name>Air Antilles Express</name>
+        <iata>3S</iata>
+        <icao>\N</icao>
+    </airline>
+    <airline>
+        <airlineid>11751</airlineid>
+        <name>Sol Lineas Aereas</name>
+        <iata></iata>
+        <icao>OLS</icao>
+    </airline>
+    <airline>
+        <airlineid>11755</airlineid>
+        <name>Regional Paraguaya</name>
+        <iata>P7</iata>
+        <icao>REP</icao>
+    </airline>
+    <airline>
+        <airlineid>11761</airlineid>
+        <name>VIP Ecuador</name>
+        <iata>V6</iata>
+        <icao>\N</icao>
+    </airline>
+    <airline>
+        <airlineid>11762</airlineid>
+        <name>Transportes Aereos Cielos Andinos</name>
+        <iata></iata>
+        <icao>NDN</icao>
+    </airline>
+    <airline>
+        <airlineid>11763</airlineid>
+        <name>Peruvian Airlines</name>
+        <iata>P9</iata>
+        <icao>\N</icao>
+    </airline>
+    <airline>
+        <airlineid>11765</airlineid>
+        <name>EasyFly</name>
+        <iata></iata>
+        <icao>EFY</icao>
+    </airline>
+    <airline>
+        <airlineid>11767</airlineid>
+        <name>Polar Airlines</name>
+        <iata>ЯП</iata>
+        <icao>\N</icao>
+    </airline>
+    <airline>
+        <airlineid>11794</airlineid>
+        <name>Catovair</name>
+        <iata>OC</iata>
+        <icao>\N</icao>
+    </airline>
+    <airline>
+        <airlineid>11795</airlineid>
+        <name>Andalus Lineas Aereas</name>
+        <iata></iata>
+        <icao>ANU</icao>
+    </airline>
+    <airline>
+        <airlineid>11798</airlineid>
+        <name>Air 26</name>
+        <iata></iata>
+        <icao>DCD</icao>
+    </airline>
+    <airline>
+        <airlineid>11800</airlineid>
+        <name>Mauritania Airways</name>
+        <iata></iata>
+        <icao>MTW</icao>
+    </airline>
+    <airline>
+        <airlineid>11802</airlineid>
+        <name>CEIBA Intercontinental</name>
+        <iata></iata>
+        <icao>CEL</icao>
+    </airline>
+    <airline>
+        <airlineid>11804</airlineid>
+        <name>Halcyonair</name>
+        <iata>7Z</iata>
+        <icao>\N</icao>
+    </airline>
+    <airline>
+        <airlineid>11805</airlineid>
+        <name>Business Aviation</name>
+        <iata>4P</iata>
+        <icao>\N</icao>
+    </airline>
+    <airline>
+        <airlineid>11806</airlineid>
+        <name>Compagnie Africaine d\\'Aviation</name>
+        <iata>E9</iata>
+        <icao>\N</icao>
+    </airline>
+    <airline>
+        <airlineid>11808</airlineid>
+        <name>Zambia Skyways</name>
+        <iata>K8</iata>
+        <icao>\N</icao>
+    </airline>
+    <airline>
+        <airlineid>11811</airlineid>
+        <name>AlMasria Universal Airlines</name>
+        <iata>UJ</iata>
+        <icao>LMU</icao>
+    </airline>
+    <airline>
+        <airlineid>11813</airlineid>
+        <name>EgyptAir Express</name>
+        <iata></iata>
+        <icao>MSE</icao>
+    </airline>
+    <airline>
+        <airlineid>11814</airlineid>
+        <name>SmartLynx Airlines</name>
+        <iata>6Y</iata>
+        <icao>\N</icao>
+    </airline>
+    <airline>
+        <airlineid>11815</airlineid>
+        <name>Air Italy Egypt</name>
+        <iata></iata>
+        <icao>EUD</icao>
+    </airline>
+    <airline>
+        <airlineid>11816</airlineid>
+        <name>KoralBlue Airlines</name>
+        <iata>K7</iata>
+        <icao>KBR</icao>
+    </airline>
+    <airline>
+        <airlineid>11820</airlineid>
+        <name>Wind Rose Aviation</name>
+        <iata></iata>
+        <icao>WRC</icao>
+    </airline>
+    <airline>
+        <airlineid>11823</airlineid>
+        <name>Elysian Airlines</name>
+        <iata>E4</iata>
+        <icao>GIE</icao>
+    </airline>
+    <airline>
+        <airlineid>11833</airlineid>
+        <name>Sevenair</name>
+        <iata></iata>
+        <icao>SEN</icao>
+    </airline>
+    <airline>
+        <airlineid>11834</airlineid>
+        <name>Hellenic Imperial Airways</name>
+        <iata>HT</iata>
+        <icao>IMP</icao>
+    </airline>
+    <airline>
+        <airlineid>11836</airlineid>
+        <name>Amsterdam Airlines</name>
+        <iata>WD</iata>
+        <icao>AAN</icao>
+    </airline>
+    <airline>
+        <airlineid>11838</airlineid>
+        <name>Arik Niger</name>
+        <iata>Q9</iata>
+        <icao>NAK</icao>
+    </airline>
+    <airline>
+        <airlineid>11839</airlineid>
+        <name>Dana Air</name>
+        <iata>DA</iata>
+        <icao>\N</icao>
+    </airline>
+    <airline>
+        <airlineid>11840</airlineid>
+        <name>STP Airways</name>
+        <iata>8F</iata>
+        <icao>STP</icao>
+    </airline>
+    <airline>
+        <airlineid>11843</airlineid>
+        <name>Med Airways</name>
+        <iata>7Y</iata>
+        <icao>\N</icao>
+    </airline>
+    <airline>
+        <airlineid>11850</airlineid>
+        <name>Skyjet Airlines</name>
+        <iata>UQ</iata>
+        <icao>SJU</icao>
+    </airline>
+    <airline>
+        <airlineid>11855</airlineid>
+        <name>Air Volga</name>
+        <iata>G6</iata>
+        <icao>\N</icao>
+    </airline>
+    <airline>
+        <airlineid>11856</airlineid>
+        <name>Transavia Denmark</name>
+        <iata></iata>
+        <icao>TDK</icao>
+    </airline>
+    <airline>
+        <airlineid>11857</airlineid>
+        <name>Royal Falcon</name>
+        <iata>RL</iata>
+        <icao>RFJ</icao>
+    </airline>
+    <airline>
+        <airlineid>11873</airlineid>
+        <name>Euroline</name>
+        <iata>4L</iata>
+        <icao>MJX</icao>
+    </airline>
+    <airline>
+        <airlineid>11943</airlineid>
+        <name>Turkuaz Airlines</name>
+        <iata></iata>
+        <icao>TRK</icao>
+    </airline>
+    <airline>
+        <airlineid>11947</airlineid>
+        <name>Athens Airways</name>
+        <iata>ZF</iata>
+        <icao>\N</icao>
+    </airline>
+    <airline>
+        <airlineid>11948</airlineid>
+        <name>Viking Hellas</name>
+        <iata>VQ</iata>
+        <icao>VKH</icao>
+    </airline>
+    <airline>
+        <airlineid>11949</airlineid>
+        <name>Norlandair</name>
+        <iata></iata>
+        <icao>FNA</icao>
+    </airline>
+    <airline>
+        <airlineid>11950</airlineid>
+        <name>Flugfelag Vestmannaeyja</name>
+        <iata></iata>
+        <icao>FVM</icao>
+    </airline>
+    <airline>
+        <airlineid>11963</airlineid>
+        <name>Starline.kz</name>
+        <iata>DZ</iata>
+        <icao>\N</icao>
+    </airline>
+    <airline>
+        <airlineid>12960</airlineid>
+        <name>Lugansk Airlines</name>
+        <iata>L7</iata>
+        <icao>\N</icao>
+    </airline>
+    <airline>
+        <airlineid>12961</airlineid>
+        <name>Gryphon Airlines</name>
+        <iata>6P</iata>
+        <icao>\N</icao>
+    </airline>
+    <airline>
+        <airlineid>12962</airlineid>
+        <name>Gadair European Airlines</name>
+        <iata>GP</iata>
+        <icao>GDR</icao>
+    </airline>
+    <airline>
+        <airlineid>12965</airlineid>
+        <name>Spirit of Manila Airlines</name>
+        <iata>SM</iata>
+        <icao>MNP</icao>
+    </airline>
+    <airline>
+        <airlineid>12975</airlineid>
+        <name>Chongqing Airlines</name>
+        <iata>OQ</iata>
+        <icao>CQN</icao>
+    </airline>
+    <airline>
+        <airlineid>12976</airlineid>
+        <name>Grand China Air</name>
+        <iata></iata>
+        <icao>GDC</icao>
+    </airline>
+    <airline>
+        <airlineid>12978</airlineid>
+        <name>West Air China</name>
+        <iata>PN</iata>
+        <icao>CHB</icao>
+    </airline>
+    <airline>
+        <airlineid>12997</airlineid>
+        <name>QatXpress</name>
+        <iata>C3</iata>
+        <icao>QAX</icao>
+    </airline>
+    <airline>
+        <airlineid>13076</airlineid>
+        <name>OneChina</name>
+        <iata>1C</iata>
+        <icao>1CH</icao>
+    </airline>
+    <airline>
+        <airlineid>13088</airlineid>
+        <name>NordStar Airlines</name>
+        <iata>Y7</iata>
+        <icao>\N</icao>
+    </airline>
+    <airline>
+        <airlineid>13089</airlineid>
+        <name>Joy Air</name>
+        <iata>JR</iata>
+        <icao>JOY</icao>
+    </airline>
+    <airline>
+        <airlineid>13105</airlineid>
+        <name>Air India Regional</name>
+        <iata>CD</iata>
+        <icao>\N</icao>
+    </airline>
+    <airline>
+        <airlineid>13106</airlineid>
+        <name>MDLR Airlines</name>
+        <iata>9H</iata>
+        <icao>\N</icao>
+    </airline>
+    <airline>
+        <airlineid>13107</airlineid>
+        <name>Jagson Airlines</name>
+        <iata></iata>
+        <icao>JGN</icao>
+    </airline>
+    <airline>
+        <airlineid>13108</airlineid>
+        <name>Maldivian</name>
+        <iata>Q2</iata>
+        <icao>\N</icao>
+    </airline>
+    <airline>
+        <airlineid>13130</airlineid>
+        <name>Xpressair</name>
+        <iata>XN</iata>
+        <icao>\N</icao>
+    </airline>
+    <airline>
+        <airlineid>13178</airlineid>
+        <name>Strategic Airlines</name>
+        <iata>VC</iata>
+        <icao>\N</icao>
+    </airline>
+    <airline>
+        <airlineid>13181</airlineid>
+        <name>Fars Air Qeshm</name>
+        <iata></iata>
+        <icao>QFZ</icao>
+    </airline>
+    <airline>
+        <airlineid>13187</airlineid>
+        <name>Eastok Avia</name>
+        <iata></iata>
+        <icao>EAA</icao>
+    </airline>
+    <airline>
+        <airlineid>13188</airlineid>
+        <name>Jupiter Airlines</name>
+        <iata></iata>
+        <icao>JPU</icao>
+    </airline>
+    <airline>
+        <airlineid>13189</airlineid>
+        <name>Vision Air International</name>
+        <iata></iata>
+        <icao>VIS</icao>
+    </airline>
+    <airline>
+        <airlineid>13190</airlineid>
+        <name>Al-Naser Airlines</name>
+        <iata>NA</iata>
+        <icao>\N</icao>
+    </airline>
+    <airline>
+        <airlineid>13200</airlineid>
+        <name>Fuji Dream Airlines</name>
+        <iata>JH</iata>
+        <icao>\N</icao>
+    </airline>
+    <airline>
+        <airlineid>13202</airlineid>
+        <name>Korea Express Air</name>
+        <iata></iata>
+        <icao>KEA</icao>
+    </airline>
+    <airline>
+        <airlineid>13209</airlineid>
+        <name>Eznis Airways</name>
+        <iata></iata>
+        <icao>EZA</icao>
+    </airline>
+    <airline>
+        <airlineid>13211</airlineid>
+        <name>Pacific Flier</name>
+        <iata></iata>
+        <icao>PFL</icao>
+    </airline>
+    <airline>
+        <airlineid>13217</airlineid>
+        <name>Syrian Pearl Airlines</name>
+        <iata></iata>
+        <icao>PSB</icao>
+    </airline>
+    <airline>
+        <airlineid>13218</airlineid>
+        <name>SGA Airlines</name>
+        <iata>5E</iata>
+        <icao>\N</icao>
+    </airline>
+    <airline>
+        <airlineid>13242</airlineid>
+        <name>Air2there</name>
+        <iata>F8</iata>
+        <icao>\N</icao>
+    </airline>
+    <airline>
+        <airlineid>13254</airlineid>
+        <name>Avianova (Russia)</name>
+        <iata>AO</iata>
+        <icao>\N</icao>
+    </airline>
+    <airline>
+        <airlineid>13303</airlineid>
+        <name>Parmiss Airlines (IPV)</name>
+        <iata>PA</iata>
+        <icao>IPV</icao>
+    </airline>
+    <airline>
+        <airlineid>13304</airlineid>
+        <name>EuropeSky</name>
+        <iata>ES</iata>
+        <icao>EUV</icao>
+    </airline>
+    <airline>
+        <airlineid>13306</airlineid>
+        <name>BRAZIL AIR</name>
+        <iata>GB</iata>
+        <icao>BZE</icao>
+    </airline>
+    <airline>
+        <airlineid>13335</airlineid>
+        <name>Homer Air</name>
+        <iata>MR</iata>
+        <icao>OME</icao>
+    </airline>
+    <airline>
+        <airlineid>13391</airlineid>
+        <name>U.S. Air</name>
+        <iata>-+</iata>
+        <icao>--+</icao>
+    </airline>
+    <airline>
+        <airlineid>13394</airlineid>
+        <name>Jayrow</name>
+        <iata>\\'</iata>
+        <icao>\\'\\</icao>
+    </airline>
+    <airline>
+        <airlineid>13397</airlineid>
+        <name>Wilderness Air</name>
+        <iata>;;</iata>
+        <icao>\N</icao>
+    </airline>
+    <airline>
+        <airlineid>13398</airlineid>
+        <name>Whitaker Air</name>
+        <iata>^^</iata>
+        <icao>\N</icao>
+    </airline>
+    <airline>
+        <airlineid>13633</airlineid>
+        <name>PanAm World Airways</name>
+        <iata>WQ</iata>
+        <icao>PQW</icao>
+    </airline>
+    <airline>
+        <airlineid>13690</airlineid>
+        <name>Virginwings</name>
+        <iata>YY</iata>
+        <icao>VWA</icao>
+    </airline>
+    <airline>
+        <airlineid>13704</airlineid>
+        <name>KSY</name>
+        <iata>KY</iata>
+        <icao>KSY</icao>
+    </airline>
+    <airline>
+        <airlineid>13732</airlineid>
+        <name>Buquebus Líneas Aéreas</name>
+        <iata>BQ</iata>
+        <icao>BQB</icao>
+    </airline>
+    <airline>
+        <airlineid>13734</airlineid>
+        <name>SOCHI AIR</name>
+        <iata>CQ</iata>
+        <icao>KOL</icao>
+    </airline>
+    <airline>
+        <airlineid>13757</airlineid>
+        <name>Wizz Air Ukraine</name>
+        <iata>WU</iata>
+        <icao>WAU</icao>
+    </airline>
+    <airline>
+        <airlineid>13781</airlineid>
+        <name>88</name>
+        <iata>47</iata>
+        <icao>VVN</icao>
+    </airline>
+    <airline>
+        <airlineid>13815</airlineid>
+        <name>LCM AIRLINES</name>
+        <iata>LQ</iata>
+        <icao>LMM</icao>
+    </airline>
+    <airline>
+        <airlineid>13899</airlineid>
+        <name>Cambodia Angkor Air (K6)</name>
+        <iata>K6</iata>
+        <icao>\N</icao>
+    </airline>
+    <airline>
+        <airlineid>13936</airlineid>
+        <name>Royal European Airlines</name>
+        <iata>69</iata>
+        <icao>\N</icao>
+    </airline>
+    <airline>
+        <airlineid>13947</airlineid>
+        <name>Tom\\'s &amp; co airliners</name>
+        <iata>&amp;T</iata>
+        <icao>T&amp;O</icao>
+    </airline>
+    <airline>
+        <airlineid>13983</airlineid>
+        <name>Azul</name>
+        <iata>AD</iata>
+        <icao>AZU</icao>
+    </airline>
+    <airline>
+        <airlineid>14061</airlineid>
+        <name>LSM Airlines</name>
+        <iata>PQ</iata>
+        <icao>LOO</icao>
+    </airline>
+    <airline>
+        <airlineid>14069</airlineid>
+        <name>Zapolyarie Airlines</name>
+        <iata></iata>
+        <icao>PZY</icao>
+    </airline>
+    <airline>
+        <airlineid>14073</airlineid>
+        <name>Finlandian</name>
+        <iata></iata>
+        <icao>FN1</icao>
+    </airline>
+    <airline>
+        <airlineid>14094</airlineid>
+        <name>LionXpress</name>
+        <iata>C4</iata>
+        <icao>LIX</icao>
+    </airline>
+    <airline>
+        <airlineid>14118</airlineid>
+        <name>Genesis</name>
+        <iata>GK</iata>
+        <icao>\N</icao>
+    </airline>
+    <airline>
+        <airlineid>14388</airlineid>
+        <name>Congo Express</name>
+        <iata>XZ</iata>
+        <icao>\N</icao>
+    </airline>
+    <airline>
+        <airlineid>14485</airlineid>
+        <name>Fly Dubai</name>
+        <iata>FZ</iata>
+        <icao>FDB</icao>
+    </airline>
+    <airline>
+        <airlineid>14620</airlineid>
+        <name>Domenican Airlines</name>
+        <iata>D1</iata>
+        <icao>MDO</icao>
+    </airline>
+    <airline>
+        <airlineid>14679</airlineid>
+        <name>ConneX European Airline</name>
+        <iata></iata>
+        <icao>2CO</icao>
+    </airline>
+    <airline>
+        <airlineid>14849</airlineid>
+        <name>Aereonautica militare</name>
+        <iata>JY</iata>
+        <icao>AXZ</icao>
+    </airline>
+    <airline>
+        <airlineid>14858</airlineid>
+        <name>Kal Star Aviation</name>
+        <iata></iata>
+        <icao>KLS</icao>
+    </airline>
+    <airline>
+        <airlineid>14881</airlineid>
+        <name>LSM AIRLINES </name>
+        <iata>YZ</iata>
+        <icao>YZZ</icao>
+    </airline>
+    <airline>
+        <airlineid>15814</airlineid>
+        <name>UTair-Express</name>
+        <iata>UR</iata>
+        <icao>\N</icao>
+    </airline>
+    <airline>
+        <airlineid>15837</airlineid>
+        <name>Huaxia</name>
+        <iata>G5</iata>
+        <icao>\N</icao>
+    </airline>
+    <airline>
+        <airlineid>15867</airlineid>
+        <name>Zabaykalskii Airlines</name>
+        <iata>ZP</iata>
+        <icao>ZZZ</icao>
+    </airline>
+    <airline>
+        <airlineid>15887</airlineid>
+        <name>CBM America</name>
+        <iata></iata>
+        <icao>XBM</icao>
+    </airline>
+    <airline>
+        <airlineid>15893</airlineid>
+        <name>Marysya Airlines</name>
+        <iata>M4</iata>
+        <icao>1QA</icao>
+    </airline>
+    <airline>
+        <airlineid>15897</airlineid>
+        <name>N1</name>
+        <iata>N1</iata>
+        <icao>\N</icao>
+    </airline>
+    <airline>
+        <airlineid>15930</airlineid>
+        <name>Airlink (SAA)</name>
+        <iata>4Z</iata>
+        <icao>\N</icao>
+    </airline>
+    <airline>
+        <airlineid>15939</airlineid>
+        <name>Westfalia Express VA</name>
+        <iata></iata>
+        <icao>WFX</icao>
+    </airline>
+    <airline>
+        <airlineid>15953</airlineid>
+        <name>JobAir</name>
+        <iata>3B</iata>
+        <icao>\N</icao>
+    </airline>
+    <airline>
+        <airlineid>15975</airlineid>
+        <name>Black Stallion Airways</name>
+        <iata>BZ</iata>
+        <icao>BSA</icao>
+    </airline>
+    <airline>
+        <airlineid>15984</airlineid>
+        <name>German International Air Lines</name>
+        <iata>GM</iata>
+        <icao>GER</icao>
+    </airline>
+    <airline>
+        <airlineid>15985</airlineid>
+        <name>TrasBrasil</name>
+        <iata>TB</iata>
+        <icao>TBZ</icao>
+    </airline>
+    <airline>
+        <airlineid>15989</airlineid>
+        <name>TransBrasil Airlines</name>
+        <iata>TH</iata>
+        <icao>THS</icao>
+    </airline>
+    <airline>
+        <airlineid>15999</airlineid>
+        <name>China SSS</name>
+        <iata>9C</iata>
+        <icao>\N</icao>
+    </airline>
+    <airline>
+        <airlineid>16084</airlineid>
+        <name>AIR INDOCHINE</name>
+        <iata></iata>
+        <icao>IIA</icao>
+    </airline>
+    <airline>
+        <airlineid>16100</airlineid>
+        <name>Happy Air</name>
+        <iata></iata>
+        <icao>HPY</icao>
+    </airline>
+    <airline>
+        <airlineid>16101</airlineid>
+        <name>Solar Air</name>
+        <iata></iata>
+        <icao>SRB</icao>
+    </airline>
+    <airline>
+        <airlineid>16103</airlineid>
+        <name>Air Mekong</name>
+        <iata>P8</iata>
+        <icao>MKG</icao>
+    </airline>
+    <airline>
+        <airlineid>16110</airlineid>
+        <name>Harbour Air (Priv)</name>
+        <iata>H3</iata>
+        <icao>\N</icao>
+    </airline>
+    <airline>
+        <airlineid>16116</airlineid>
+        <name>Air Hamburg (AHO)</name>
+        <iata>HH</iata>
+        <icao>AHO</icao>
+    </airline>
+    <airline>
+        <airlineid>16120</airlineid>
+        <name>ZABAIKAL AIRLINES</name>
+        <iata>Z6</iata>
+        <icao>ZTT</icao>
+    </airline>
+    <airline>
+        <airlineid>16127</airlineid>
+        <name>TransHolding</name>
+        <iata>TI</iata>
+        <icao>THI</icao>
+    </airline>
+    <airline>
+        <airlineid>16130</airlineid>
+        <name>SUR Lineas Aereas</name>
+        <iata></iata>
+        <icao>SZZ</icao>
+    </airline>
+    <airline>
+        <airlineid>16131</airlineid>
+        <name>Aerolineas Africanas</name>
+        <iata></iata>
+        <icao>AA1</icao>
+    </airline>
+    <airline>
+        <airlineid>16133</airlineid>
+        <name>Yeti Airways</name>
+        <iata>YT</iata>
+        <icao>\N</icao>
+    </airline>
+    <airline>
+        <airlineid>16135</airlineid>
+        <name>Yellowstone Club Private Shuttle</name>
+        <iata>Y1</iata>
+        <icao>\N</icao>
+    </airline>
+    <airline>
+        <airlineid>16136</airlineid>
+        <name>Caucasus Airlines</name>
+        <iata>NS</iata>
+        <icao>\N</icao>
+    </airline>
+    <airline>
+        <airlineid>16139</airlineid>
+        <name>Serbian Airlines</name>
+        <iata>S1</iata>
+        <icao>SA1</icao>
+    </airline>
+    <airline>
+        <airlineid>16149</airlineid>
+        <name>Windward Islands Airways</name>
+        <iata>WM</iata>
+        <icao>\N</icao>
+    </airline>
+    <airline>
+        <airlineid>16150</airlineid>
+        <name>TransHolding System</name>
+        <iata>YO</iata>
+        <icao>TYS</icao>
+    </airline>
+    <airline>
+        <airlineid>16151</airlineid>
+        <name>CCML Airlines</name>
+        <iata>CB</iata>
+        <icao>CCC</icao>
+    </airline>
+    <airline>
+        <airlineid>16198</airlineid>
+        <name>Small Planet Airlines</name>
+        <iata></iata>
+        <icao>ELC</icao>
+    </airline>
+    <airline>
+        <airlineid>16234</airlineid>
+        <name>Fly Brasil</name>
+        <iata>F1</iata>
+        <icao>FBL</icao>
+    </airline>
+    <airline>
+        <airlineid>16261</airlineid>
+        <name>CB Airways UK ( Interliging Flights )</name>
+        <iata>1F</iata>
+        <icao>CIF</icao>
+    </airline>
+    <airline>
+        <airlineid>16262</airlineid>
+        <name>Fly Colombia ( Interliging Flights )</name>
+        <iata>3F</iata>
+        <icao>3FF</icao>
+    </airline>
+    <airline>
+        <airlineid>16264</airlineid>
+        <name>Trans Pas Air</name>
+        <iata>T6</iata>
+        <icao>TP6</icao>
+    </airline>
+    <airline>
+        <airlineid>16273</airlineid>
+        <name>KMV</name>
+        <iata>МИ</iata>
+        <icao>\N</icao>
+    </airline>
+    <airline>
+        <airlineid>16323</airlineid>
+        <name>Himalayan Airlines</name>
+        <iata>HC</iata>
+        <icao>HYM</icao>
+    </airline>
+    <airline>
+        <airlineid>16327</airlineid>
+        <name>Indya Airline Group</name>
+        <iata>G1</iata>
+        <icao>IG1</icao>
+    </airline>
+    <airline>
+        <airlineid>16329</airlineid>
+        <name>Sunwing</name>
+        <iata>WG</iata>
+        <icao>\N</icao>
+    </airline>
+    <airline>
+        <airlineid>16358</airlineid>
+        <name>Turkish Wings Domestic</name>
+        <iata></iata>
+        <icao>TWD</icao>
+    </airline>
+    <airline>
+        <airlineid>16359</airlineid>
+        <name>Japan Regio</name>
+        <iata>ZX</iata>
+        <icao>ZXY</icao>
+    </airline>
+    <airline>
+        <airlineid>16362</airlineid>
+        <name>OCEAN AIR CARGO</name>
+        <iata></iata>
+        <icao>IXO</icao>
+    </airline>
+    <airline>
+        <airlineid>16363</airlineid>
+        <name>Norte Lineas Aereas</name>
+        <iata>N0</iata>
+        <icao>\N</icao>
+    </airline>
+    <airline>
+        <airlineid>16364</airlineid>
+        <name>Austral Brasil</name>
+        <iata>W7</iata>
+        <icao>\N</icao>
+    </airline>
+    <airline>
+        <airlineid>16373</airlineid>
+        <name>PEGASUS AIRLINES-</name>
+        <iata>H9</iata>
+        <icao>\N</icao>
+    </airline>
+    <airline>
+        <airlineid>16409</airlineid>
+        <name>Nihon.jet connect</name>
+        <iata></iata>
+        <icao>NX1</icao>
+    </airline>
+    <airline>
+        <airlineid>16415</airlineid>
+        <name>Camair-co</name>
+        <iata>QC</iata>
+        <icao>\N</icao>
+    </airline>
+    <airline>
+        <airlineid>16459</airlineid>
+        <name>Sky Regional</name>
+        <iata>RS</iata>
+        <icao>\N</icao>
+    </airline>
+    <airline>
+        <airlineid>16507</airlineid>
+        <name>LSM International </name>
+        <iata>II</iata>
+        <icao>UWW</icao>
+    </airline>
+    <airline>
+        <airlineid>16508</airlineid>
+        <name>Baikotovitchestrian Airlines </name>
+        <iata>BU</iata>
+        <icao>BUU</icao>
+    </airline>
+    <airline>
+        <airlineid>16511</airlineid>
+        <name>Luchsh Airlines </name>
+        <iata>L4</iata>
+        <icao>LJJ</icao>
+    </airline>
+    <airline>
+        <airlineid>16556</airlineid>
+        <name>ENTERair</name>
+        <iata></iata>
+        <icao>QQQ</icao>
+    </airline>
+    <airline>
+        <airlineid>16585</airlineid>
+        <name>Air Cargo Germany</name>
+        <iata>6U</iata>
+        <icao>\N</icao>
+    </airline>
+    <airline>
+        <airlineid>16615</airlineid>
+        <name>Mongolian International Air Lines </name>
+        <iata>7M</iata>
+        <icao>ZTF</icao>
+    </airline>
+    <airline>
+        <airlineid>16624</airlineid>
+        <name>Tway Airlines</name>
+        <iata>TW</iata>
+        <icao>TWB</icao>
+    </airline>
+    <airline>
+        <airlineid>16625</airlineid>
+        <name>Papillon Grand Canyon Helicopters</name>
+        <iata>HI</iata>
+        <icao>\N</icao>
+    </airline>
+    <airline>
+        <airlineid>16628</airlineid>
+        <name>Jusur airways</name>
+        <iata>JX</iata>
+        <icao>JSR</icao>
+    </airline>
+    <airline>
+        <airlineid>16645</airlineid>
+        <name>NEXT Brasil</name>
+        <iata>XB</iata>
+        <icao>NXB</icao>
+    </airline>
+    <airline>
+        <airlineid>16660</airlineid>
+        <name>AeroWorld </name>
+        <iata>W4</iata>
+        <icao>WER</icao>
+    </airline>
+    <airline>
+        <airlineid>16695</airlineid>
+        <name>GNB Linhas Aereas</name>
+        <iata>GN</iata>
+        <icao>\N</icao>
+    </airline>
+    <airline>
+        <airlineid>16702</airlineid>
+        <name>Usa Sky Cargo</name>
+        <iata>E1</iata>
+        <icao>ES2</icao>
+    </airline>
+    <airline>
+        <airlineid>16707</airlineid>
+        <name>Hankook Airline</name>
+        <iata>HN</iata>
+        <icao>HNX</icao>
+    </airline>
+    <airline>
+        <airlineid>16717</airlineid>
+        <name>REDjet</name>
+        <iata>Z7</iata>
+        <icao>\N</icao>
+    </airline>
+    <airline>
+        <airlineid>16720</airlineid>
+        <name>Red Jet Andes</name>
+        <iata>PT</iata>
+        <icao>\N</icao>
+    </airline>
+    <airline>
+        <airlineid>16721</airlineid>
+        <name>Red Jet Canada</name>
+        <iata>QY</iata>
+        <icao>\N</icao>
+    </airline>
+    <airline>
+        <airlineid>16723</airlineid>
+        <name>Sprintair</name>
+        <iata></iata>
+        <icao>SRN</icao>
+    </airline>
+    <airline>
+        <airlineid>16724</airlineid>
+        <name>Red Jet Mexico</name>
+        <iata>4X</iata>
+        <icao>\N</icao>
+    </airline>
+    <airline>
+        <airlineid>16725</airlineid>
+        <name>Marusya Airways</name>
+        <iata>Y8</iata>
+        <icao>MRS</icao>
+    </airline>
+    <airline>
+        <airlineid>16726</airlineid>
+        <name>Era Alaska</name>
+        <iata>7H</iata>
+        <icao>ERR</icao>
+    </airline>
+    <airline>
+        <airlineid>16728</airlineid>
+        <name>AirRussia</name>
+        <iata>R8</iata>
+        <icao>RRJ</icao>
+    </airline>
+    <airline>
+        <airlineid>16735</airlineid>
+        <name>Hankook Air US</name>
+        <iata>H1</iata>
+        <icao>HA1</icao>
+    </airline>
+    <airline>
+        <airlineid>16794</airlineid>
+        <name>Carpatair Flight Training</name>
+        <iata></iata>
+        <icao>SMW</icao>
+    </airline>
+    <airline>
+        <airlineid>16796</airlineid>
+        <name>I-Fly</name>
+        <iata>H5</iata>
+        <icao>RSY</icao>
+    </airline>
+    <airline>
+        <airlineid>16826</airlineid>
+        <name>Whitejets</name>
+        <iata></iata>
+        <icao>WTJ</icao>
+    </airline>
+    <airline>
+        <airlineid>16837</airlineid>
+        <name>VickJet</name>
+        <iata>KT</iata>
+        <icao>VKJ</icao>
+    </airline>
+    <airline>
+        <airlineid>16844</airlineid>
+        <name>BVI Airways</name>
+        <iata>XV</iata>
+        <icao>\N</icao>
+    </airline>
+    <airline>
+        <airlineid>16858</airlineid>
+        <name>Hamburg Airways</name>
+        <iata></iata>
+        <icao>HAY</icao>
+    </airline>
+    <airline>
+        <airlineid>16860</airlineid>
+        <name>Salsa d\\'Haiti</name>
+        <iata>SO</iata>
+        <icao>SLC</icao>
+    </airline>
+    <airline>
+        <airlineid>16867</airlineid>
+        <name>Zambezi Airlines (ZMA)</name>
+        <iata>ZJ</iata>
+        <icao>\N</icao>
+    </airline>
+    <airline>
+        <airlineid>16868</airlineid>
+        <name>Kan Air</name>
+        <iata></iata>
+        <icao>KND</icao>
+    </airline>
+    <airline>
+        <airlineid>16881</airlineid>
+        <name>Air Cudlua</name>
+        <iata></iata>
+        <icao>CUD</icao>
+    </airline>
+    <airline>
+        <airlineid>16882</airlineid>
+        <name>Polet Airlines (Priv)</name>
+        <iata>YQ</iata>
+        <icao>\N</icao>
+    </airline>
+    <airline>
+        <airlineid>16895</airlineid>
+        <name>Air Explore</name>
+        <iata></iata>
+        <icao>AXE</icao>
+    </airline>
+    <airline>
+        <airlineid>16901</airlineid>
+        <name>12 North</name>
+        <iata>12</iata>
+        <icao>N12</icao>
+    </airline>
+    <airline>
+        <airlineid>16919</airlineid>
+        <name>Holidays Czech Airlines</name>
+        <iata></iata>
+        <icao>HCC</icao>
+    </airline>
+    <airline>
+        <airlineid>16921</airlineid>
+        <name>Comtel Air</name>
+        <iata></iata>
+        <icao>COE</icao>
+    </airline>
+    <airline>
+        <airlineid>16926</airlineid>
+        <name>Mint Airways</name>
+        <iata></iata>
+        <icao>MIC</icao>
+    </airline>
+    <airline>
+        <airlineid>16932</airlineid>
+        <name>Orbit Airlines</name>
+        <iata></iata>
+        <icao>OBT</icao>
+    </airline>
+    <airline>
+        <airlineid>16939</airlineid>
+        <name>Air Bucharest</name>
+        <iata></iata>
+        <icao>BUR</icao>
+    </airline>
+    <airline>
+        <airlineid>16940</airlineid>
+        <name>AlbaStar</name>
+        <iata></iata>
+        <icao>LAV</icao>
+    </airline>
+    <airline>
+        <airlineid>16942</airlineid>
+        <name>Mauritania Airlines International</name>
+        <iata>L6</iata>
+        <icao>MAI</icao>
+    </airline>
+    <airline>
+        <airlineid>16956</airlineid>
+        <name>MAT Airways</name>
+        <iata>6F</iata>
+        <icao>MKD</icao>
+    </airline>
+    <airline>
+        <airlineid>16960</airlineid>
+        <name>Asian Wings Airways</name>
+        <iata>AW</iata>
+        <icao>AWM</icao>
+    </airline>
+    <airline>
+        <airlineid>16963</airlineid>
+        <name>Air Arabia Egypt</name>
+        <iata>E5</iata>
+        <icao>RBG</icao>
+    </airline>
+    <airline>
+        <airlineid>16967</airlineid>
+        <name>Eagles Airlines</name>
+        <iata></iata>
+        <icao>EGS</icao>
+    </airline>
+    <airline>
+        <airlineid>16973</airlineid>
+        <name>YES Airways</name>
+        <iata></iata>
+        <icao>YEP</icao>
+    </airline>
+    <airline>
+        <airlineid>16975</airlineid>
+        <name>Alitalia Cityliner</name>
+        <iata>CT</iata>
+        <icao>\N</icao>
+    </airline>
+    <airline>
+        <airlineid>16983</airlineid>
+        <name>Direct Aero Services</name>
+        <iata></iata>
+        <icao>DSV</icao>
+    </airline>
+    <airline>
+        <airlineid>16985</airlineid>
+        <name>Medallion Air</name>
+        <iata></iata>
+        <icao>MDP</icao>
+    </airline>
+    <airline>
+        <airlineid>17022</airlineid>
+        <name>Orchid Airlines</name>
+        <iata>OI</iata>
+        <icao>ORC</icao>
+    </airline>
+    <airline>
+        <airlineid>17023</airlineid>
+        <name>Asia Wings</name>
+        <iata>Y5</iata>
+        <icao>AWA</icao>
+    </airline>
+    <airline>
+        <airlineid>17026</airlineid>
+        <name>Georgian International Airlines</name>
+        <iata></iata>
+        <icao>GNN</icao>
+    </airline>
+    <airline>
+        <airlineid>17027</airlineid>
+        <name>Air Batumi</name>
+        <iata></iata>
+        <icao>BTM</icao>
+    </airline>
+    <airline>
+        <airlineid>17082</airlineid>
+        <name>Skywest Australia</name>
+        <iata>XR</iata>
+        <icao>\N</icao>
+    </airline>
+    <airline>
+        <airlineid>17083</airlineid>
+        <name>Nile Air</name>
+        <iata>NP</iata>
+        <icao>NIA</icao>
+    </airline>
+    <airline>
+        <airlineid>17086</airlineid>
+        <name>Feeder Airlines</name>
+        <iata></iata>
+        <icao>FDD</icao>
+    </airline>
+    <airline>
+        <airlineid>17094</airlineid>
+        <name>Senegal Airlines</name>
+        <iata>DN</iata>
+        <icao>SGG</icao>
+    </airline>
+    <airline>
+        <airlineid>17095</airlineid>
+        <name>Fly 6ix</name>
+        <iata>6I</iata>
+        <icao>\N</icao>
+    </airline>
+    <airline>
+        <airlineid>17099</airlineid>
+        <name>Starbow Airlines</name>
+        <iata>S9</iata>
+        <icao>\N</icao>
+    </airline>
+    <airline>
+        <airlineid>17115</airlineid>
+        <name>Copenhagen Express</name>
+        <iata>0X</iata>
+        <icao>CX0</icao>
+    </airline>
+    <airline>
+        <airlineid>17408</airlineid>
+        <name>BusinessAir</name>
+        <iata>8B</iata>
+        <icao>BCC</icao>
+    </airline>
+    <airline>
+        <airlineid>17519</airlineid>
+        <name>SENIC AIRLINES</name>
+        <iata>YR</iata>
+        <icao>\N</icao>
+    </airline>
+    <airline>
+        <airlineid>17563</airlineid>
+        <name>XOJET</name>
+        <iata></iata>
+        <icao>XOJ</icao>
+    </airline>
+    <airline>
+        <airlineid>17571</airlineid>
+        <name>Sky Wing Pacific</name>
+        <iata>C7</iata>
+        <icao>CR7</icao>
+    </airline>
+    <airline>
+        <airlineid>17572</airlineid>
+        <name>Bateleur Air</name>
+        <iata></iata>
+        <icao>BEU</icao>
+    </airline>
+    <airline>
+        <airlineid>17574</airlineid>
+        <name>Air Indus</name>
+        <iata>PP</iata>
+        <icao>AI0</icao>
+    </airline>
+    <airline>
+        <airlineid>17628</airlineid>
+        <name>Orbit International Airlines</name>
+        <iata></iata>
+        <icao>OAI</icao>
+    </airline>
+    <airline>
+        <airlineid>17629</airlineid>
+        <name>Orbit Regional Airlines</name>
+        <iata></iata>
+        <icao>OAR</icao>
+    </airline>
+    <airline>
+        <airlineid>17630</airlineid>
+        <name>Orbit Atlantic Airways</name>
+        <iata></iata>
+        <icao>OAN</icao>
+    </airline>
+    <airline>
+        <airlineid>17658</airlineid>
+        <name>Volotea</name>
+        <iata></iata>
+        <icao>VOO</icao>
+    </airline>
+    <airline>
+        <airlineid>17675</airlineid>
+        <name>Peach Aviation</name>
+        <iata>MM</iata>
+        <icao>\N</icao>
+    </airline>
+    <airline>
+        <airlineid>17694</airlineid>
+        <name>Helitt Líneas Aéreas</name>
+        <iata></iata>
+        <icao>HTH</icao>
+    </airline>
+    <airline>
+        <airlineid>17695</airlineid>
+        <name>Russia State Transport</name>
+        <iata></iata>
+        <icao>RSD</icao>
+    </airline>
+    <airline>
+        <airlineid>17726</airlineid>
+        <name>Malaysia Wings</name>
+        <iata></iata>
+        <icao>MWI</icao>
+    </airline>
+    <airline>
+        <airlineid>17750</airlineid>
+        <name>Aviabus</name>
+        <iata>U1</iata>
+        <icao>ABI</icao>
+    </airline>
+    <airline>
+        <airlineid>17780</airlineid>
+        <name>Michael Airlines</name>
+        <iata>DF</iata>
+        <icao>MJG</icao>
+    </airline>
+    <airline>
+        <airlineid>17786</airlineid>
+        <name>Korongo Airlines</name>
+        <iata>ZC</iata>
+        <icao>KGO</icao>
+    </airline>
+    <airline>
+        <airlineid>17794</airlineid>
+        <name>Indonesia Sky</name>
+        <iata>I5</iata>
+        <icao>IDS</icao>
+    </airline>
+    <airline>
+        <airlineid>17841</airlineid>
+        <name>Aws express</name>
+        <iata>B0</iata>
+        <icao>666</icao>
+    </airline>
+    <airline>
+        <airlineid>17859</airlineid>
+        <name>Southjet</name>
+        <iata>76</iata>
+        <icao>SJS</icao>
+    </airline>
+    <airline>
+        <airlineid>17860</airlineid>
+        <name>Southjet connect</name>
+        <iata>77</iata>
+        <icao>ZCS</icao>
+    </airline>
+    <airline>
+        <airlineid>17862</airlineid>
+        <name>Southjet cargo</name>
+        <iata>78</iata>
+        <icao>XAN</icao>
+    </airline>
+    <airline>
+        <airlineid>17881</airlineid>
+        <name>Iberia Express</name>
+        <iata>I2</iata>
+        <icao>IBS</icao>
+    </airline>
+    <airline>
+        <airlineid>17885</airlineid>
+        <name>Interjet (ABC Aerolineas)</name>
+        <iata>4O</iata>
+        <icao>\N</icao>
+    </airline>
+    <airline>
+        <airlineid>17889</airlineid>
+        <name>AirOnix</name>
+        <iata>OG</iata>
+        <icao>\N</icao>
+    </airline>
+    <airline>
+        <airlineid>17890</airlineid>
+        <name>Nordic Global Airlines</name>
+        <iata>NJ</iata>
+        <icao>NGB</icao>
+    </airline>
+    <airline>
+        <airlineid>17891</airlineid>
+        <name>Scoot</name>
+        <iata>TZ</iata>
+        <icao>SCO</icao>
+    </airline>
+    <airline>
+        <airlineid>17909</airlineid>
+        <name>Hi Fly (5K)</name>
+        <iata>5K</iata>
+        <icao>\N</icao>
+    </airline>
+    <airline>
+        <airlineid>17911</airlineid>
+        <name>China Northwest Airlines (WH)</name>
+        <iata>WH</iata>
+        <icao>\N</icao>
+    </airline>
+    <airline>
+        <airlineid>17935</airlineid>
+        <name>Zenith International Airline</name>
+        <iata>ZN</iata>
+        <icao>ZNA</icao>
+    </airline>
+    <airline>
+        <airlineid>17936</airlineid>
+        <name>Orbit Airlines Azerbaijan</name>
+        <iata>O1</iata>
+        <icao>OAB</icao>
+    </airline>
+    <airline>
+        <airlineid>17989</airlineid>
+        <name>Air Alps Aviation (A6)</name>
+        <iata>A6</iata>
+        <icao>\N</icao>
+    </airline>
+    <airline>
+        <airlineid>18076</airlineid>
+        <name>Flying kangaroo Airline</name>
+        <iata></iata>
+        <icao>FKA</icao>
+    </airline>
+    <airline>
+        <airlineid>18083</airlineid>
+        <name>RusJet</name>
+        <iata></iata>
+        <icao>RSJ</icao>
+    </airline>
+    <airline>
+        <airlineid>18118</airlineid>
+        <name>VietJet Air</name>
+        <iata></iata>
+        <icao>VJC</icao>
+    </airline>
+    <airline>
+        <airlineid>18169</airlineid>
+        <name>Patriot Airways</name>
+        <iata>P4</iata>
+        <icao>\N</icao>
+    </airline>
+    <airline>
+        <airlineid>18178</airlineid>
+        <name>Vision Airlines (V2)</name>
+        <iata>V2</iata>
+        <icao>RBY</icao>
+    </airline>
+    <airline>
+        <airlineid>18232</airlineid>
+        <name>BQB Lineas Aereas</name>
+        <iata>5Q</iata>
+        <icao>\N</icao>
+    </airline>
+    <airline>
+        <airlineid>18237</airlineid>
+        <name>AirAsia Japan</name>
+        <iata></iata>
+        <icao>WAJ</icao>
+    </airline>
+    <airline>
+        <airlineid>18239</airlineid>
+        <name>Yellowtail</name>
+        <iata>YE</iata>
+        <icao>YEL</icao>
+    </airline>
+    <airline>
+        <airlineid>18241</airlineid>
+        <name>Royal Airways</name>
+        <iata>KG</iata>
+        <icao>RAW</icao>
+    </airline>
+    <airline>
+        <airlineid>18252</airlineid>
+        <name>FlyHigh Airlines Ireland (FH)</name>
+        <iata>FH</iata>
+        <icao>FHI</icao>
+    </airline>
+    <airline>
+        <airlineid>18257</airlineid>
+        <name>Executive AirShare</name>
+        <iata></iata>
+        <icao>XSR</icao>
+    </airline>
+    <airline>
+        <airlineid>18475</airlineid>
+        <name>Hebei Airlines</name>
+        <iata></iata>
+        <icao>HBH</icao>
+    </airline>
+    <airline>
+        <airlineid>18476</airlineid>
+        <name>Air KBZ</name>
+        <iata></iata>
+        <icao>KBZ</icao>
+    </airline>
+    <airline>
+        <airlineid>18477</airlineid>
+        <name>Aero VIP (2D)</name>
+        <iata>2D</iata>
+        <icao>\N</icao>
+    </airline>
+    <airline>
+        <airlineid>18497</airlineid>
+        <name>Yangon Airways Ltd.</name>
+        <iata>YH</iata>
+        <icao>\N</icao>
+    </airline>
+    <airline>
+        <airlineid>18529</airlineid>
+        <name>T.J. Air</name>
+        <iata>TJ</iata>
+        <icao>TJA</icao>
+    </airline>
+    <airline>
+        <airlineid>18543</airlineid>
+        <name>SkyWork Airlines </name>
+        <iata>SX</iata>
+        <icao>\N</icao>
+    </airline>
+    <airline>
+        <airlineid>18553</airlineid>
+        <name>Maastricht Airlines</name>
+        <iata>W2</iata>
+        <icao>\N</icao>
+    </airline>
+    <airline>
+        <airlineid>18617</airlineid>
+        <name>Euro Jet</name>
+        <iata>24</iata>
+        <icao>\N</icao>
+    </airline>
+    <airline>
+        <airlineid>18621</airlineid>
+        <name>Ukraine Atlantic</name>
+        <iata></iata>
+        <icao>UAT</icao>
+    </airline>
+    <airline>
+        <airlineid>18668</airlineid>
+        <name>Nesma Airlines</name>
+        <iata></iata>
+        <icao>NMA</icao>
+    </airline>
+    <airline>
+        <airlineid>18672</airlineid>
+        <name>East Horizon</name>
+        <iata></iata>
+        <icao>EHN</icao>
+    </airline>
+    <airline>
+        <airlineid>18676</airlineid>
+        <name>Air Majoro</name>
+        <iata></iata>
+        <icao>MJP</icao>
+    </airline>
+    <airline>
+        <airlineid>18692</airlineid>
+        <name>Rotana Jet</name>
+        <iata></iata>
+        <icao>RJD</icao>
+    </airline>
+    <airline>
+        <airlineid>18700</airlineid>
+        <name>SOCHI AIR CHATER</name>
+        <iata>Q3</iata>
+        <icao>QER</icao>
+    </airline>
+    <airline>
+        <airlineid>18702</airlineid>
+        <name>Denim Air </name>
+        <iata>J7</iata>
+        <icao>\N</icao>
+    </airline>
+    <airline>
+        <airlineid>18732</airlineid>
+        <name>Malindo Air</name>
+        <iata>OD</iata>
+        <icao>MXD</icao>
+    </airline>
+    <airline>
+        <airlineid>18781</airlineid>
+        <name>Hermes Airlines</name>
+        <iata></iata>
+        <icao>HRM</icao>
+    </airline>
+    <airline>
+        <airlineid>18825</airlineid>
+        <name>Flightlink Tanzania</name>
+        <iata>Z9</iata>
+        <icao>\N</icao>
+    </airline>
+    <airline>
+        <airlineid>18828</airlineid>
+        <name>IzAvia</name>
+        <iata>I8</iata>
+        <icao>\N</icao>
+    </airline>
+    <airline>
+        <airlineid>18860</airlineid>
+        <name>Катэкавиа</name>
+        <iata></iata>
+        <icao>КТК</icao>
+    </airline>
+    <airline>
+        <airlineid>18863</airlineid>
+        <name>Псковавиа</name>
+        <iata></iata>
+        <icao>PKV</icao>
+    </airline>
+    <airline>
+        <airlineid>18930</airlineid>
+        <name>Maryland Air</name>
+        <iata>M1</iata>
+        <icao>M1F</icao>
+    </airline>
+    <airline>
+        <airlineid>18944</airlineid>
+        <name>Insel Air (7I/INC) (Priv)</name>
+        <iata>7I</iata>
+        <icao>\N</icao>
+    </airline>
+    <airline>
+        <airlineid>18946</airlineid>
+        <name>VivaColombia</name>
+        <iata>5Z</iata>
+        <icao>VVC</icao>
+    </airline>
+    <airline>
+        <airlineid>18952</airlineid>
+        <name>Flybe Finland Oy</name>
+        <iata></iata>
+        <icao>FCM</icao>
+    </airline>
+    <airline>
+        <airlineid>18959</airlineid>
+        <name>Bingo Airways</name>
+        <iata></iata>
+        <icao>BGY</icao>
+    </airline>
+    <airline>
+        <airlineid>19007</airlineid>
+        <name>Bluebird Airways (BZ)</name>
+        <iata></iata>
+        <icao>BBG</icao>
+    </airline>
+    <airline>
+        <airlineid>19016</airlineid>
+        <name>Apache Air</name>
+        <iata>ZM</iata>
+        <icao>IWA</icao>
+    </airline>
+    <airline>
+        <airlineid>19026</airlineid>
+        <name>MHS Aviation GmbH</name>
+        <iata>M2</iata>
+        <icao>\N</icao>
+    </airline>
+    <airline>
+        <airlineid>19030</airlineid>
+        <name>Jettor Airlines</name>
+        <iata>NR</iata>
+        <icao>JTO</icao>
+    </airline>
+    <airline>
+        <airlineid>19215</airlineid>
+        <name>Flyme (VP)</name>
+        <iata></iata>
+        <icao>VQI</icao>
+    </airline>
+    <airline>
+        <airlineid>19225</airlineid>
+        <name>Thai Lion Air</name>
+        <iata>SL</iata>
+        <icao>\N</icao>
+    </airline>
+    <airline>
+        <airlineid>19244</airlineid>
+        <name>Golden Myanmar Airlines</name>
+        <iata></iata>
+        <icao>GMR</icao>
+    </airline>
+    <airline>
+        <airlineid>19276</airlineid>
+        <name>Canaryfly</name>
+        <iata></iata>
+        <icao>CNF</icao>
+    </airline>
+    <airline>
+        <airlineid>19280</airlineid>
+        <name>Sunrise Airways</name>
+        <iata></iata>
+        <icao>KSZ</icao>
+    </airline>
+    <airline>
+        <airlineid>19287</airlineid>
+        <name>National Air Cargo</name>
+        <iata>N8</iata>
+        <icao>NCR</icao>
+    </airline>
+    <airline>
+        <airlineid>19290</airlineid>
+        <name>Eastern Atlantic Virtual Airlines</name>
+        <iata>13</iata>
+        <icao>EAV</icao>
+    </airline>
+    <airline>
+        <airlineid>19305</airlineid>
+        <name>Citilink Indonesia</name>
+        <iata>QG</iata>
+        <icao>\N</icao>
+    </airline>
+    <airline>
+        <airlineid>19337</airlineid>
+        <name>Transair</name>
+        <iata></iata>
+        <icao>TTZ</icao>
+    </airline>
+    <airline>
+        <airlineid>19350</airlineid>
+        <name>Comfort Express Virtual Charters Albany</name>
+        <iata></iata>
+        <icao>EVC</icao>
+    </airline>
+    <airline>
+        <airlineid>19351</airlineid>
+        <name>Comfort Express Virtual Charters</name>
+        <iata></iata>
+        <icao>CEO</icao>
+    </airline>
+    <airline>
+        <airlineid>19359</airlineid>
+        <name>FLYJET</name>
+        <iata></iata>
+        <icao>FYJ</icao>
+    </airline>
+    <airline>
+        <airlineid>19361</airlineid>
+        <name>Snowbird Airlines</name>
+        <iata>S8</iata>
+        <icao>SBD</icao>
+    </airline>
+    <airline>
+        <airlineid>19363</airlineid>
+        <name>Russkie Krylya</name>
+        <iata></iata>
+        <icao>KRY</icao>
+    </airline>
+    <airline>
+        <airlineid>19367</airlineid>
+        <name>Kharkiv Airlines</name>
+        <iata>KH</iata>
+        <icao>KHK</icao>
+    </airline>
+    <airline>
+        <airlineid>19433</airlineid>
+        <name>XAIR USA</name>
+        <iata>XA</iata>
+        <icao>XAU</icao>
+    </airline>
+    <airline>
+        <airlineid>19451</airlineid>
+        <name>Air Costa</name>
+        <iata>LB</iata>
+        <icao>\N</icao>
+    </airline>
+    <airline>
+        <airlineid>19459</airlineid>
+        <name>Simrik Airlines</name>
+        <iata></iata>
+        <icao>RMK</icao>
+    </airline>
+    <airline>
+        <airlineid>19473</airlineid>
+        <name>XPTO</name>
+        <iata>XP</iata>
+        <icao>XPT</icao>
+    </airline>
+    <airline>
+        <airlineid>19474</airlineid>
+        <name>Royal Flight</name>
+        <iata></iata>
+        <icao>DME</icao>
+    </airline>
+    <airline>
+        <airlineid>19525</airlineid>
+        <name>BBN-Airways</name>
+        <iata></iata>
+        <icao>EGH</icao>
+    </airline>
+    <airline>
+        <airlineid>19531</airlineid>
+        <name>Tomsk-Avia</name>
+        <iata></iata>
+        <icao>TKS</icao>
+    </airline>
+    <airline>
+        <airlineid>19541</airlineid>
+        <name>Malawian Airlines</name>
+        <iata>3W</iata>
+        <icao>\N</icao>
+    </airline>
+    <airline>
+        <airlineid>19548</airlineid>
+        <name>Yeti Airlines </name>
+        <iata></iata>
+        <icao>NYT</icao>
+    </airline>
+    <airline>
+        <airlineid>19567</airlineid>
+        <name>Avilu</name>
+        <iata>..</iata>
+        <icao>...</icao>
+    </airline>
+    <airline>
+        <airlineid>19599</airlineid>
+        <name>Skyline Ulasim Ticaret A.S.</name>
+        <iata></iata>
+        <icao>KCU</icao>
+    </airline>
+    <airline>
+        <airlineid>19619</airlineid>
+        <name>Envoy Air</name>
+        <iata></iata>
+        <icao>ENY</icao>
+    </airline>
+    <airline>
+        <airlineid>19651</airlineid>
+        <name>CARICOM AIRWAYS (BARBADOS) INC.</name>
+        <iata></iata>
+        <icao>CCB</icao>
+    </airline>
+    <airline>
+        <airlineid>19674</airlineid>
+        <name>Rainbow Air (RAI)</name>
+        <iata>RN</iata>
+        <icao>RAB</icao>
+    </airline>
+    <airline>
+        <airlineid>19675</airlineid>
+        <name>Rainbow Air Canada</name>
+        <iata>RY</iata>
+        <icao>RAY</icao>
+    </airline>
+    <airline>
+        <airlineid>19676</airlineid>
+        <name>Rainbow Air Polynesia</name>
+        <iata>RX</iata>
+        <icao>RPO</icao>
+    </airline>
+    <airline>
+        <airlineid>19677</airlineid>
+        <name>Rainbow Air Euro</name>
+        <iata>RU</iata>
+        <icao>RUE</icao>
+    </airline>
+    <airline>
+        <airlineid>19678</airlineid>
+        <name>Rainbow Air US</name>
+        <iata>RM</iata>
+        <icao>RNY</icao>
+    </airline>
+    <airline>
+        <airlineid>19745</airlineid>
+        <name>Transilvania</name>
+        <iata></iata>
+        <icao>TNS</icao>
+    </airline>
+    <airline>
+        <airlineid>19751</airlineid>
+        <name>Dobrolet</name>
+        <iata>QD</iata>
+        <icao>DOB</icao>
+    </airline>
+    <airline>
+        <airlineid>19774</airlineid>
+        <name>Spike Airlines</name>
+        <iata>S0</iata>
+        <icao>SAL</icao>
+    </airline>
+    <airline>
+        <airlineid>19776</airlineid>
+        <name>Grand Cru Airlines</name>
+        <iata></iata>
+        <icao>GCA</icao>
+    </airline>
+    <airline>
+        <airlineid>19785</airlineid>
+        <name>Go2Sky</name>
+        <iata></iata>
+        <icao>RLX</icao>
+    </airline>
+    <airline>
+        <airlineid>19803</airlineid>
+        <name>All Argentina</name>
+        <iata>L1</iata>
+        <icao>AL1</icao>
+    </airline>
+    <airline>
+        <airlineid>19804</airlineid>
+        <name>All America</name>
+        <iata>A2</iata>
+        <icao>AL2</icao>
+    </airline>
+    <airline>
+        <airlineid>19805</airlineid>
+        <name>All Asia</name>
+        <iata>L9</iata>
+        <icao>AL3</icao>
+    </airline>
+    <airline>
+        <airlineid>19806</airlineid>
+        <name>All Africa</name>
+        <iata>9A</iata>
+        <icao>99F</icao>
+    </airline>
+    <airline>
+        <airlineid>19807</airlineid>
+        <name>Regionalia México</name>
+        <iata>N4</iata>
+        <icao>J88</icao>
+    </airline>
+    <airline>
+        <airlineid>19808</airlineid>
+        <name>All Europe</name>
+        <iata>N9</iata>
+        <icao>N99</icao>
+    </airline>
+    <airline>
+        <airlineid>19809</airlineid>
+        <name>All Spain</name>
+        <iata>N7</iata>
+        <icao>N77</icao>
+    </airline>
+    <airline>
+        <airlineid>19810</airlineid>
+        <name>Regional Air Iceland</name>
+        <iata>9N</iata>
+        <icao>N78</icao>
+    </airline>
+    <airline>
+        <airlineid>19812</airlineid>
+        <name>Voestar</name>
+        <iata>8K</iata>
+        <icao>K88</icao>
+    </airline>
+    <airline>
+        <airlineid>19813</airlineid>
+        <name>All Colombia</name>
+        <iata>7O</iata>
+        <icao>7KK</icao>
+    </airline>
+    <airline>
+        <airlineid>19814</airlineid>
+        <name>Regionalia Uruguay</name>
+        <iata>2X</iata>
+        <icao>2K2</icao>
+    </airline>
+    <airline>
+        <airlineid>19815</airlineid>
+        <name>Regionalia Venezuela</name>
+        <iata>9X</iata>
+        <icao>9XX</icao>
+    </airline>
+    <airline>
+        <airlineid>19827</airlineid>
+        <name>Regionalia Chile</name>
+        <iata>9J</iata>
+        <icao>CR1</icao>
+    </airline>
+    <airline>
+        <airlineid>19828</airlineid>
+        <name>Vuela Cuba</name>
+        <iata>6C</iata>
+        <icao>6CC</icao>
+    </airline>
+    <airline>
+        <airlineid>19830</airlineid>
+        <name>All Australia</name>
+        <iata>88</iata>
+        <icao>8K8</icao>
+    </airline>
+    <airline>
+        <airlineid>19831</airlineid>
+        <name>Fly Europa</name>
+        <iata>ER</iata>
+        <icao>RWW</icao>
+    </airline>
+    <airline>
+        <airlineid>19834</airlineid>
+        <name>FlyPortugal</name>
+        <iata>PO</iata>
+        <icao>FPT</icao>
+    </airline>
+</airlines>
